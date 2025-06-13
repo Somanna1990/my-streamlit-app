@@ -1,0 +1,2853 @@
+[Page 1]
+Month Year 
+
+March 2025  
+
+General Guidance on the Consumer 
+Protection Code  
+[Contains 1 images/figures]
+
+
+[Page 2]
+ 
+
+2 
+ 
+
+Table of Contents 
+
+Section - 1 Introduction ................................................................ 4  
+
+1.1.  
+Overview ............................................................................................ 4  
+
+1.2.  
+Scope and Application .................................................................... 6  
+
+1.3.  
+Definitions and Terminology ........................................................ 8  
+
+1.4.  
+Assessing Compliance ................................................................. 10  
+
+1.5.  
+Data Protection Obligations ..................................................... 11  
+
+Section - 2 Guidance on Standards for Business Regulations 
+12  
+
+2.2.  
+Informing Effectively ................................................................... 12  
+
+2.3.  
+Unregulated Activities ................................................................ 23  
+
+2.4.  
+Financial Abuse ............................................................................. 26  
+
+Section - 3 Guidance on the Consumer Protection Regulations 28  
+
+3.2.  
+Knowing the Consumer and Suitability .................................. 28  
+
+3.3.  
+Sustainability Preferences ......................................................... 28  
+
+3.4.  
+Conflicts of Interest and Information about Remuneration30  
+
+3.5.  
+Digitalisation .................................................................................. 31  
+
+3.6.  
+Regulatory Disclosure Statements .......................................... 39  
+
+3.7.  
+Advertising ..................................................................................... 40  
+
+3.8.  
+Errors Resolution .......................................................................... 45  
+
+3.9.  
+Complaints Resolution ................................................................ 46  
+
+3.10.  
+Specific Requirements for Credit Institutions .................. 47  
+
+3.11.  
+Specific Guidance for the Insurance Sector ...................... 50  
+
+ 
+
+ 
+ 
+
+[Page 3]
+ 
+
+3 
+ 
+
+Table of examples 
+Box 1: Filtering .........................................................................................................................................................35  
+Box 2: Durable mediums ......................................................................................................................................36  
+Box 3: Provision of financial services through digital platforms - supporting good online 
+decision making ........................................................................................................................................................37  
+Box 5: Price specific advertising and qualifying criteria .........................................................................45  
+Box 6: Potential pre renewal notification wording ...................................................................................51  
+ 
+Table of case studies 
+Case Study 1 – Marketing and Advertising of Investment Products .................................................14  
+Case Study 2 - How to inform effectively –appropriate delivery channel and timing ................17  
+Case Study 3 - informing effectively to increase engagement and impact .....................................19  
+Case Study 4 - informing effectively to drive action by customers –Home Insurance Market
+ .........................................................................................................................................................................................22  
+ 
+ 
+
+[Page 4]
+ 
+
+4 
+ 
+
+Section - 1   Introduction  
+
+1.1.   Overview  
+
+1.1.1  
+The Consumer Protection Code (the Code) is made up of a number of components 
+including Standards for Business Regulations, Consumer Protection Regulations 
+(comprising cross-sectoral and sector specific requirements) and guidance, as 
+illustrated in the infographic below.  
+
+ 
+
+Figure 1 Consumer Protection Code Components Source: Central Bank of Ireland  
+
+1.1.2  
+The Standards for Business and cross-sectoral and sector specific requirements 
+are set out in two Central Bank Regulations:  
+
+•   Central Bank Reform Act 2010 (Section 17A) (Standards For Business) 
+Regulations 2025 (S.I. No. 80 of 2025) (‘the Standards For Business 
+Regulations’)  
+
+[IMAGE BLOCK]
+[Contains 1 images/figures]
+
+
+[Page 5]
+ 
+
+5 
+ 
+
+•   Central Bank (Supervision and Enforcement) Act 2013 (Section 48) (Consumer 
+Protection) Regulations 2025 (S.I. No. 81 of 2025) (‘the Consumer Protection 
+Regulations’).  
+
+1.1.3  
+The Standards for Business Regulations set out governance, resource and risk 
+management requirements for firms. They also set out conduct standards for firms. 
+These are complemented by Supporting Standards for Business which provide 
+further detail on firms’ obligations. The Standards for Business and Supporting 
+Standards for Business addressing securing customers' interests and financial 
+abuse, will only apply to firms when doing business with individuals and small 
+businesses. All other Standards for Business and Supporting Standards for 
+Business will apply to the regulated business of firms conducted with all 
+customers. 
+
+1.1.4  
+The Consumer Protection Regulations set out cross-sectoral requirements 
+applying across all sectors, and other sector specific requirements applying to the 
+provision of Consumer Banking, Credit and Arrears, Insurance and Investments. 
+These requirements apply to the regulated business of firms conducted with 
+customers who meet the definition of ‘consumer’ i.e. individuals and small 
+businesses. These Regulations also consolidate a number of existing conduct 
+regulations and codes, issued by the Central Bank, into one set of regulations. 
+
+1.1.5  
+The Code is further complemented by this Guidance, Guidance on Protecting 
+Consumers in Vulnerable Circumstances and Guidance on Securing Customers’ 
+Interests. 1  
+
+1.1.6  
+The purpose of this General Guidance (the Guidance) is to support firms to 
+effectively implement their consumer protection obligations and can be utilised by 
+firms to build on their understanding on how to implement the requirements set 
+out in the Standards for Business Regulations and the Consumer Protection 
+Regulations.  
+
+1.1.7  
+This Guidance consolidates the following guidance:  
+
+•   Consumer Protection Code Guidance 2012 2 ; and 
+
+                                                                 
+1  Central Bank Reform Act 2010 (Section 17A) (Standards For Business) Regulations 2025 (S.I. No. 80 of 2025); 
+Central Bank (Supervision and Enforcement) Act 2013 (Section 48) (Consumer Protection) Regulations 2025 
+(S.I. No. 81 of 2025).  
+2  Central Bank of Ireland (2012 updated 2021) Consumer Protection Code 2012 Guidance. Available at: 
+https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/brokers-retail-
+intermediaries/guidance/updated-2012-code-guidance-document.pdf?sfvrsn=28d0d11d_8    
+
+[Page 6]
+ 
+
+6 
+ 
+
+•   Consumer Protection Code 2012 Advertising Guidance. 3  
+
+1.1.8  
+This Guidance also incorporates content as relevant from a number of ‘Dear CEO’ 
+letters issued by the Central Bank.  
+
+1.1.9  
+It is also worth noting that there is separate information for consumers on 
+mortgages and financial difficulty and Alternative Repayment Arrangements 
+(ARAs). 4   
+
+1.1.10  
+The shorthand reference of ‘the Code’ is used within this document to mean the 
+two sets out regulations set out in 1.1.2 and the supporting Guidance.  
+
+1.1.11  
+This Guidance does not replace or substitute other applicable rules, guidance or 
+law.  
+
+1.2.   Scope and Application  
+
+1.2.1  
+Some requirements of the Code, such as the Standards for Business Regulations, 
+apply to all sectors and firms, reflecting the fundamental nature of these 
+obligations. Other requirements of the Code apply only to specific sectors or to 
+specific products or delivery channels. For example, a firm that does not provide 
+credit or debt management services is not subject to the requirements of the Code, 
+which specifically deal with the provision of these services. Other requirements 
+are only applicable to firms that provide mortgages, while High Cost Credit 
+Providers are also subject to a specific set of requirements.  
+
+1.2.2  
+Regulation 2 of the Standards for Business Regulations   sets out the scope and 
+application of the Standards for Business. The Standards for Business Regulations 
+apply to regulated entities operating in the State (including financial services 
+providers authorised, registered or licensed by the Central Bank and financial 
+services providers authorised, registered or licensed in another EU or EEA 
+Member State) in the conduct of their affairs.  
+
+1.2.3  
+The Standards for Business Regulations do not apply to: 
+
+•   Services provided by regulated entities to persons outside the State; 
+
+•   MiFID services (other than services or activities of a person excluded from 
+the scope of the European Union (Markets in Financial Instruments) 
+
+                                                                 
+3  Central Bank of Ireland (2013) Guidance on the Advertising Requirements of the Consumer Protection Code 
+2012. Available at:   https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-
+codes-of-conduct/7-gns-4-2-7-guidance-on-the-advertising.pdf?sfvrsn=6    
+4  Central Bank of Ireland (2024) Mortgages and financial difficulty   [online]. Available at: 
+https://www.centralbank.ie/consumer-hub/mortgages-and-financial-difficulty.   
+
+[Page 7]
+ 
+
+7 
+ 
+
+Regulations 2017 by virtue of Regulation 4(3) of those Regulations). 5  The 
+Central Bank’s guidance on Securing Customers’ Interests, however, sets 
+out that we expect firms providing MiFID services to consider and apply 
+the guidance in the context of fulfilling their obligation to “act honestly, 
+fairly and professionally in accordance with the best interests of [their] 
+clients”, in accordance with Regulation 31 of the MiFID Regulations; 
+
+•   Credit unions, other than when acting as insurance intermediaries; 
+
+•   The activities of a crowdfunding service provider; or 
+
+•   Reinsurance business. 
+
+1.2.4  
+Part 1 of the Standards for Business Regulations   and   Part 1 of the Consumer 
+Protection Regulations  sets out the scope and application of these regulations. The 
+Consumer Protection Regulations apply to the regulated activities of regulated 
+entities operating in the State, including financial services providers authorised, 
+registered or licensed by the Central Bank and financial services providers 
+authorised, registered or licensed in another EU or EEA Member State when 
+providing services in this State on a branch or cross-border basis.   
+
+1.2.5  
+The types of firms that the Consumer Protection Regulations apply to include:  
+
+•   Credit Institutions;  
+
+•   Insurance Undertakings;  
+
+•   Investment Business Firms, authorised under the Investment 
+Intermediaries Act 1995;  
+
+•   Investment Intermediaries, authorised under the Investment 
+Intermediaries Act 1995;  
+
+•   Insurance Intermediaries; 
+
+•   Mortgage Intermediaries;  
+
+•   Payment Institutions;  
+
+•   Electronic Money Institutions;  
+
+•   Credit Unions, when acting as insurance intermediaries;  
+
+                                                                 
+5  Additionally the guidance, direction and learning for firms set out in the Guidance on Protecting Consumers in 
+Vulnerable Circumstances should also be considered by firms providing MiFID services, where it explains how 
+firms can act in the best interests of consumers in vulnerable circumstances. It should be noted, however, that 
+the Central Bank does not expect firms providing MiFID services to comply with Trusted Contact Persons 
+requirements and training requirements. 
+
+[Page 8]
+ 
+
+8 
+ 
+
+•   Regulated entities providing retail credit;  
+
+•   Home Reversion Firms;  
+
+•   Debt Management Firms;  
+
+•   Credit Servicing Firms; 
+
+•   Crowdfunding Service Providers; 
+
+•   Credit purchasers; and 
+
+•   Firms providing MiCAR services. 
+
+1.2.6  
+The  Consumer Protection Regulations do not apply to: 
+
+•   Services provided by regulated entities to persons outside the State;  
+
+•   MiFID services (other than services or activities of a person excluded from 
+the scope of the European Union (Markets in Financial Instruments) 
+Regulations 2017 by virtue of Regulation 4(3) of those Regulations) 6 ;  
+
+•   Reinsurance business; and 
+
+•   Credit unions, other than when acting as insurance intermediaries. 
+
+1.3.   Definitions and Terminology 
+
+1.3.1  
+The Code uses the terms ‘consumer’ and ‘customer’ throughout. The term 
+‘customer’ includes any person to whom a regulated entity is providing, or has 
+provided, a financial service, or whose custom the regulated entity might be 
+soliciting, via marketing, advertising or other forms of offering, and is therefore a 
+potential customer of the regulated entity.   
+
+1.3.2  
+In general, firms only deal with consumers with whom they have a contract but 
+firms will not always be dealing with someone who is already an actual customer. 
+For example:  
+
+•   when approving or communicating a financial promotion,  
+
+•   when answering a question from a prospective customer, or  
+
+                                                                 
+6  The Central Bank’s Guidance on Securing Customers’ Interests, however, sets out that we expect firms 
+providing MiFID services to consider and apply the guidance in the context of fulfilling their obligation to “act 
+honestly, fairly and professionally in accordance with the best interests of [their] clients” in accordance with 
+Regulation 31 of the MiFID Regulations. Additionally the guidance, direction, and learning for firms set out in 
+the Guidance on Protecting Consumers in Vulnerable Circumstances should also be considered by firms 
+providing MiFID services, where it explains how firms can act in the best interests of consumers in vulnerable 
+circumstances. It should be noted, however, that the Central Bank does not expect firms providing MiFID 
+services to comply with Trusted Contact Persons requirements and training requirements. 
+
+[Page 9]
+ 
+
+9 
+ 
+
+•   where a prospective customer applies for a product or service, even if 
+they do not proceed to enter into a contract with the firm.  
+
+The definition of ‘customer’ includes existing customers, prospective customers 
+and former customers (i.e. those who are not current customers). 
+
+1.3.3  
+In some cases, the use of the term ‘customer’ (or ‘consumer’) will only refer to 
+current customers, and it will not be appropriate (or relevant) to apply the 
+requirement in respect of customers that are not current customers. In other cases 
+the context of the requirement will demand that the term ‘customer’ (or 
+‘consumer’) will also include, where appropriate, potential customers and/or 
+former customers (that are not current customers). For example, assessments of 
+suitability of alternative arrangements for customers of a branch of a credit 
+institution only applies in respect of existing customers.  
+
+1.3.4  
+‘Consumer’ is a subset of all customers and is defined in the Code as being limited 
+to a specific class of customer that is: 
+
+a)   a natural person, 
+
+b)   a group of natural persons, including a partnership, club, charity, trust or 
+other unincorporated body, or 
+
+c)   an incorporated body, that is not – 
+
+i.  
+an incorporated body that had an annual turnover in excess of €5 
+million in the previous financial year, or 
+
+ii.  
+an incorporated body that is a member of a group of companies having a 
+combined turnover greater than €5 million in the previous financial 
+year. 
+
+1.3.5  
+The Standards for Business Regulations apply, for the most part, in respect of 
+business done with all customers as defined. However, the Standards for Business 
+and Supporting Standards for Business dealing with securing customers’ interests 
+and countering the risks to customers of financial abuse only apply in respect of 
+those customers who are ‘consumers’. 
+
+1.3.6  
+The Consumer Protection Regulations generally apply only in respect of business 
+done by regulated entities with customers who are consumers. In some cases, the 
+obligations of the Consumer Protection Regulations are further limited to 
+customers who are personal consumers i.e. natural persons acting outside their 
+business, trade or profession. 
+
+1.3.7  
+The term ‘affected consumer’ is referred to in a number of requirements within the 
+regulations. Where it appears it is generally in relation to notifying ‘affected 
+
+[Page 10]
+ 
+
+10 
+ 
+
+consumers’ of an issue that affects them and/or identifying ‘affected consumers’. 
+The term has not been defined in the Consumer Protection Regulations, as the 
+ordinary meaning of the word applies. As such, the Central Bank does not 
+necessarily expect that all customers of a firm must be notified of every change or 
+development, but that where a change (e.g. to the terms of business, or to certain 
+fees or charges) will affect certain consumers, then those consumers should be 
+notified in line with the relevant requirement. It is for a firm to determine in the 
+circumstances which of their consumers are affected.  
+
+1.3.8  
+A number of requirements require consideration of the term ‘average consumer’. 
+This appears several times in the regulations and, again, the term is not defined 
+within the Code. This is because the meaning of ‘average consumer’ may differ 
+from one firm to another, across a product or service line offered by that firm, or 
+across different financial services sectors. One product or service type offered by a 
+firm may be more likely to attract sophisticated investors, with higher levels of 
+financial literacy. Other more basic financial products or services might be 
+targeted at all customers (e.g. bank accounts) in which case the average customer 
+may have more limited knowledge and lower levels of financial literacy. The 
+concept of ‘average consumer’ is particularly relevant in terms of firms considering 
+whether their communications are likely to be understood by the customers 
+intended to receive the communication. 
+
+1.3.9  
+References to variable interest rates throughout the Consumer Protection 
+Regulations should be interpreted as including tracker interest rates. 
+
+1.4.   Assessing Compliance  
+
+1.4.1  
+This Guidance, Guidance on Securing Customers’ Interests, Protecting Consumers 
+in Vulnerable Circumstances and the Central Bank’s Guide to Consumer 
+Protection Risk Assessment (CPRA Guidance) 7 , which sets out the Central Bank’s 
+expectations of firms’ consumer risk management frameworks, are 
+complementary documents, which should be read together. They have been 
+developed to support firms in implementing their Code requirements and risk 
+management frameworks. The CPRA Guidance describes the Central Bank’s 
+expectations of regulated financial services firms in implementing or enhancing 
+their frameworks for managing risks to consumers, which should support firms in 
+assessing the effectiveness of their frameworks. While, as noted in the CPRA 
+Guidance, firm-specific CPRAs will form a key part of our supervisory framework 
+for credit institutions, non-bank lenders, insurance undertakings, investment firms, 
+
+                                                                 
+7  Central Bank of Ireland (2017)  CPRA guide to Consumer Protection   Risk Assessment . Available at: 
+https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/170328-cpra-guide-28-
+march-2017.pdf    
+
+[Page 11]
+ 
+
+11 
+ 
+
+large retail intermediaries, payment institutions and e-money institutions, it 
+reflects questions that all firms can ask themselves when assessing compliance 
+with consumer protection obligations. 
+
+1.4.2  
+This Guidance includes a number of case studies and examples to support firms in 
+implementing certain Code requirements. As a set of illustrative, non-exhaustive 
+case studies and examples, we do not intend to cover every scenario or situation 
+that may arise for a sector or firm. While the examples may refer to a specific 
+sector or product, the principles and learnings highlighted in these examples are 
+potentially relevant for all sectors and firms.  
+
+1.4.3  
+We expect all firms to take the principles and learnings highlighted in each of the 
+examples (set out in the numbered boxes) and consider how they apply for their 
+specific sector, business model or product or service offering. Firms should 
+consider how the case studies and examples as set out may be relevant for their 
+sector and for the range of products or services that a firm provides.  
+
+1.5.   Data Protection Obligations 
+
+1.5.1  
+The requirements set out in the Code operate without prejudice to those 
+obligations that firms have under the General Data Protection Regulation 8  or Irish 
+data protection laws. Nothing in the Code should be interpreted as removing a 
+firm’s obligations in relation to its approach to the collection, processing, and 
+retention of personal data, and to ensure that its approach is consistent with those 
+laws. 
+ 
+
+                                                                 
+8  European Commission (n.d.)  Legal Framework of EU data protection  [online] .  Available at: 
+https://commission.europa.eu/law/law-topic/data-protection/legal-framework-eu-data-protection_en.   
+
+[Page 12]
+ 
+
+12 
+ 
+
+Section - 2   Guidance on Standards for Business Regulations 
+
+2.1.1  
+As noted in section 1.2, the Standards for Business Regulations set out governance, 
+resource and risk management requirements for firms. They also set out conduct 
+standards for firms. These are complemented by Supporting Standards for 
+Business which provide further detail on firms’ obligations. Guidance on Securing 
+Customers’ Interests 9  articulates the Central Bank’s expectations of firms in 
+meeting their obligation under the Standards for Business to secure customers’ 
+interests. This section sets out guidance for firms in implementing a number of the 
+Standards for Business Regulations. 
+
+2.2.   Informing Effectively  
+
+Standards for Business Regulations -   Regulation 4(1)(e)   &  Regulation 9  
+
+2.2.1  
+Informing consumers effectively enables them to make informed decisions to meet 
+their financial needs. It allows them to compare products and services, shop 
+around for better value, and to have trust and confidence in the financial services 
+sector.  
+
+2.2.2  
+The importance of informing effectively is reflected in this Regulation, which 
+requires that firms ensure that all information provided to customers is presented 
+in a way that effectively informs the customer. This Standard for Business is 
+supplemented by a Supporting Standard for Business on Informing Effectively.  
+
+2.2.3  
+Firms are required to inform their customers effectively, including by: 
+
+•   ensuring that information is provided to a customer in such a way that the 
+material features of the product or service in question can reasonably be 
+understood by the customer; 
+
+•   ensuring that all information provided to a customer is clear, accurate, up 
+to date, and written in plain and accessible language, avoiding the 
+unnecessary use of technical terms; and 
+
+•   providing information to customers on a timely basis, and bringing key 
+information to the attention of customers.  
+
+2.2.4  
+In seeking to ensure they inform their customers effectively, firms should take 
+seven core considerations into account when drafting and delivering information 
+to customers.  
+
+Consideration 1 - Customer profile  
+
+                                                                 
+9  Central Bank of Ireland (2025)  Guidance on Securing Customers’ Interests.   
+
+[Page 13]
+ 
+
+13 
+ 
+
+2.2.5  
+Firms must consider the profile of the target audience for any information they are 
+providing. Customers’ needs, levels of financial literacy, knowledge and experience 
+vary. Firms will need to carefully consider all of these variables and decide how to 
+best design and deliver information to these customers (which includes potential 
+customers). This can help to address the asymmetry in knowledge and information 
+between firms and customers. Considerations should include: 
+
+•   Who is the firm communicating with – does the target market have specific 
+needs or characteristics such as a lower level of digital or financial literacy? 
+
+•   Are there cohorts of consumers in vulnerable circumstances, who may 
+have specific information needs? For example, certain cohorts of 
+consumers may have a language other than English as a first language, so 
+consideration could be given to how to ensure that all communications and 
+information about products and services are understandable for 
+consumers in the target market and customer base.  
+
+•   Do some customers have accessibility needs and can information be 
+presented in ways that address these needs – for example, firms should 
+consider if people using assistive technologies such as voice commands can 
+navigate information.   
+
+•   Consideration could be given to the use of Braille display, hearing induction 
+loops, relay text audio explanations and access to Irish Sign Language (ISL) 
+interpreters.   
+
+Consideration 2 – Content   
+2.2.6  
+Content should be drafted to meet the needs of customers and support their 
+understanding taking into account their level of financial literacy and familiarity 
+with financial concepts. Content should be focused on the information a customer 
+needs to make an informed decision. The use of scenarios and illustrative examples 
+can assist customers in understanding the features and characteristics of financial 
+products. In some instances, an FAQ, glossary or jargon buster could help 
+customers.  
+
+[Page 14]
+ 
+
+14 
+ 
+
+Case Study 1 – Marketing and Advertising of Investment Products  
+
+In October 2024, the Central Bank published research on the experience of retail 
+investors regarding investment firms’ marketing and advertising materials. 10  One of 
+the findings of the research found a discrepancy between the approach taken by 
+firms in terms of language and content describing and marketing the overall 
+benefits of a product and the risks associated with the product.   
+ 
+Investors reported that products’ benefits are often explained in plain language and 
+illustrated using graphs and visuals. However, when it comes to risks and warnings, 
+the language tends to become much more technical, and text based. This 
+inconsistency can potentially lead to less engagement with content relating to risks 
+and warnings. 
+ 
+
+“The language and tone of voice used on the site when describing the 
+benefits is layman's language, which is good. However, the language and 
+tone used in the risks requires some financial literacy as it uses terms specific 
+to finance e.g. hedging, derivatives, liquidity risk and the tone becomes more 
+corporate and serious here.”  (Mystery shopping exercise, consumer quote) 
+ 
+The same effort should be taken to clearly communicate the risks of a product, as 
+has been taken to outline the benefits and advantages of a product, and efforts 
+should be made to provide information on risks of a product in simple terms to 
+support investors’ understanding.    
+
+ 
+
+2.2.7  
+Firms should also consider referring customers to other available information and 
+support tools including for example the information and tools provided by the 
+Consumer and Competition Protection Commission (CCPC) 11  and the Money 
+Advice and Budgeting Service (MABS). 12  
+
+Consideration 3 - Language  
+Standards for Business Regulations –   Regulation 9(b)  
+
+                                                                 
+10  Central Bank of Ireland (2024)  Consumer Research Bulletin Marketing and Advertising of Investment Products . 
+Available at:   https://www.centralbank.ie/docs/default-source/publications/consumer-protection-
+research/consumer-research-bulletin-marketing-and-advertising-investment-
+products.pdf?sfvrsn=44b1661a_6    
+11  Competition and Consumer Protection Commission  Money tools . Available at: 
+https://www.ccpc.ie/consumers/money-tools/.   
+12  Money Advice and Budgeting Service  Welcome to MABS, the Money Advice and Budgeting Service . Available at: 
+https://www.mabs.ie/en/.   
+
+[Page 15]
+ 
+
+15 
+ 
+
+2.2.8  
+Firms must use plain language in their communications. They should consider using 
+the ISO Plain Language Standards, NALA’s Writing and Design Tips, the NDA’s  
+Toolkits, and the Customer Communications Toolkit for Services to the Public to 
+assist them in meeting this requirement.  13  
+
+Consumer Protection Regulations –   Regulation 47  
+
+2.2.9  
+In its communications with customers, firms should avoid using unnecessary 
+technical terms or jargon. When providing information to consumers, it is a 
+requirement that where the use of technical terms cannot be avoided, firms must 
+explain the meaning of technical terms in plain language where first used, or in a 
+clearly referenced glossary. 
+
+Consideration 4 - Display 
+2.2.10  
+How firms display information to customers can significantly influence how 
+customers will interact with it and whether they are effectively informed. Poor 
+presentation of information can distort customers’ ability to assess the benefits 
+and risks of financial products and services. Firms should consider if key 
+information could be highlighted with the use of display features such as layering 
+and the use of spacing, bold font or colour. 
+
+Consideration 5 - Delivery channel 
+2.2.11  
+In communications with customers, firms should consider and determine the most 
+appropriate channel to communicate and deliver information to their customers. 
+Firms should select the delivery channel most appropriate for the profile of their 
+customers. Firms should consider the characteristics of the customers that their 
+communications are aimed at and determine what is the most effective mechanism 
+or channel that could be used to effectively inform their customers. For example, 
+and without prejudice to any legal requirement to provide the information in 
+writing, giving information in a video or an infographic could assist customers. 
+These mechanisms could support conveying of key messages and support 
+engagement and understanding.  
+
+Consideration 6 - Timing  
+2.2.12  
+Well-timed communication from firms to their customers, including at appropriate 
+points in the product lifecycle, will support customers in their ability to make 
+informed decisions about a financial product or service. Providing information at 
+the right time increases the likelihood that customers will actively engage with it. 
+
+                                                                 
+13  The International Organisation for Standardisation Plain Language Standards. Available at: 
+https://www.iso.org/standards.html   , National Adult Literacy Agency Writing and Design Tips. Available at:. 
+https://www.nala.ie/wp-content/uploads/2019/08/Writing-and-design-tips.pdf  , National Disability Authority 
+Toolkits. Available at:   https://nda.ie/publications-and-resources/toolkits , Customer Communications Toolkit 
+for Services to the Public. Available at:   https://assets.gov.ie/27854/ba64cc4f27bf4fa1b535e4b6418f0e89.pdf    
+
+[Page 16]
+ 
+
+16 
+ 
+
+There could be various points over a product or service lifecycle where it would be 
+useful to receive information. For example overdraft alert mechanisms (through 
+text messages or other delivery channels) when a customer is about to utilise a 
+pre-arranged overdraft, due to a scheduled payment such as a direct debit or if the 
+account has already gone into overdraft, for example, through a cash withdrawal. 
+Such notifications can assist customers in staying aware of their overdraft 
+utilisation and associated fees and charges.   
+
+2.2.13  
+There can be changes to a product or service over time. Features of a product may 
+change in particular for longer-term contracts. In addition, customers’ 
+circumstances and financial needs and objectives may also change over time and at 
+particular stages of life or as a result of life events. Firms should communicate with 
+customers at appropriate stages of the customer and product lifecycle. For 
+example prior to an introductory offer period ending, so that customers have 
+sufficient time to consider if a product continues to meet their needs and if it no 
+longer does, that they have time to take appropriate actions.   
+
+2.2.14  
+Consumer research carried out by the Central Bank in relation to pensions and 
+retirement income, highlighted that the level of a consumer’s engagement with 
+their pension can be affected by the communications they receive from their 
+scheme or provider. 14  Consumers’ understanding of and engagement with their 
+retirement needs, and with their pension funding, needs to be improved, for 
+example, through better and more relevant information for consumers on private 
+pension products. The research noted that consumers reported that the most 
+significant improvement that could be made in relation to communications about 
+their pensions was for consumers to receive more frequent information.  
+
+ 
+
+ 
+
+ 
+
+                                                                 
+14    Central Bank of Ireland (2024) Consumer Research Report Pension and retirement income Key challenges 
+for consumers. Available at:  https://www.centralbank.ie/docs/default-source/publications/consumer-
+protection-research/pension-and-retirement-income-july-24 .pdf .  
+
+ 
+
+[Page 17]
+ 
+
+17 
+ 
+
+Case Study 2 - How to inform effectively –appropriate delivery channel and 
+timing 
+
+A bank sends its credit card customers a text message up to three weeks in advance 
+to notify them of a payment due. This clearly sets out the payment amount to be 
+paid, the date the payment is due and informs the customer that the payment is to 
+be made by direct debit on that specific date.  
+
+ 
+
+Customers may find this notification useful as it specifies the key information in a 
+short text message that is delivered at the appropriate time for the customer to 
+take action. The message notifies the customer of the specific amount that will be 
+taken from a (current) account on a specific date, so that the customer can ensure 
+that they have sufficient funds in that account prior to the direct debit issuing.  
+
+ 
+Consideration 7 – Testing and Review  
+2.2.15  
+Often the firms and those involved in the development of communication and 
+content provided to customers will have a detailed understanding of the 
+
+[IMAGE BLOCK]
+[Contains 1 images/figures]
+
+
+[Page 18]
+ 
+
+18 
+ 
+
+information in the specific communications that they provide to customers. 
+However, this does not guarantee that the customers who the communications are 
+targeted at understand the communications. Testing and review can help to ensure 
+that firms are informing their customers effectively. 
+
+2.2.16  
+The level of testing and review should be informed by the nature and complexity of 
+the communication which is issuing to customers. Firms should consider testing 
+the effectiveness of the information they give to customers at two points - both (1) 
+before, and (2) after, the provision of the information. For example, 
+communications or content for new product development or launches, marketing 
+and other supporting material could be tested with focus groups to check whether 
+the content is understandable and supports their ability to make informed 
+decisions. Focus groups could include civil society groups, for example those 
+representing people with disabilities. 
+
+2.2.17  
+Firms should also consider testing information after it has been provided. For 
+example, firms could consider using mystery shopping or focus groups to gather 
+feedback and assess the effectiveness of their communications with customers.  
+
+2.2.18  
+Information and communications should be reviewed on a regular basis to ensure 
+it continues to inform customers effectively. Firms should also review compliance 
+reports to identify any trends in complaints which may suggest weaknesses in 
+information provision. 
+
+[Page 19]
+ 
+
+19 
+ 
+
+Case Study 3 - informing effectively to increase engagement and impact 
+
+The Central Bank conducted research in 2022 to test how targeted enhancements 
+to existing disclosures on available lower cost mortgage products provided by a 
+lender could prompt greater take-up by customers of advantageous mortgage 
+refinancing opportunities. 15    
+ 
+Enhancements designed to tackle a series of behavioural biases, which have been 
+shown to deter optimal financial engagement; including, inattention, present bias 
+and procrastination were tested.  
+ 
+These enhancements included simplification of information, provision of 
+personalised savings estimates (in various formats including the use of a gain frame 
+and a loss frame), provision of key information in colour rather than black and white 
+and use of prominent subject lines.  
+ 
+The format set out below was found to be the most effective:  
+
+                                                                 
+15  Central Bank of Ireland (2022)  Targeted communications with mortgage borrowers can help to improve uptake of 
+refinancing opportunities . Available at:  https://www.centralbank.ie/news-media/press-releases/targeted-
+communications-with-mortgage-borrowers-can-help-to-improve-uptake-of-refinancing-opportunities-8-
+december-2022.  
+
+[Page 20]
+ 
+
+20 
+ 
+
+ 
+
+ 
+
+ 
+Mortgage Account Number: 1234567 
+
+You may be able to save money on your mortgage 
+
+Dear John,  
+
+Your current mortgage interest rate is a standard variable rate of 4.5%. We want to make sure you are 
+getting the best deal and we may have a lower interest rate for your mortgage. 
+
+Current monthly 
+repayment at 4.25%: 
+€716  
+
+•  
+We have a range of interest rates that could save you 
+money.  
+ 
+•  
+Our lowest rate is a fixed rate of 2.9%, which could 
+result in an immediate monthly saving to you of about 
+€126. Over the course of a full year, that’s 
+approximately €1,512 in savings. 
+ 
+
+•  
+Below, we outline the full range of interest rate options 
+currently available, along with the next steps to take if 
+you wish to choose one of these alternative options.  
+
+Potential monthly 
+repayment at 2.9% fixed: 
+€590  
+
+Estimated difference in 
+monthly repayments 
+-€126  
+
+Potential difference over 
+the  year: 
+-€1,512  
+
+ 
+Explaining the tables below 
+
+These tables show you the interest rates along with the Annual Percentage Rate of Charge (APRC). We 
+explain APRC at the end of this letter. The rates may vary by Loan to Value (LTV) ratio. We also explain 
+LTV at the end of this letter.   
+
+Fixed interest rates 
+
+Fixed 
+interest 
+rate options 
+
+Loan to Value 
+
+Up to 60% 
+
+Loan to Value 
+
+61-80% 
+
+Loan to Value 
+
+over 80% 
+
+Difference in 
+
+monthly 
+repayments 
+
+Difference over 
+
+the year 
+
+1-year 
+2.9% (3.9% 
+
+APRC) 
+
+2.9% (4.2% 
+
+APRC) 
+2.9% (4.4% APRC)  
+-€126 
+-€1,512 
+
+2-year 
+2.9% (3.8% 
+
+APRC) 
+
+2.9% (4.0% 
+
+APRC) 
+2.9% (4.3% APRC)  
+-€126 
+-€1,512 
+
+3-year 
+3% (3.7% 
+
+APRC) 
+
+3% (3.9% 
+
+APRC) 
+3% (4.1% APRC) 
+-€118 
+-€1,416 
+
+5-year 
+3% (3.6% 
+
+APRC) 
+
+3% (3.7% 
+
+APRC) 
+3% (3.9% APRC) 
+-€118 
+-€1,416 
+
+10-year 
+3.3% (3.5% 
+
+APRC) 
+
+3.3% (3.6% 
+
+APRC) 
+
+ 
+-€95 
+-€1,140 
+
+10-year 
+ 
+ 
+3.5% (3.8% APRC)  
+-€80 
+-€960 
+
+ 
+
+ 
+
+[Page 21]
+ 
+
+21 
+ 
+
+This communication increased refinancing activity among mortgage holders by 76% 
+when compared against the pre-existing standard notification.   
+
+ 
+This research clearly evidences the impact that enhanced disclosure measures can 
+have on the effectiveness of information presented to customers. In this case, the 
+combination of a simply presented personalised savings estimate and displaying key 
+information in colour rather than black and white was shown to significantly impact 
+on customers’ refinancing behaviour .  
+
+ 
+The research also evidenced the impact of the timing of the provision of information 
+with the provision of a reminder 4-6 weeks after the original communication shown 
+to help to address procrastination and forgetfulness and strengthen the impact of 
+the initial notificication.   
+
+ 
+The research demonstrates how small changes, carefully applied and pre-tested can 
+have a significant impact on the effectiveness of information.   
+
+ 
+Firms should continually focus on ways they can improve the effectivness of the 
+information they provide to customers. This includes regulatory disclosures. For 
+example, under EU requirements, 16  firms who sell Packaged Retail Insurance-based 
+Investment Products (PRIIPs) must provide investors with a Key Information 
+Document (KID). Firms are required to share the KID with consumers in advance of 
+their final consent to purchase. The purpose of the KID is to provide investors with 
+a simple, generic and concise document that provides key information on the 
+investment product.   
+
+ 
+Notwithstanding the prescriptive nature of the PRIIPs KID requirements, firms 
+should still give consideration to how they can contribute to customer engagement 
+with and understanding of the information provided in the KID. However, in 
+practice we have seen examples of KIDs where it is clear that the firm has taken a 
+‘tick box’ approach to the provision of information via a KID with limited attempts 
+to support navigability and understanding through the use of plain language, layout, 
+font size and use of headings and colour or bold.  
+
+ 
+The findings and learnings from the research on mortgage refinancing have direct 
+relevance for all firms as they consider how to most effectively present 
+information to their customers. They can be applied across many types of 
+information and disclosures  provided by firms to their customers. Firms should 
+have a continued focus on what steps they can take to improve the effectiveness 
+of the information they provide to their customers. 
+
+                                                                 
+16  Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key 
+information documents for packaged retail and insurance-based investment products (PRIIPs). 
+
+[Page 22]
+ 
+
+22 
+ 
+
+Case Study 4 - informing effectively to drive action-taking by customers –Home 
+Insurance Market  
+
+The Central Bank carried out a review in 2022 that showed evidence of increasing 
+levels of under-insurance in the home insurance market as a result of an increase in 
+rebuild costs. 17  Under-insurance can cause significant consumer detriment, as if a 
+property is underinsured it can result in customers not being fully covered for 
+losses if they have to make a home insurance claim. The review found that not all 
+firms were sufficiently highlighting key risks to consumers.  
+ 
+A number of areas were identified where further action was needed by firms to 
+make consumers aware of the risk and implications of under-insurance. The Central 
+Bank outlined a range of steps that firms were required to undertake to 
+communicate the risk of under-insurance to customers in a clear and 
+understandable way by:  
+  
+
+•   Writing to all home insurance policyholders explaining under-insurance; 
+
+•   Setting out the implications of being under-insured, the reasons why this is 
+
+currently a heightened risk and how policyholders can better estimate the 
+
+adequate insured value; 
+
+•   Providing clear worked examples of the consequences of under-insurance in 
+
+the event that a policyholder had to make a claim where their home was 
+
+underinsured; and 
+
+•   Treating the risk of under-insurance as ‘key information’ and disclosing it as 
+
+such to customers. 
+
+   
+The impact of this communication was that customers were effectively informed 
+about the risks and consequences of being under-insured and prompted to take 
+appropriate actions to address this risk.   This example is set in a specific context and 
+should over-insurance be identified, then we would expect firms to advise of the 
+risk of over-insuring, whereby customers pay excess premiums based on cover that 
+is not required.  
+ 
+In this case study the Central Bank identified a gap in firms’ engagement with 
+their customers on an important customer risk and instructed firms to engage 
+effectively with their customers on this matter. We expect firms to proactively 
+consider what information their customers need to support them in making 
+informed decisions to protect their financial well-being. 
+
+[Page 23]
+ 
+
+23 
+ 
+
+2.3.   Unregulated Activities  
+
+2.3.1  
+Customers need clarity on what is regulated and what is not regulated. Where 
+regulated firms engage in regulated and unregulated activities, there is a 
+heightened risk that customers may misunderstand their protections because of 
+the firm’s regulated status. 
+
+2.3.2  
+Firms are required to clearly distinguish between the entity’s regulated activities 
+and its unregulated activities for customers, by taking all appropriate steps to 
+mitigate the risk that a customer will understand an activity to be, or to carry the 
+protections of, a regulated activity where this is not the case. Where regulated 
+firms do undertake unregulated activities, as noted in the Guidance on Securing 
+Customers’ Interests, the obligation to secure customers’ interests applies to a 
+firm in the conduct of its affairs. Firms should view good culture and a commitment 
+to securing customers’ interests as being central to its relationship with its 
+customers, irrespective of the regulatory status of the product or service in 
+question. Good culture and a commitment to securing customers’ interests does 
+not turn on or off depending on the legal or regulatory status of the business that a 
+regulated firm does with its customers. 
+
+Definition of unregulated activities 
+Standards for Business Regulations -   Regulation 3  
+Consumer Protection Regulations -   Regulations 72   &   73  
+
+2.3.3  
+Unregulated activities is defined in the Code as the provision of financial services, 
+which are not otherwise regulated activities, to consumers in the State. Therefore, 
+the unregulated activities requirements, as set out in the Standards for Business 
+Regulations, apply to regulated entities when providing unregulated financial 
+products and services. Similarly, additional disclosure requirements in the 
+Consumer Protection Regulations also apply where a regulated entity is providing 
+unregulated financial products and services. The Supporting Standards for 
+Business and Consumer Protection Regulations do not apply when regulated 
+entities provide non-financial products and services such as, for example, the sale 
+of clothing.  
+
+Mitigating the risk of customers misunderstanding regulatory status  
+Standards for Business Regulations –   Regulation 5(h)    
+
+2.3.4  
+To meet the obligation under this Regulation, when providing unregulated 
+financial products or services, firms must consider if there is a risk that customers 
+
+                                                                 
+17  Central Bank of Ireland (2022).  Central Bank review identifies evidence of increasing levels of under-insurance in 
+the home insurance market . Available at:  https://www.centralbank.ie/news/article/central-bank-revi e w -
+identifies-evidence-of-increasing-levels-of-under-insurance-in-the-home-insurance-market .    
+
+[Page 24]
+ 
+
+24 
+ 
+
+may misunderstand the regulatory status of the unregulated products and services 
+that the firm provides and take appropriate steps to mitigate associated risks. This 
+should include consideration of the potential impact that any misunderstanding or 
+confusion could have on consumers, which will depend on the nature of the 
+product or services and potential for harm or loss to the consumer.  
+
+2.3.5  
+For example, a regulated firm may want to undertake complex high-risk 
+investment activities that are unregulated, such as the sale of non-transferable 
+loan notes. These complex high-risk investment activities present a significant risk 
+of misunderstanding or confusion for consumers as some of their features are 
+similar to regulated investment products. In terms of the potential impact of 
+customer misunderstanding or confusion - a consumer of such an unregulated 
+product might incorrectly assume, for example, that they are entitled to statutory 
+levels of compensation available to ‘eligible clients’ in the event that the firm is 
+unable to return money or investment instruments it owes to consumers who 
+invested with it. In such cases, the risk that consumers will misunderstand the 
+regulatory status of the unregulated product or service is very high, and it could be 
+challenging to effectively mitigate the associated risks. 
+
+2.3.6  
+However, there may be cases where it will be possible for the risks associated with 
+the provision of unregulated activities of regulated firms to be mitigated by firms. 
+This will most likely occur where the risk of misunderstanding and the potential for 
+harm or loss to the consumer is low. For example, a regulated firm may choose to 
+provide ancillary services such the provision of a tax return service alongside its 
+regulated activities. Given the nature of the service that is being offered, there is a 
+relatively low risk of misunderstanding by the customer as to the nature of the 
+
+offering and the relative potential for financial loss is low. In these scenarios, we 
+expect firms to comply with the requirements in the Code 18 , for example, clearly 
+stating on marketing material that the service is not a regulated financial product 
+(in line with the text of the required warning) and displaying the service and 
+accompanying material on a webpage that is separate to its regulated financial 
+products.    
+
+How firms can clearly distinguish between unregulated and regulated activities 
+2.3.7  
+To ensure that they are clearly distinguishing between unregulated and regulated 
+activities firms:  
+
+                                                                 
+18  Consumer Protection Regulations,  Regulations 72 ,   73 ;  Standards for Business Regulations   Regulation 5(h) .  
+
+[Page 25]
+ 
+
+25 
+ 
+
+•   Should clearly and effectively communicate the regulatory status of the 
+activity or product, and not imply that the activity or product is regulated if 
+it is unregulated;  
+
+•   Should provide appropriate disclosures and risk warnings in a prominent 
+position on information provided to clients. ‘Information’ includes but is not 
+limited to brochures, information memoranda, webpages and other 
+marketing materials; 
+
+•   May only use regulatory disclosure statements in communication with 
+consumers where such communications relate solely to a regulated 
+activity. When engaging in unregulated activities, information provided to 
+the consumer, including any marketing material, cannot include reference 
+to the firm being authorised/regulated by the Central Bank of Ireland. 
+
+Branding and use of websites 
+2.3.8  
+Firms must ensure that the use of branding does not contribute to the risk that 
+customers will misunderstand an activity or product to be, or to carry the 
+protections of, a regulated activity where this is not the case. This risk of confusion 
+is increased in particular where a product or service has similar characteristics to a 
+regulated financial services product or service provided by a group-entity with 
+similar branding.  
+
+Consumer Protection Regulations –   Regulation 72    
+
+2.3.9  
+This regulation requires information on regulated and unregulated activities to be 
+kept on separate webpages on a website.  
+
+2.3.10  
+Consideration should also be given to the use of branding on website pages and the 
+potential for this to create confusion on the regulatory status of products and 
+services. It should be clear to customers when they are moving outside the 
+regulatory space. This can be supported through the provision of disclosures and 
+warnings but firms also need to consider if the use of branding can contribute to 
+confusion or potential customer confusion. In some cases it may not be appropriate 
+to utilise branding on website pages relating to unregulated activities. In 
+determining whether it is appropriate to use firm branding on website pages, firms 
+should give consideration to the risk and impact of confusion on the regulatory 
+status of products and services in line with the guidance provided in section 2.3.9. 
+above. 
+
+2.3.11  
+This approach should also be applied where firms use apps to provide regulated 
+and unregulated activities, products or services and information on these.  
+
+ 
+
+[Page 26]
+ 
+
+26 
+ 
+
+2.4.   Financial Abuse 
+
+Standards for Business Regulations –   Regulations 4(1)(f)  &   10    
+Consumer Protection Regulations –   Regulation 2  
+
+2.4.1  
+To ensure that firms are taking the necessary steps to protect their systems and 
+their customers from financial abuse including frauds and scams, the Standards for 
+Business require firms to control and manage their affairs and systems to counter 
+the risks to customers of financial abuse. 
+
+2.4.2  
+This Standard for Business is complemented by a Supporting Standard for Business 
+on financial abuse, which includes a requirement for firms to communicate clearly 
+to their customers the risk of financial abuse, including where the firm is aware of 
+the occurrence of digital frauds or scams, the supports available and the actions 
+customers can take where they are a victim of financial abuse. 
+
+2.4.3  
+The definition of financial abuse in the Code has two elements. The first addresses 
+‘the wrongful or unauthorised taking, withholding, appropriation, or use of a 
+consumer’s money, assets, or property’. This describes a fraud or scam. The people 
+who commit such frauds or scams are typically strangers to the victim. 19  
+
+2.4.4  
+The second part addresses any act or omission by a person, including through the 
+use of a power of attorney, guardianship, or any other authority regarding a 
+consumer, to –  
+
+i.  
+obtain control, through deception, intimidation or undue influence, over 
+the consumer’s money, assets or property, or  
+
+ii.  
+wrongfully interfere with or deny the consumer’s ownership, use, 
+benefit or possession of the consumer’s money, assets or property; 
+
+The people who commit this type of financial abuse are typically known to the 
+victim. 
+
+2.4.5  
+The definition of financial abuse is not restricted to specific types of financial abuse 
+that may occur. This definition extends to emerging threats such as AI-driven fraud 
+(e.g. synthetic identity fraud, deep fake scams, AI voice cloning scams) and digital 
+exploitation (e.g. financial abuse through digital payments or social media financial 
+scams). The requirements in the Code apply where the circumstances of financial 
+abuse meet the criteria set out in the definition. This ensures that the application 
+of the relevant protections for consumers of firms are sufficiently broad to capture 
+
+                                                                 
+19  Safeguarding Ireland (2024).  Challenges and opportunities in preventing financial abuse – Moving Forward and 
+Leaving No One Behind . Available at:  https://safeguardingireland.org/wp-content/uploads/2024/11/Challenges-
+and-Opportunities-in-Preventing-Financial-Abuse-Adult-Safeguarding-Day-7th-Nov-2024.pdf    
+
+[Page 27]
+ 
+
+27 
+ 
+
+the many different incidences of financial abuse that may occur. Examples that are 
+captured within the definition of financial abuse in the Code include: 
+
+•   Elder financial exploitation 20    
+
+•   Identity theft  
+
+•   Unauthorised payment fraud; sharing of credentials (pins, passwords)   
+
+•   Coercive control 
+
+•   Financial exploitation by caregivers 
+
+•   Economic control or abuse in intimate relationships or 
+
+•   Financial neglect. 
+
+This is an non-exhaustive list provided to show that many specific types of financial 
+abuse are captured within our definition of financial abuse.  
+
+Scope of the financial abuse requirements 
+Standards for Business Regulations –   Regulations 2(3)   and   10   
+
+2.4.6  
+In the Code, firms have an obligation towards their customers who are consumers 
+to counter the risks of financial abuse. Potential customers are not included in the 
+scope of the requirement. A firm’s financial abuse obligation is only towards its 
+existing customers.   
+
+Clear and Timely Notification of Financial Fraud  
+Standards for Business Regulations –   Regulation 10(d)  
+
+2.4.7  
+Firms need to counter the risk of financial abuse to customers who are consumers. 
+Where firms are aware of any digital frauds or deception connected to its affairs, 
+or specifically relevant to the sector in which the firm is operating, they must notify 
+its consumers through ‘clear and timely’ communications. The firm’s response 
+needs to be proportionate to the probability of risk to the customer and the 
+potential level of harm should the risk materialise. Timely communication in this 
+context, is information that the firm delivers as soon as it is aware of the potential 
+digital fraud or deception and have considered the probability of the risk and harm 
+materialising for customers.  
+ 
+
+                                                                 
+20  US Treasury Financial Crimes Enforcement Network (2024)  Elder Financial Exploitation: Threat Pattern & Trend 
+Information, June 2022 to June 2023 . Virginia: US Treasury. Available at: 
+https://www.fincen.gov/sites/default/files/shared/FTA_Elder_Financial_Exploitation_508Final.pdf.   
+
+[Page 28]
+ 
+
+28 
+ 
+
+Section - 3   Guidance on the Consumer Protection Regulations 
+
+3.1.1  
+As noted in section 1.2, the Consumer Protection Regulations set out cross-
+sectoral requirements applying across all sectors, and other sector specific 
+requirements applying to the provision of Consumer Banking, Credit and Arrears, 
+Insurance and Investments. These requirements apply to the regulated business of 
+firms conducted with customers who meet the definition of ‘consumer’ i.e. 
+individuals and small businesses. 
+
+3.2.   Knowing the Consumer and Suitability  
+
+3.2.1  
+To offer products and services that meet their customers’ needs, firms must have a 
+comprehensive understanding of their customers’ financial needs and objectives, 
+and must ensure effective processes are in place for assessing suitability.  
+
+3.2.2  
+Firms are required to comply with data protection regulations 21  in respect of all 
+data processing activity required by the Code. Data gathered for the purposes of 
+assessing suitability should be used solely for the purpose for which it was 
+gathered and cannot subsequently be processed for other purposes, such as 
+marketing, without the consent of the consumer. 
+
+3.2.3  
+Firms are required to conduct a thorough suitability and assessment process 
+before offering any financial service or product, thereby minimising the risk of 
+unsuitable recommendations.  
+
+3.3.   Sustainability Preferences  
+
+Consumer Protection Regulations –   Regulations 16 ,  17   &   18  
+
+3.3.1  
+Increasingly, environmental and sustainability considerations are important 
+considerations for consumers and can play a role in consumer decision-making in 
+determining which financial product or service to choose. Within that context, the 
+Code includes a number of requirements in relation to customers’ sustainability 
+preferences.  
+
+3.3.2  
+Sustainability preferences with regard to a financial service are required to be 
+gathered, where relevant. The statement of suitability is required to identify where 
+a financial product or service meets any sustainability preferences gathered from 
+the consumer. However, the assessment of the suitability of a financial product or 
+service for a consumer should exclude assessment of information on sustainability 
+preferences. The rationale for setting out the requirement in this way is so that 
+
+                                                                 
+21  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection 
+of natural persons with regard to the processing of personal data and on the free movement of such data, and 
+repealing Directive 95/46/EC (General Data Protection Regulation). 
+
+[Page 29]
+ 
+
+29 
+ 
+
+customers’ sustainability preferences do not over-ride consumers’ needs and 
+objectives, personal circumstances, financial situation and attitude to risk. 
+
+3.3.3  
+In terms of the sequencing of the process for gathering and utilising information on 
+sustainability preferences firms will: 
+
+1.   Gather information on the consumer’s sustainability preferences, where 
+relevant, as part of the process of gathering information required under 
+Regulation 16   which will include information on the consumer’s needs and 
+objectives, personal circumstances, financial situation and where relevant 
+attitude to risk. 
+
+2.   Assess suitability and select suitable product(s) for the consumer based on 
+their needs and objectives, personal circumstances, financial situation and 
+attitude to risk in line with   Regulation 17 .  
+
+3.   Determine if any of these products have sustainability features that meet the 
+sustainability preferences gathered from the consumer. 
+
+4.   Provide a statement of suitability in line with   Regulation 18 ,  which sets out 
+
+products identified as suitable, based on the criteria considered in step 2, and 
+identify where these meet any sustainability preferences gathered from the 
+consumer. 
+
+3.3.4  
+Notwithstanding the requirement set out in   Regulation 16 ,  it is important for firms 
+to note that, where the financial product or service being sought does not and 
+could not have any sustainability features, firms are not required to collect 
+information on consumers’ sustainability preferences. Nor are firms required to 
+
+reflect information on sustainability features in the statement of suitability as this 
+is not appropriate to the nature of the product or service.  
+
+Statement of suitability to be provided 
+Consumer Protection Regulations -   Regulations 16(11)   &   18    
+
+3.3.5  
+When setting out in the statement of suitability the various reasons why a financial 
+product or service is considered to be suitable, the Central Bank expects this to 
+include a clear explanation of how the financial product or service meets, where 
+relevant, the consumer’s needs and objectives, personal circumstances and 
+financial situation. It should also detail the reasoning behind selecting a specific 
+financial product or service ensuring clear justification for the advice given. 
+Certain statements such as noting that a financial product or service is suitable 
+because it aligns with the consumers’ risk tolerance is not sufficient. It is more 
+
+[Page 30]
+ 
+
+30 
+ 
+
+important to state, for example, the financial product or service’s risk 
+categorisation and explain how it aligns with the consumer’s risk tolerance. 22   
+
+3.3.6  
+If a consumer refuses to provide relevant information, then it follows that it is not 
+possible to properly assess suitability and, as set out in   Regulation 16(11) ,  the 
+consumer should be informed that as the firm does not have the relevant 
+information necessary to assess suitability, the firm cannot offer, recommend, 
+arrange or provide the financial product or service sought. 
+
+3.4.   Conflicts of Interest and Information about Remuneration  
+
+3.4.1  
+Conflicts of interest may occur when a firm’s commercial or financial interests are 
+not aligned with their duty to act to secure customers’ interests. Firms are required 
+to mitigate this risk by identifying, disclosing, and managing any potential conflicts 
+that might influence their advice or services.  
+
+3.4.2  
+Transparency regarding remuneration is crucial to ensure customers are fully 
+aware of the incentives received by the firm and to understand potential bias that 
+may affect the advice they receive.  
+
+Disclosure of fees, commissions etc. by intermediaries 
+Consumer Protection Regulations -   Regulations 30   -   32    
+
+3.4.3  
+Regulation 32   requires an intermediary to make available on its website (or where 
+it does not operate a website, in its public offices), a summary of the details 
+(including an explanation of the arrangement) for any fee, commission, other 
+reward or remuneration receivable from a regulated firm. The intention of this 
+regulation is to make commission arrangements transparent to consumers, 
+
+particularly where an intermediary has several commission arrangements 
+available to them in respect of the products or services that they are offering to the 
+consumer. The aim of the provision is to encourage product producers and 
+intermediaries to develop commission arrangements that are aligned with the 
+consumer’s interests and to help mitigate the risk of commission bias.  
+
+3.4.4  
+An intermediary’s level of commission must be displayed as an individual number 
+as opposed to a range, where possible. However, when an intermediary’s level of 
+commission depends on individual circumstances and can only be displayed as a 
+range, the intermediary must explain the arrangement in the summary and the 
+basis on which the level of commission within the range is decided must be 
+
+                                                                 
+22  European Securities and Markets Authority (2023)  Questions and Answers on MiFID II and MiFIR investor 
+protection and intermediaries topics . Available at: 
+https://www.esma.europa.eu/sites/default/files/library/esma35-43-
+349_mifid_ii_qas_on_investor_protection_topics.pdf .  – see question 10, 1 Suitability and appropriateness page 
+44. 
+
+[Page 31]
+ 
+
+31 
+ 
+
+disclosed, e.g., intermediary’s discretion, whether the level of commission is 
+negotiable, length of time of the policy, length of investment period, etc. In that 
+regard, the disclosure must specify which of the factors is relevant in respect of 
+each arrangement. 
+
+3.5.   Digitalisation 
+
+Consumer Protection Regulations –   Regulations 38 - 43  
+
+3.5.1  
+Digitalisation in financial services has brought many benefits for firms and 
+consumers and has the potential to bring many more. It can also bring challenges 
+and risks for firms and consumers. We want to ensure that firms support their 
+customers to harness the benefits and take action to mitigate risks.  
+
+3.5.2  
+The Code is technology neutral. This means that the Code does not seek to 
+regulate the specific technology used by firms nor the choice of that technology. 
+Regardless of the technology used by firms to interact with consumers, the 
+obligations of the Code must be met.  
+
+3.5.3  
+However, because of the risks to consumers associated with digital technologies, 
+the Code contains some specific requirements for firms who use digital technology 
+to provide financial services. The material below provides guidance on a number of 
+these specific requirements. The guidance set out in this section also includes a 
+number of topics which speak to general aspects of digitalisation that firms may 
+deploy, for example structuring and layering of information and filtering. While 
+these are not specific requirements of the Digitalisation section in the Consumer 
+Protection Regulations, they are included under this guidance heading, given that 
+they are relevant to the broader digitalisation topic.   
+
+Digital platforms 
+Consumer Protection Regulations –   Regulation 2  
+
+3.5.4  
+Many of the Code’s ‘digitalisation’ requirements and some others across the 
+Consumer Protection Regulations apply where a firm is engaging with a consumer 
+using a ‘digital platform’ e.g. an online system (such as a website) through which 
+contracts can be concluded to provide financial services to consumers. These 
+include requirements for firms to ensure such platforms are designed to be easy to 
+use and navigate with appropriate supports provided, that the technology is 
+tested, and that they produce consistent and objective outcomes for consumers.  
+
+3.5.5  
+Firms using digital platforms, and other digital means of communication and 
+engagement, must also ensure that they comply with all relevant Code standards 
+and requirements. For example, the information provided to customers on digital 
+platforms and communications must equally be clear, accurate, and up to date. 
+
+[Page 32]
+ 
+
+32 
+ 
+
+Firms using digital technology must also ensure that their products and services 
+and their digital engagement practices 23  are not designed to unfairly exploit the 
+behaviours, habits, preferences, or biases of customers leading to customer 
+detriment.    
+
+Guidance to be provided on the use and navigation of digital platform  
+Consumer Protection Regulations –   Regulation 40  
+
+3.5.6  
+If a firm is using a digital platform to conduct business with consumers, the firm 
+must give guidance on how to navigate the digital platform. This guidance should 
+take account of the profile of the customer base and the complexity of the platform 
+and should align with the principles of informing effectively in the Code. For 
+example, the use of infographics and video explainers may assist customers in 
+navigating digital platforms.  
+
+Ease of use and accessibility 
+3.5.7  
+There are various techniques and practices that can be utilised by firms to ensure 
+digital services and delivery channels are easy to use and navigate and support 
+informed decision-making. 
+
+3.5.8  
+Firms should identify ways to ensure their digital services and delivery channels 
+are accessible. Firms should look to the NDA’s Toolkits 24  for advice on how to 
+design their digital platform with accessibility in mind. Firms should also consider 
+the principles contain in the EU’s Web Accessibility Directive. 25  Firms should 
+consider the following: 
+
+•   Screen readers  
+Can screen readers like JAWS, NVDA, and VoiceOver operate with the 
+digital platform? 26   
+
+•   Voice commands  
+Are functionalities on the digital platform compatible with voice 
+commands? 27   
+
+                                                                 
+23  These tools include behavioural techniques, differential marketing, gamification, design elements or design 
+features that intentionally or unintentionally engage with retail investors on digital platforms as well as the 
+analytical and technological tools and methods. 
+24  National Disability Authority (n.d.)  NDA Toolkits  [online]. Available at:   https://nda.ie/publications-and-
+resources/toolkits.   
+25  European Commission (2023)  Web Accessibility Directive . Available at:  https://digital-
+strategy.ec.europa.eu/en/policies/web-accessibility-directive-standards-and-harmonisation .  
+26  See for example the European Commission’s Shaping Europe’s Digital Future is designed to allow 
+compatibility with these screen readers. European Commission (n.d.)  Accessibility Statement  [online]. Available 
+at: https://digital-decade-desi.digital-strategy.ec.europa.eu/page/accessibility-statement. 
+27  W3 Web Accessibility Initiative (2024).  Speech Recognition  [online]. Available at: 
+https://www.w3.org/WAI/perspective-videos/voice/.  
+
+[Page 33]
+ 
+
+33 
+ 
+
+•   Keyboard Navigation  
+Can all functions on the digital platform be used without a mouse? 28   
+
+•   Font size 
+Is the font at least 12-point font size? Can users request an increase in font 
+size? 29   
+
+•   Design layout  
+Does the layout work on a range of devices for example phone, tablet and 
+computer? 30  
+
+Structuring and layering of information 
+3.5.9  
+Structuring and layering describe the separation of information into different 
+interconnected layers that allow a consumer to gradually access information of 
+deeper relevance depending on the options or links they select. Layering can help 
+to break down complex information for consumers, and promote easier navigation 
+and the representation of information in a more manageable format, so that 
+consumers can access the information they need, better understand the 
+information available, take the appropriate time to consider and ultimately make 
+informed decisions.  
+
+3.5.10  
+Layering can help to ensure that all relevant information is not presented to a 
+customer at once, but that through clear and intuitive design, relevant information 
+is identified as available and is easily accessible by the customer. 
+
+3.5.11  
+Features such as tabs on websites, drop-down menus or the use of collapsible 
+sections, where headline or more basic information is initially displayed, with the 
+functionality for the customer to expand the section to access more information 
+can assist the consumer in identifying the information they need and progressively 
+access further detail on a product or service.  
+
+Scrolling and hyperlinks 
+3.5.12  
+When offering financial services or products digitally, firms must ensure that 
+consumers are encouraged to access and read all relevant and important 
+information. This includes designing digital platforms that facilitate easy 
+navigation and promote a thorough review of the content. Sticky navigation bars 
+
+                                                                 
+28  Centre for Excellence in Universal Design (2023).  Customer Communications Toolkit for Services to the Public — 
+A Universal Design Approach . 94 Available at:  https://universaldesign.ie/uploads/publications/Customer-
+Communications-Toolkit-2023-PDF_Final.pdf_2024-09-26-162804_exoy.pdf .  
+29  Centre for Excellence in Universal Design (2023).  Customer Communications Toolkit for Services to the Public — 
+A Universal Design Approach . 29 Available at:  https://universaldesign.ie/uploads/publications/Customer-
+Communications-Toolkit-2023-PDF_Final.pdf_2024-09-26-162804_exoy.pdf .  
+30  Centre for Excellence in Universal Design (2023).  Customer Communications Toolkit for Services to the Public — 
+A Universal Design Approach . 115 Available at:  https://universaldesign.ie/uploads/publications/Customer-
+Communications-Toolkit-2023-PDF_Final.pdf_2024-09-26-162804_exoy.pdf .  
+
+[Page 34]
+ 
+
+34 
+ 
+
+(those that stay at the top or other designated area) that follow the user down a 
+digital platform can keep important links and tools accessible, enhancing the user 
+experience, and encouraging deeper engagement with content. Additionally 
+placing compelling calls to action and reminders to ‘scroll for more information’ at 
+key points can prompt users to continue reading. Careful structuring and layout of 
+content on digital platforms, including the use of consistent, clear headings and 
+subheadings, can ensure that all necessary information is reviewed.  
+
+3.5.13  
+Hyperlinks should be clearly labelled to reflect the importance, nature, and 
+relevance of the information they direct consumers to. For example, this could 
+include the use of labels like ‘Important Terms and Conditions’. Firms should be 
+cautious when using hyperlinks to ensure these do not direct consumers away 
+from critical information. Firms should avoid the fragmentation of important 
+details set out in multiple hyperlinks, which can obscure the consumers’ overall 
+understanding. Important details should be kept together as much as possible. 
+Providers should assess the effectiveness of hyperlinks by monitoring click-
+through rates and related consumer behaviour and make changes as required.   
+
+Filtering 
+3.5.14  
+Filtering of products on websites entails providing functionality where users can 
+narrow a list of products or services, based on set criteria or specific product 
+attributes. It is a feature commonly used across a broad range of sectors to support 
+consumers’ product selection and decision-making.  
+
+3.5.15  
+Filtering functionality can be a useful tool for consumers of financial products and 
+services in terms of accessing information on relevant products, comparing and 
+understanding their features and ultimately selecting the most suitable product for 
+their needs. Research has found that where filtering is not available, consumers 
+tend to choose products at the top of the page displayed, that do not necessarily 
+align with their needs. 31   
+
+3.5.16  
+When a range of products or options are available firms should consider providing 
+functionality to allow consumers to filter the range of products presented based on 
+criteria selected by the customer and/or change the order of the products 
+displayed. For example, personal loan products could be filtered based on APRs, 
+loan term, sustainable features etc. and displayed from the lowest interest rate to 
+the higher interest rate (see box below for an illustrative example).  
+
+                                                                 
+31  Financial Conduct Authority (2015). High-Cost Short-Term Credit Price Comparison Websites A behavioural 
+study for the Financial Conduct Authority. Available at  https://www.fca.org.uk/publication/consultation/cp-
+15-33-behavioural-study.pdf    
+
+[Page 35]
+ 
+
+35 
+ 
+
+Box 1: Filtering 
+
+A firm provides a number of personal loan options on its website. To help consumers identify 
+which product is right for them, the firm develops an interactive table that allows consumers 
+to filter and order the products according to their preferences.   
+
+ 
+ 
+
+Consent in a digital context 
+3.5.17  
+Consent given by the consumer under the Code must be recorded. Where any 
+Code requirement requires ‘written consent’ this can be provided in paper formats, 
+by email or other electronic formats. Where any Code requirement does not 
+specify the form of consent, such consent could also be provided by other means 
+including for example via an audio recording of the consumer verbally giving 
+consent.  
+
+Durable medium 
+Consumer Protection Regulations –   Regulation 2  
+
+3.5.18  
+The definition of durable medium is:  
+
+“any instrument that enables a recipient to store information addressed personally 
+to the recipient in a way that renders it accessible for future reference for a period 
+of time adequate for the purposes of the information and which allows the 
+unchanged reproduction of the information stored.”  
+
+3.5.19  
+Firms employ various forms of durable medium to ensure consumers receive and 
+can retain essential information in an accessible manner. Durable medium includes 
+traditional methods such as hard copy documents and letters as well as digital 
+formats such as PDFs, emails, and information accessible on mobile apps or online 
+platforms. Digital formats can only be considered a durable medium where they 
+satisfy all of the criteria set out in the above definition. The text box below 
+
+[IMAGE BLOCK]
+[Contains 1 images/figures]
+
+
+[Page 36]
+ 
+
+36 
+ 
+
+examines how a number of different formats could meet the criteria to be 
+considered a durable medium. 
+
+Box 2: Durable mediums 
+
+ 
+
+Email  – emails can be addressed to a specific individual and are capable of being 
+stored for future use and reference by that individual. They also allow for the 
+unchanged reproduction of information contained in them, as they can be stored 
+and reproduced unchanged when required. 
+
+Mobile apps  – a mobile app can allow for information to be personally addressed 
+to a specific individual, stored for future use and reference. To be considered a 
+durable medium it must be possible to ensure that the information from a previous 
+point in time, for example, a bank account statement from last year can be 
+accessed and reproduced in an unchanged form.   
+
+Online platform  – the criteria for a durable medium could also be potentially met 
+by an interactive website or online platform where users can log in to a secure area 
+on the firm’s platform, and where it provides information that is addressed to a 
+specific individual, which remains accessible in the future by means of the secure 
+login and provides the user the ability to generate unchanged reproductions of 
+information.  
+
+ 
+
+Digital platforms – online decision making 
+Consumer Protection Regulations -   Regulation 38(d)  
+
+Standards for Business Regulations –   Regulation 4(1)(a)  
+
+3.5.20  
+The Supporting Standards for Business on Securing Customers’ Interests require 
+firms to take into account the interests of consumers when designing products and 
+services, and the methods of delivery, to ensure that their products and services 
+are not designed to unfairly exploit the behaviours, habits, preferences, or biases 
+of the consumer that could result in customer detriment.  
+
+3.5.21  
+Digital platforms should be designed in a way that effectively supports consumers’ 
+decision-making and ensures transactions are suitably paced to reduce the risk of 
+consumers entering into transactions that may be unsuitable due to the speed and 
+ease of the process. Firms should consider the impact the dynamic of online 
+transactions can have on consumer decision making and apply pause features 
+where the risk of consumers entering into transactions that may be unsuitable due 
+to the speed and ease of the online process is high. This risk of this is considered to 
+
+[Page 37]
+ 
+
+37 
+ 
+
+be lower where consumers are purposefully online to purchase a financial product 
+or service, for example when using an online platform to purchase/renew their car 
+insurance. Where a consumer is online for one purpose and is then offered a 
+financial product or service, which they had not originally intended to purchase, 
+the risk is higher. The box below sets out two examples of such a scenario. 
+ 
+3.5.22  
+In completing online transactions, sufficient time should be available to the 
+consumer to assess and consider the relevant information so that they are in a 
+position to make an informed decision on whether to proceed with the transaction.    
+
+Box 3: Provision of financial services through digital platforms - supporting good online 
+decision making 
+
+Buy now pay later (BNPL) 
+
+A consumer is purchasing clothing online. At the payment stage the individual is offered a 
+buy now pay later option to split the payment over multiple instalments. The consumer’s 
+original intention was to purchase clothing and pay for the item on a debit card. However, 
+they may be enticed into entering into a short term credit facility that may not be suitable 
+for them due to the speed and ease of the process.   The use of a pause feature with a 
+warning statement in such a scenario provides the consumer with the opportunity to 
+‘pause’ and consider their decision to enter into a credit agreement (BNPL) before 
+proceeding with the transaction. It is of note that a    nationally representative survey 32 , 
+conducted by the Central Bank in 2023, showed consumers exhibit a low level of 
+understanding of BNPL increasing the risk that the consumer may be entering into an 
+agreement that they do not fully understand if they are not given the opportunity to pause 
+and make an informed decision. To help ensure that the consumer is making an informed 
+
+decision, the BNPL provider should provide concise clearly visible information to the 
+consumer at the point of decision highlighting that the consumer is entering into a credit 
+agreement, for example, displaying details on charges and fees, and what the 
+consequences are for the consumer in the event of default on subsequent payments.  
+
+Based on research conducted by the Central Bank, presenting concise salient disclosures 
+about the key risks of using BNPL within the payment checkout (i.e. made very visible at 
+the point of decision making), improves consumers’ ability to make informed choices about 
+using BNPL. This research demonstrated that these effects are significant for a nationally 
+representative sample of consumers, including consumers who are potentially in 
+vulnerable circumstances. 
+
+                                                                 
+32  Central Bank of Ireland (2023). Consumer Research Bulletin Buy Now Pay Later Consumer Insights Update. 
+Available at:   https://www.centralbank.ie/docs/default-source/publications/consumer-protection-
+research/consumer-research-bulletin-buy-now-pay-later.pdf?sfvrsn=7ed49d1d_6 .   
+
+[Page 38]
+ 
+
+38 
+ 
+
+Figure B provides an illustration of how disclosures can be presented at the payment stage 
+and contrasts with Figure A where no risk-related disclosures are presented during 
+payment. This demonstrates that effective disclosures can be included without creating 
+undue friction to the transaction process. 
+
+Figure A : Without Disclosures 
+
+ 
+
+Figure B: With disclosures  
+
+ 
+
+ 
+Insurance as an add-on product  
+Where a consumer is purchasing products online, in some instances they may be offered  
+insurance cover offered as an add-on – for example gadget insurance when buying a 
+smartphone online, or travel insurance cover when purchasing a flight online. This is 
+another example of a scenario where consumers may be enticed into purchasing a 
+financial product that may not be suitable for their needs due to the speed and ease of the 
+process. As a result,  care should be taken to ensure that the consumer has sufficient 
+
+[IMAGE BLOCK]
+
+[IMAGE BLOCK]
+[Contains 2 images/figures]
+
+
+[Page 39]
+ 
+
+39 
+ 
+
+information and time to make an informed decision about the option to purchase the add-
+on insurance through the inclusion of appropriate pause features in the transaction 
+process.  
+
+3.6.   Regulatory Disclosure Statements 
+
+Consumer Protection Regulations -   Regulation 71(1)    
+
+3.6.1  
+This regulation requires that firms include a regulatory disclosure statement as to 
+their regulatory status for consumers. This should be displayed on mediums 
+including business stationery, webpages and websites that they use in connection 
+with their regulated activities.  
+
+3.6.2  
+For SMS (text) messages or WhatsApp messages, a regulatory disclosure 
+statement is not required where the content does not provide details of financial 
+services within the scope of the firms’ regulated activities. For example, SMS 
+messages sent to home insurance policyholders when there are weather events 
+with instructions on how policyholders can contact a helpline or submit claims do 
+not require a regulatory disclosure statement, as these are generic 
+communications.  
+
+Trading names 
+Consumer Protection Regulations -   Regulation 71(4)    
+
+3.6.3  
+It is very important that consumers know the legal entity that they are dealing with 
+and that they are not confused by the use of trading names. Where a firm has a 
+number of trading names, in communications with the consumer, the firm should 
+use all trading names linked to the particular product, service, or activity that is 
+being referenced. 
+
+Regulatory Disclosure Statement in Advertisements  
+Consumer Protection Regulations -   Regulation 71(6)    
+
+3.6.4  
+Firms must include a regulatory disclosure statement in advertisements that refer 
+to or relate to their regulated activities.  
+
+3.6.5  
+Each firm must decide the best place in/on the advertisement for the regulatory 
+disclosure statement to appear. The Central Bank recommends the following:  
+
+•   for print advertisements, TV advertisements and online advertisements, the 
+regulatory disclosure statement should be placed in a position where it can 
+be clearly seen as a standalone, but prominent and legible, statement. If 
+information cannot be visually displayed, firms should reduce the amount of 
+information in advertisements to improve consumer understanding; and   
+ 
+
+[Page 40]
+ 
+
+40 
+ 
+
+•   for radio advertisements, the regulatory disclosure statement should be 
+delivered at a speed that is clear and audible, and fulfils the obligation on 
+firms to inform their consumers effectively. Firms should consider whether 
+the information is suitable for audio delivery. 33  
+
+3.6.6  
+Where an online banner advertisement or pop up advertisement is of a size that 
+renders the inclusion of a regulatory disclosure statement impractical, it is 
+acceptable to link the web advertisement to a page on the firm’s website on which 
+the regulatory disclosure statement is clearly displayed. 
+
+3.7.   Advertising  
+
+3.7.1  
+Advertising is a key source of information for consumers. Consumers should 
+receive balanced information in relation to advertised products or services and, 
+consequently, we expect firms to bear this in mind when designing their 
+advertisements and in deciding what information to include. Firms must provide 
+information in their advertising that is ‘clear, fair, accurate, and not misleading’. 
+Claims and offers in advertising must be balanced with information on for example, 
+risks, fees, and charges to enable the consumer to make a fully informed choice. 
+Information in advertisements should be current and balanced. Firms should 
+discontinue or delete advertisements if they are no longer up-to-date.  
+
+3.7.2  
+The obligations in relation to advertising are not limited to those set out in   Chapter  
+9   of the Consumer Protection Regulations. When advertising, firms should ensure 
+that they are compliant with all other requirements under the Code that might be 
+relevant to a firm’s approach to advertising including Informing Effectively, 
+Information about Regulatory Status and subject matter specific warning 
+statements.  
+
+Scope and application of Advertising requirements 
+Consumer Protection Regulations –   Regulations 2   &   74  
+
+3.7.3  
+The advertising requirements under the Consumer Protection Regulations apply 
+to all formats of advertising. The Code defines an advertisement as: 
+
+“any communication in respect of a regulated entity, which is addressed to the 
+consumer public or a section of it, the purpose being to advertise a regulated 
+activity or a regulated entity the subject of these Regulations, excluding name 
+plaques, material that only communicates the regulated entity’s brand name 
+rather than the promotion of a specific financial service, and a prospectus 
+drawn up in accordance with the Prospectus Regulation;” 
+
+                                                                 
+33  Directive (EU) 2023/2225 of the European Parliament and of the Council of 18 October 2023 on credit 
+agreements for consumers and repealing Directive 2008/48/EC recital 33. 
+
+[Page 41]
+ 
+
+41 
+ 
+
+3.7.4  
+Advertising can be communicated in a number of ways , which may include:   
+
+•   TV, radio, print, outdoor (billboards, window displays, advertising on buses, 
+trains, bus stops and train stations), online advertising (banner/pop-up 
+advertising);  
+
+•   social media;  
+
+•   websites;  
+
+•   search engine sponsorships;  
+
+•   promotional materials; and  
+
+•   competitions and advertorials that promote products/services.  
+
+There is an exemption from the advertising rules for ‘sponsorship material’ i.e. 
+material that only communicates the regulated entity’s brand name rather than the 
+promotion of a specific financial product or service.  
+
+Advertising on social media  
+3.7.5  
+Communications including advertisements made on social media by a firm are 
+subject to the Code’s requirements. In general, advertisements on social media 
+includes posts, memes, images and text. These may be in public environments (such 
+as Reddit) or may be in private environments (such as Telegram, WhatsApp) but 
+firms will need to consider the application of the Code in both scenarios. The 
+advertisement could be time-bound such as a story on Instagram but will still have 
+to comply with the Code.  
+
+3.7.6  
+A ‘finfluencer’ is someone who uses social media to promote, give financial advice 
+or market financial products. ‘Finfluencers’ must comply with the Code if there is a 
+commercial relationship (payment or other commercial relationship) between the 
+‘finfluencer’ and the firm. For example, a firm pays a finfluencer to post promoting 
+their firm’s service or product. The finfluencer’s post in effect encourages 
+followers to use the firm’s products or services. In such scenarios, the firm is 
+responsible for the posts made by the finfluencer. The firm must ensure that the 
+posts comply with the Code. Firms should be aware that posts are a type of 
+advertisement under the Code and will need to comply with advertising  
+requirements. Other persons who publish communications on social media under 
+an outsourcing arrangement with the firm must also comply with the Code’s 
+requirements.  
+
+Advertising Governance 
+Standards for Business Regulations –   Regulations 4(1)(a)   &   11(a)   
+
+[Page 42]
+ 
+
+42 
+ 
+
+3.7.7  
+Firms must have appropriate governance arrangements in place for all aspects of 
+product development, promotion, distribution, and post-sale services of their 
+advertising to ensure they comply with the Code.  
+
+3.7.8  
+It is important that the Board and Senior Management, compliance function and 
+marketing function (as appropriate), work closely together to ensure that a 
+finalised advertisement complies with the Code.  
+
+3.7.9  
+Firms should have appropriate compliance arrangements for advertising. This 
+includes monitoring advertising on an ongoing basis to ensure ongoing compliance 
+with the Code, developing processes for issue escalation, evaluating advertising 
+campaigns regularly, and maintaining evidence of these evaluations.  
+
+3.7.10  
+Where a firm chooses to launch a new product or service, the decisions around 
+how the product or service shall be advertised should be considered in light of the 
+advertising requirements of the Code. 
+
+3.7.11  
+Firms should consider the following points in relation to systems and controls for 
+advertising:   
+
+•   Does management have a clear strategy for advertising/marketing? Does 
+the strategy include clear accountability for the design and approval of 
+advertisements?    
+
+•   Do firms have appropriate processes and controls in place to highlight the 
+effectiveness or deficiencies of their systems and controls, in order to 
+ensure that the advertising approval system is operating effectively?  
+
+•   Is there regular audit testing to ensure that processes and procedures are 
+accessible, are working correctly, and are being used in practice by those 
+who design and approve advertisements?  
+
+•   Where audit tests such as the above are being carried out, is there a detailed 
+record of how often, by whom (noting their official role/function) and when 
+the next test is to be carried out?   
+
+•   Are there relevant controls that allow for the release of advertisements only 
+after confirmation that the advertisement is compliant with the advertising 
+requirements of the Code?  
+
+•   Are there additional controls/checks in place when changing processes and 
+procedures or to allow for staff turnover etc.?  
+
+•   Are there adequate control mechanisms in place where third parties are 
+engaged?   
+
+[Page 43]
+ 
+
+43 
+ 
+
+•   Is there a process for complaints analysis e.g., a formal process of notifying 
+relevant staff internally where advertising issues arise? Are these issues 
+being appropriately dealt with and escalated within the firm?  
+
+•   Where IT systems are used to record and store policies, procedures and 
+issues arising, firms are responsible for the efficient management of such 
+systems by ensuring that records are adequate and complete.  
+
+•   Is there a formal log of training on the rules and processes for staff that 
+design and approve advertisements?    
+
+3.7.12  
+It is recommended that procedures are reviewed at least annually and updated to 
+address any significant or recurring issues that have occurred within the preceding 
+year.   
+
+Presentation of advertisements 
+Consumer Protection Regulations –   Regulation 77(1)  
+
+3.7.13  
+This Regulation requires that the design, presentation and content on the 
+information in advertisements is clear, fair and not misleading. In terms of 
+presentation, firms should ensure that;  
+
+•   the text is not covered with watermarks;   
+
+•   there is no page bleeding. 34  The text must fit the space assigned to the 
+advertisement to ensure that no information required by the Code e.g. 
+regulatory disclosure statement, has been obscured or omitted in any way 
+because of formatting. An example of this would be an advertisement on a 
+bus where the space allowed may obscure or omit some of the regulatory 
+information required; and   
+
+•   the entire content of an advertisement should not potentially mislead a 
+consumer into thinking that the Central Bank is endorsing the firm or any 
+of its products or services.  
+
+Advertisement to identify that it is an advertisement  
+Consumer Protection Regulations –   Regulation 79  
+
+3.7.14  
+This requirement applies to all advertisements. Finfluencers and firms must 
+identify advertisements as advertisements.  
+
+3.7.15  
+For example, where a firm advertises on social media, the communication should 
+contain the characters  #ad  to make it clear it is an advertisement. Where the 
+context or accompanying  #ad  does not make it clear, influencers are required to 
+
+                                                                 
+34  Page bleeding is where the advertisement is bigger than the space permitted.    
+
+[Page 44]
+ 
+
+44 
+ 
+
+label their sponsored content with hashtags such as  #Sponsored , or  #Promotion  
+to indicate that a post is a paid advertisement.  
+
+3.7.16  
+In a blog post or Instagram story, the disclosure that it is an advertisement should 
+be prominently placed at the beginning of the content, rather than hidden at the 
+end of a post or in a separate section.  
+
+Benefits and risks 
+Consumer Protection Regulations –   Regulation 80  
+
+3.7.17  
+If a firm highlights the benefits attached to a product or service, firms should also 
+give any risks equal prominence. For example, where the benefits of a particular 
+product or service are included in the main body of an advertisement, the risks 
+should also be in the main body. Both should be in the same font size, colour, etc. 
+We have seen examples where an advertisement may highlight the benefits of a 
+product or service and then include the risks in the small print. Firms are reminded 
+that advertisements should provide balanced messages about risks and benefits in 
+the main body of the advertisement.  
+
+3.7.18  
+Advertisements should not exaggerate any benefits or create unrealistic 
+expectations by omitting information on risks. An advertisement should also make 
+full disclosure of all material information, including fees and charges that a 
+consumer is likely to pay, in the main body of an advertisement. A restriction in 
+advertising space or the cost of buying an advertisement is not an acceptable 
+argument to avoid effective and balanced communication.    
+
+3.7.19  
+We have encountered instances where images in an advertisement are not 
+consistent with the product or service, which is misleading to consumers. Images in 
+an advertisement should not imply a benefit that the advertised product or service 
+does not provide (e.g. insurance cover for an event that is not covered by the policy 
+advertised).   
+
+3.7.20  
+Where firms use warning statements in advertisements, they should be consistent 
+with the features of the product or service being advertised. Firms must explain 
+benefits or investment returns to ensure that the advertisement is clear, fair, and 
+accurate and that the consumer is not misled. For example, should an investment 
+product only yield a promised return of capital on a particular date, the warning 
+should clearly inform the consumer that an early encashment could result in the 
+consumer losing some or all of their capital investment.  
+
+3.7.21  
+Retail intermediaries should ensure that advertisements are not misleading in 
+relation to the firm’s ability to provide the advertised product or service. Where an 
+intermediary has indirect access to one or more product provider because of its 
+
+[Page 45]
+ 
+
+45 
+ 
+
+appointment with another intermediary this should clearly be stated in the 
+advertisement. 
+
+Customer profile examples in advertising   
+3.7.22  
+Firms are reminded that all price-specific advertising must contain the key 
+information and qualifying criteria for who can avail of the price quoted in the 
+advertisement to meet the requirements of the Code. For example in cases where 
+firms are using customer profiles in insurance advertisements, it must be clear who 
+can avail of the price quoted in the advertisement.  
+
+Box 4: Price specific advertising and qualifying criteria 
+
+TV 
+TV advertisement voiceovers can be used to relay the key information and 
+qualifying criteria relating to the content of the advertisement. Firms can also use 
+TV screenshots to display key information and qualifying criteria to allow the 
+consumer to read the information with ease. A viewer should be able to easily 
+understand the verbal or written content on first viewing. 
+
+Websites  
+All key information and qualifying criteria about availing of the product or service 
+at the price quoted must be stated alongside the price quoted to meet the 
+requirements of the Code.  
+
+Social media 
+Key information and qualifying criteria relating to the advertised product or 
+service should be available on a product specific webpage linked directly 35  from 
+
+the online/social media page to meet the Code’s requirements. 36    
+
+Where a firm makes reference to ‘terms and conditions’ in an online advertisement 
+it is recommended that the advertisement includes a direct link to the relevant 
+terms and conditions webpage. 
+  
+
+3.8.   Errors Resolution  
+
+3.8.1  
+It is important that firms take ownership and responsibility for managing errors 
+that affect consumers, and that they have in place adequate governance 
+arrangements to effectively identify, track, manage, and resolve errors. As detailed 
+in Section 2.5 of the Securing Customers’ Interests Guidance, it is expected that 
+
+                                                                 
+35  Firms should also look to the Digitalisation Guidance on hyperlinks. See also Consumer Protection 
+Regulations,  Regulation 76 .  
+36   Consumer Protection Regulations,  Regulations 80  and  81 .  
+
+[Page 46]
+ 
+
+46 
+ 
+
+firms will secure their customers’ interests in the design and implementation of 
+processes and procedures for the handling of errors.  
+
+Robust governance arrangements required for errors handling   
+Consumer Protection Regulations –   Regulation 96  
+
+3.8.2  
+The governance arrangements and procedures that a firm puts in place for the 
+effective handling of errors should reflect the nature and scale of their business, 
+although certain arrangements are required at a minimum e.g. arrangements for 
+the proper oversight of the handling of errors.  
+
+3.8.3  
+The Central Bank considers that firms should have regard to the overall customer 
+impact of the error, or whether the error is systemic in nature, in determining their 
+appetite for the types of errors to be escalated to the board/senior management. 
+Some of the factors that could be considered: 
+
+•   The number of customers impacted relative to the number of customers 
+availing of the product  
+
+•   The nature of the product(s) impacted by the error  
+
+•   The known/potential remediation amounts involved 
+
+•   Whether systemic issues arise in relation to the error 
+
+•   The potential for negative publicity that could damage trust and confidence 
+in the firm/financial services sector  
+
+•   The impact (if any) on other products/services  
+
+•   The timeframe over which the error occurred  
+
+•   The timeframe in which the error is estimated to be resolved  
+
+•   Whether the error constitutes a breach of a regulatory obligation and the 
+potential need to disclose the issue to the Central Bank  
+
+•   Whether a number of small errors, taken together, could be considered 
+‘significant’. 
+
+3.9.   Complaints Resolution  
+
+3.9.1  
+In addition to the guidance provided in Section 2.5 – Dealing with Errors or 
+Mistakes and Customer Complaints of Securing Customers’ Interests Guidance, 
+the guidance set out under this section details the obligations on firms in recording, 
+managing and resolving complaints from consumers. These include provision of 
+clear information to the consumer, accessible procedures for the handling of 
+complaints, and prompt resolution of complaints.  
+
+[Page 47]
+ 
+
+47 
+ 
+
+Proper categorisation of complaints  
+3.9.2  
+Proper complaints handling requires that regulated firms correctly categorise 
+complaints, as distinct from queries, or negotiations on price. The Central Bank 
+expects firms to adopt a substance over form approach to mitigate the risk of 
+issues being excluded from the complaints process.  
+
+3.9.3  
+The Central Bank expects firms to decide on a case-by-case basis whether any 
+expression of dissatisfaction regarding price is part of the negotiation of the price, 
+or whether it constitutes a complaint. A firm must have regard to its obligation to 
+implement the formal complaints procedure for consumers as outlined in the Code. 
+This applies whether or not the consumer ultimately decides to purchase the 
+product at the price quoted. 
+
+3.9.4  
+All expressions of dissatisfaction by consumers must be clearly categorised and 
+addressed to avoid firms bypassing the complaints resolution process required by 
+the Code and to ensure their compliance with their obligation to act honestly, fairly 
+and professionally.  
+
+3.10.   Specific Requirements for Credit Institutions  
+
+Consumer Impact of Closing, Moving or Merging Branches 
+Consumer Protection Regulations –   Regulation 159    
+
+3.10.1  
+The purpose of this requirement is to ensure that credit institutions have 
+considered the consumer impact of closing, moving, or merging branches and that 
+as part of those considerations, they assess the suitability of alternative 
+arrangements and provide relevant information to their consumers. In this 
+regulation, a ‘branch’ means a local branch which consumers can attend onsite for 
+the purposes of being provided with financial services. 
+
+3.10.2  
+There are two main aspects to this regulation;  
+
+(a)   A set of requirements that credit institutions must comply with in terms of 
+notification to the Central Bank; and  
+
+(b)   A set of requirements that credit institutions must comply with in terms of 
+notification to consumers that are customers of the credit institution, 
+through the relevant branch and the wider community.    
+
+3.10.3  
+When providing notification to the Central Bank of the decision to close, move or 
+merge branches, a credit institution must meet the requirements set out in this 
+Regulation. These requirements include informing the Central Bank of any 
+relevant planned steps or subsequent developments, which have the potential to 
+affect consumers during the period from the date of notification to the Central 
+Bank to the date of closure, merger, or move. These planned steps or 
+
+[Page 48]
+ 
+
+48 
+ 
+
+developments should include, but are not limited to, any upcoming or future 
+developments that the credit institution may have planned that may exacerbate or 
+alleviate the impact on consumers. Examples could include future changes to 
+access or services that may be under consideration.  
+
+3.10.4  
+Subject to notifying the Central Bank when the decision to close, merge or move 
+has been made (which must be made at least 2 months in advance of notifying 
+affected consumers), the credit institution is required to give at least 6 months’ 
+individual notice to every consumer that is a customer of the relevant branch of 
+the credit institution. The notification period runs from when the credit institution 
+notifies consumers about the closure, merger, or move of the branch. Credit 
+institutions must complete all the business of the branch prior to the closure, 
+merger or move or, alternatively inform the relevant consumers how continuity of 
+an equivalent service will be provided through another branch.   
+
+3.10.5  
+Where a credit institution intends to close a branch, it is required to carry out an 
+assessment of the anticipated impact of the closure on consumers that are 
+customers of the credit institution, with regard to (a) access to financial services 
+and (b) the range of financial services available to the consumer. The assessment is 
+required to assess the suitability of alternative arrangements, and where those 
+alternative arrangements are suitable, the credit institution’s plans for transferring 
+affected consumers that are customers of the credit institution to those 
+arrangements, including any plans necessary for consumers in vulnerable 
+circumstances. The assessment should consider all aspects that may have an 
+impact on consumers including the following:  
+
+•   Consideration of customers in vulnerable circumstances impacted 
+(including any proactive measures being taken)  
+
+•   Access to alternative banking services - other branch and ATM (where 
+relevant) services nearby and information around any services currently 
+available that may not be available following a branch closure.  
+
+3.10.6  
+The assessment must be approved by the board of directors, or the entity or 
+persons controlling the regulated entity.    
+
+3.10.7  
+The credit institution must publish the assessment on its website. They must also 
+arrange publication in a local newspaper that the credit institution has carried out 
+an assessment and indicate where individuals can access a copy of the assessment. 
+They must also place notices in the relevant branch indicating that the assessment 
+has been undertaken and where it can be accessed. In drafting the notice, credit 
+institutions should consider what groups of people use this particular branch and 
+
+[Page 49]
+ 
+
+49 
+ 
+
+how best to communicate with them. For example, credit institutions should ask 
+themselves: 
+
+•   Do consumers in vulnerable circumstances use the branch? 
+
+•   Do people with visual impairment use the branch; do young people use the 
+branch? 
+
+•   Is there a portion of the community that speak languages other than English as 
+their first language?  
+
+3.10.8  
+The notice of the fact that the assessment has been carried out must be published 
+on the credit institution’s website no later than 2 months prior to the closure of the 
+branch. Given the nature of the assessment, the published assessment does not 
+need to contain any commercially sensitive information.   
+
+3.10.9  
+Within nine months of the closure of the branch, a second assessment must be 
+commenced  by the credit institution. This must assess the impact of the closure on 
+their customers, and where alternative arrangements were made for those 
+customers, their experience of and satisfaction with the alternative arrangements. 
+The assessment must be completed within 15 months of the branch closure. If 
+there are material issues identified with the suitability of alternative arrangements 
+that have been put in place, credit institutions must resolve these issues. 
+
+3.10.10   The credit institution must publish the assessment referred to in 3.10.9 on its 
+website and in a local newspaper and indicate where individuals can access a copy 
+of the assessment.  
+
+3.10.11   These requirements do not apply where the closure, merger, or move is temporary, 
+for example where a branch may be closed for a period of time due to renovation, 
+refurbishment or to allow for emergency works to be carried out. 
+
+Conditions for unsolicited personal visits to personal consumers in relation to non-
+mortgage arrears 
+Consumer Protection Regulations –   Regulations 278   &   279  
+
+3.10.12   While unsolicited personal visits may be difficult for some borrowers, we believe 
+that once in any 6-month period, a lender should be able to make an unsolicited 
+personal visit to the home of a borrower in arrears to discuss the arrears, where 
+other attempts at contact have failed. However, it is important that any such visits 
+have the best interests of the borrower as their objective, and are conducted in an 
+appropriate manner, in line with the requirements of the Code.  
+
+3.10.13   For the Consumer Hire and Hire Purchase sectors,   Regulation 278   does not apply 
+
+on the basis that those firms may need to access their asset more frequently given 
+
+[Page 50]
+ 
+
+50 
+ 
+
+that ownership of the asset only passes from the firm to the customer at the end of 
+the contract. The owner should retain the ability to inspect their asset and is 
+subject to existing protections provided under the Consumer Credit Act in relation 
+to consumer-hire and hire-purchase agreements, which limit firms’ ability to make 
+personal visits and phone calls (restricting times, location and contacts).  
+
+3.10.14   In respect of non-mortgage arrears, no more than three unsolicited telephone calls, 
+per calendar month, to a personal consumer is permitted. This limit does not 
+include communications made in compliance with other requirements of the Code 
+or other regulatory requirements.  
+
+3.10.15   The limit on unsolicited telephone calls applies per personal consumer. Therefore, 
+where a personal consumer has, for example, a credit card and a personal loan in 
+arrears with a lender, that lender may initiate no more than three unsolicited 
+telephone calls per calendar month, by whatever means, to that personal 
+consumer in respect of those arrears.  
+
+3.10.16   It should be noted that specific requirements exist in relation to   Part 3 – Chapter 9  
+
+of the Consumer Protection Regulations, which deals with arrears on a mortgage 
+secured on the consumers’ primary residence.  
+
+3.11.   Specific Guidance for the Insurance Sector  
+
+The following guidance is relevant for insurance undertakings and insurance intermediaries.  
+
+Explicit opt-in requirement for gadget, travel, dental and pet insurance  
+Consumer Protection Regulations –   Regulation 327  
+
+3.11.1  
+This requirement requires that an insurance undertaking or insurance 
+intermediary obtain the consumer’s consent to automatic renewal of a policy of 
+pet insurance, travel insurance, gadget insurance, or dental insurance.  
+
+3.11.2  
+The requirement does not prevent automatic renewal for these insurance 
+products; it simply applies an additional step to ensure consumers are fully aware 
+of any proposed automatic renewal arrangement and proactively opt-in.  
+
+ 
+3.11.3  
+The requirement applies to new contracts entered into after the Consumer 
+Protection Regulations come into effect and to the renewal of these contracts.  
+
+ 
+Advance notification of expiry date of a policy of non-life insurance 
+Consumer Protection Regulations –   Regulation 346  
+
+3.11.4  
+The purpose of this requirement is to create “implementation intentions” to 
+support consumers in overcoming behavioural biases, including procrastination 
+that can deter optimal financial engagement. The intention is that, through the 
+
+[Page 51]
+ 
+
+51 
+ 
+
+receipt of the pre-renewal notification, the consumer will be prompted to plan 
+ahead and prepare to switch before they receive their renewal notification with 
+the proposed premium and policy information.  
+
+3.11.5  
+The pre-renewal notification can be provided in a format as determined by the 
+insurance undertaking or insurance intermediary, in line with the existing 
+communication preferences of the consumer. It could be communicated to the 
+policyholder via email, through an app or by post.  
+
+3.11.6  
+It is important to inform consumers of the purpose of the pre-renewal notification 
+and to guide customers to take the intended action. The box below provides 
+sample wording that could be used, however it is for the individual undertakings to 
+determine the most appropriate wording to utilise in this notification.  
+
+Box 5: Potential pre renewal notification wording 
+
+  Notification via email or post  
+
+ 
+
+Policy number: ABC123446789 
+ 
+Dear Policyholder  
+ 
+Your motor insurance policy will be coming up for renewal on [date].  We will 
+send you full details including a quote for renewal of your product 20 working 
+days prior to the renewal date.  
+ 
+Now is a good time to consider if your motor insurance policy still meets your 
+needs and provides you with the cover you require and whether there are any 
+alternative products available that meet your needs.  
+ 
+If you want to consider alternative products you should set aside time to 
+consider your needs and to compare products. You will be able to undertake 
+price comparisons once you receive your renewal notice. 
+ 
+Full details will be set out in your renewal pack, which we will provide to you 
+20 working days before the policy renewal date.  
+ 
+
+ 
+
+Notification of lapse of cover of a health insurance policy 
+Consumer Protection Regulations –   Regulation 347    
+
+3.11.7  
+The purpose of this requirement is to address the risk that an adult covered under 
+a health insurance policy, who is not the policyholder, may not be notified or 
+
+[Page 52]
+ 
+
+52 
+ 
+
+otherwise aware of a cancellation or lapse of the policy. This scenario could 
+present considerable risks for the consumer, as they may not be aware that the 
+health insurance cover has ceased.  
+
+3.11.8  
+This is not a retrospective requirement and we do not require insurance 
+undertakings to collect contact details from adults who are not the policyholder 
+but covered under existing health insurance policies. However, as health insurance 
+policies are annual policies, over time, the assumption is that this information will 
+be collected for all adults.  
+
+3.11.9  
+The health insurance undertaking should make reasonable efforts to collect the 
+contact details of the adults covered under the health insurance policy. Ultimately 
+the policyholder is responsible for the provision of contact details; phone, email or 
+postal address of all adults covered under the health insurance policy. If the 
+policyholder fails to provide that information, then the health insurance 
+undertaking cannot notify the adult covered under the health insurance policy in 
+the event that the cover has ceased.   
+
+3.11.10   It is for individual health insurance undertakings to determine and put in place 
+mechanisms to collect the contact details of all adults covered under the health 
+insurance policy, this could be through including additional fields on online 
+platforms or through their app.  
+
+3.11.11   The requirement does not apply where a health insurance policy under a corporate 
+health insurance scheme is arranged by an employer with an insurance 
+undertaking for a group of employees.  
+
+Timing of Premium Rebates  
+Consumer Protection Regulations –   Regulations 60 ,  348   &   351  
+
+3.11.12   An insurance undertaking must provide a consumer any premium rebate that is 
+due from the insurance undertaking within 10 working days of the rebate 
+becoming due, whether paid directly to the consumer or via an intermediary. 
+
+3.11.13   For the avoidance of doubt, an insurance undertaking may specify in its policy 
+terms and conditions a condition that rebates under a certain specified amount will 
+not be refunded to the consumer, and/or additional premiums under a certain 
+specified amount will not be sought from the consumer. However, insurance 
+undertakings are also reminded of their obligations under   Regulation 60  to provide 
+the terms and conditions attaching to a product or service before the consumer 
+enters into a contract for that product or service. 
+
+Consumer Protection Regulations –   Regulation 351  
+
+[Page 53]
+ 
+
+53 
+ 
+
+3.11.14   Regarding compliance on rebates, this Regulation, stipulates that an insurance 
+intermediary must obtain the prior written agreement from the consumer every 
+time it intends to deduct any charges from a premium rebate. This requirement 
+would not be satisfied by obtaining such agreement in the terms of business. 
+
+ 
+
+ 
+
+[Page 54]
+T : +353 (0)1 224 5800     
+E : publications@centralbank.ie 
+www.centralbank.ie 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+[Contains 1 images/figures]

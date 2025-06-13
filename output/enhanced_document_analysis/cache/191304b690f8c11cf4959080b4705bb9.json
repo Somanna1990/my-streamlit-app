@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the structure, operation and benefits of an occupational pension scheme - it is not an insurance quotation document. 2) While the document mentions premiums in Section 2.3, it only discusses that the employer will pay all premiums and that the initial premium is shown on the policy schedule. It does not deal with providing quotations or explaining payment options to consumers. 3) The document is specifically focused on establishing the rules for a company pension scheme where the employer is the policyholder, not a consumer-facing insurance quotation where Regulation 338's requirements about explaining premium payment differences would be relevant. 4) The scheme described is an occupational pension arrangement between an employer and trustees, rather than a direct consumer insurance product that would fall under these consumer protection regulations regarding quotations.",
+  "confidence_score": "High",
+  "regulation_number": 338,
+  "regulation_title": "Insurance quotation - explanation of difference in cost between payment of premium by lump sum or by instalment",
+  "regulation_text": "338. (1) When providing an insurance quotation to a consumer, an insurance undertaking or insurance intermediary shall explain any difference in cost between paying the premium by way of a lump sum or in instalments. (2) The explanation referred to in paragraph (1) shall detail the monetary value of any difference arising between the 2 options. (3) In this Regulation, the term \"insurance quotation\" shall be understood to include a renewal notification containing an insurance quotation.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

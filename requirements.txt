@@ -1,0 +1,20 @@
+# CPC_AIB_Life - Version 9 Requirements
+# Web Framework
+streamlit==1.32.0
+
+# PDF Processing
+PyMuPDF==1.23.8  # Also known as fitz
+
+# Data Processing
+pandas==2.1.4
+openpyxl==3.1.2  # For Excel file handling
+
+# API and HTTP
+requests==2.31.0
+
+# Progress Bars and CLI
+tqdm==4.66.1
+
+# System and Utilities
+pathlib==1.0.1
+python-dateutil==2.8.2

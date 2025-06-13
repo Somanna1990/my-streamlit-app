@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is from AIB life, which is explicitly stated to be 'regulated by the Central Bank of Ireland' (last page), making it a regulated entity subject to these regulations. 2) The document describes a pension life cover scheme that provides financial services to consumers, specifically retirement and death benefits. 3) The document establishes trustee duties and powers (Section 4) which would need to incorporate regulatory requirements around consumer protection, including reporting of potential financial abuse. 4) The scheme involves handling of significant financial assets and benefits for vulnerable beneficiaries (dependants in case of death), making consumer protection particularly relevant. 5) The document outlines administrative roles and responsibilities that would need to include procedures for reporting concerns about financial abuse, as required by the regulation. The presence of defined roles, responsibilities and administrative procedures indicates the infrastructure exists to implement such reporting requirements.",
+  "confidence_score": "High",
+  "regulation_number": 37,
+  "regulation_title": "Reporting of concerns by employees",
+  "regulation_text": "37. A regulated entity shall establish, maintain and adhere to clear policies and procedures for its employees to report, within the regulated entity, concerns that a personal consumer to whom the regulated entity is providing financial services within the sco pe of its regulated activities is at risk of financial abuse by any person. Chapter 4 Digitalisation",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

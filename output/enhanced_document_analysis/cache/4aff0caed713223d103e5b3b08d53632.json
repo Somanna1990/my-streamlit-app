@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically pertains to insurance policies that include a 'no claims discount' and requires notification of terms and conditions related to such discounts. The document in question is a pension life cover scheme rules document that outlines the operation of an occupational pension scheme providing death benefits. While it is an insurance-related product, it is not a type of insurance that would typically have a no claims discount feature. The document makes no mention of any no claims discount or similar premium reduction mechanism based on claims history. The premiums described in Section 2.3 are fixed amounts unless modified by indexation or specific changes, not by claims experience. Therefore, Regulation 343 regarding no claims discount terms and conditions is not applicable to this pension life cover scheme document.",
+  "confidence_score": "High",
+  "regulation_number": 343,
+  "regulation_title": "Terms and conditions applicable to no claims discount to be provided to consumer",
+  "regulation_text": "343. Where a no claims discount has been applied to the premium charged in respect of an insurance policy, an insurance undertaking or insurance intermediary shall include with the insurance policy issued to the consumer in accordance with Regulation 342, notif ication, on paper or on another durable medium, of the terms and conditions that apply to such discount, including any restrictions on the use or availability of the discount.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

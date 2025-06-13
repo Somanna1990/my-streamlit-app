@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several key reasons: 1) The document is a pension life cover scheme rules document that specifically deals with death benefits for company pension schemes, not motor or property insurance claims. 2) The scheme's only purpose as stated in Section 3.4 is 'to provide benefits for the member's dependants if the member dies before normal retirement age.' 3) While the document does discuss claims processes, these are specifically related to death benefit claims under a pension scheme, not motor/property insurance claims which are the focus of Regulation 358. 4) The document outlines a trust-based pension arrangement governed by pension legislation and tax law, rather than an insurance contract of the type covered by the regulation. The notification requirements about loss assessors under Regulation 358 would not be relevant to death benefit claims under a pension scheme.",
+  "confidence_score": "High",
+  "regulation_number": 358,
+  "regulation_title": "Notification that a claimant may appoint a loss assessor",
+  "regulation_text": "358. Within 5 working days of an insurance undertaking receiving notice of a motor insurance, property insurance, or other claim, the insurance undertaking shall, where relevant to the type of claim, notify the claimant on paper or on another durable medium tha t the claimant may appoint a loss assessor to act in the claimant's interests but that any such appointment will be at the claimant's expense.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

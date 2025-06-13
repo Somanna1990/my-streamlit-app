@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the structure, operation and benefits of a pension death benefit scheme. It does not contain any claims settlement procedures or policies. 2) While the document mentions death benefits that may be payable, it focuses on defining the scheme rules, trustee duties, and benefit calculations rather than the operational aspects of claims settlement. 3) The regulation specifically addresses insurance undertakings' obligations regarding claim settlement timeframes and payments, while this document is about pension scheme governance and does not contain any claims processing procedures. 4) The document shows this is a pension trust arrangement rather than a direct insurance contract, with benefits being paid through trustees rather than directly by an insurance undertaking to claimants. Therefore, regulation 366 regarding insurance claim settlements does not apply to these scheme rules.",
+  "confidence_score": "High",
+  "regulation_number": 366,
+  "regulation_title": "Settlement of claim",
+  "regulation_text": "366. (1) Where a claimant has agreed to accept the offer made by an insurance undertaking to settle a claim or, where applicable, that part of a claim that has been quantified, the insurance undertaking shall pay the claim settlement offer to the claimant within 10 working days from the date on which the claimant agreed to accept the offer notwithstanding that legal costs, where applicable, may not yet have been agreed. (2) Where a method of direct settlement is being applied, the insurance undertaking shall discharge any claim without delay.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "Yes",
+  "compliance_reasoning": "The regulation requires that insurance documentation must state the registered legal name of the underwriter of the insurance policy. The document clearly states that the benefits payable under the scheme will be provided by means of assurances issued by AIB life. The document also refers to AIB life as the 'Life Office' throughout, including in the definitions section where it explicitly defines 'Life Office' as 'AIB life or where AIB life agrees in writing, any other life office authorised to carry on life assurance business in Ireland.' This indicates that AIB life is the underwriter of the insurance policy.",
+  "compliance_evidence": "The benefits payable under the scheme will be provided by means of an assurance or assurances, to be issued by AIB life.; The policy will be subject to the terms and conditions provided to the trustees by the life office.; The trustee hereby appoints AIB life as registered administrator for the purposes of the Pensions Act.; Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland. Registered in Ireland number 701277, VAT number 3804332MH.",
+  "gap_description": "",
+  "gap_recommendations": "",
+  "confidence_score": "High",
+  "regulation_number": 331,
+  "regulation_title": "Policy documentation to state name of underwriter",
+  "regulation_text": "331. An insurance undertaking or insurance intermediary shall state the registered legal name of the underwriter of the insurance policy on all policy documentation issued to a consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 2,
+  "compliance_evidence_with_page": "[Page 2] The benefits payable under the scheme will be provided by means of an assurance or assurances, to be issued by AIB life.; [Page 9] The policy will be subject to the terms and conditions provided to the trustees by the life office.; [Page 18] The trustee hereby appoints AIB life as registered administrator for the purposes of the Pensions Act.; [Page 25] Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland. Registered in Ireland number 701277, VAT number 3804332MH."
+}

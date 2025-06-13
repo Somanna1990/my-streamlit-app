@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "The regulation applies to this document for several reasons: 1) The document is from AIB life, which is identified as a regulated entity in the footer ('Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland'). 2) The document appears to be a published document that could be considered promotional/informational material about their pension life cover scheme. 3) The document does comply with the regulation by clearly specifying both the company name (Saol Assurance d.a.c.) and trading name (AIB life) in the footer. Additionally, the company registration number and VAT number are provided. The document demonstrates awareness of and compliance with the requirement to clearly specify the regulated entity's names in published materials.",
+  "confidence_score": "High",
+  "regulation_number": 78,
+  "regulation_title": "Company name and trading name to be specified",
+  "regulation_text": "78. A regulated entity shall ensure when publishing an advertisement that its name, including any company name and trading name, is clearly specified in all advertisements.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

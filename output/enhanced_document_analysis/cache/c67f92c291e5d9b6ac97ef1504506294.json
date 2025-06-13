@@ -1,0 +1,16 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The regulation requires regulated entities to identify in their records those customers that are consumers. While the document defines various terms including 'Member', 'Employer', and 'Dependant', it does not explicitly identify which customers are consumers as required by Regulation 116. The document appears to be scheme rules for a pension life cover product offered by a regulated entity (AIB life), but lacks specific provisions for identifying consumers in its records.",
+  "compliance_evidence": "",
+  "gap_description": "The document does not contain any provisions or statements about how the regulated entity (AIB life) identifies consumers in its records. While it defines various parties to the scheme, it does not distinguish which of these are considered 'consumers' for regulatory purposes, nor does it outline any process for identifying and recording this classification.",
+  "gap_recommendations": "The document should be updated to include explicit provisions on how AIB life identifies and records which customers are consumers. This could be added to the Definitions section or as a separate clause in Section 2 (How Does The Scheme Work). The provision should clearly state that AIB life identifies in its records which scheme members/beneficiaries are consumers for the purposes of regulatory compliance. Additionally, the document should outline the process for making this determination and how this information is maintained in the company's records.",
+  "confidence_score": "High",
+  "regulation_number": 116,
+  "regulation_title": "Customers who are consumers to be identified in records",
+  "regulation_text": "116. A regulated entity shall identify in its records those customers that are consumers . 78 [81]",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

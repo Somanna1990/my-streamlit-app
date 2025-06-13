@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland, making it a regulated entity subject to these regulations. 2) The document specifically mentions in Section 6 that customers can view their documents through the AIB Mobile Banking app under the 'AIB life' section and 'AIB Advice tab', indicating that AIB provides information through systems that require customer access. 3) The document contains important consumer information about pension scheme rules and benefits that customers would need to access. Since AIB is providing this information through their digital systems (Mobile Banking app), they would be required to comply with Regulation 42 regarding notification of any withdrawal of access to these systems or information. The document's mention of digital access to policy documents and the ability to make changes through the app makes this regulation directly relevant to how AIB manages customer access to this information.",
+  "confidence_score": "High",
+  "regulation_number": 42,
+  "regulation_title": "Notification to be provided of withdrawal of access to systems",
+  "regulation_text": "42. (1) Where a regulated entity provides information pursuant to a requirement of these Regulations, which is addressed to a consumer but provided only by means of systems to which the consumer must be given access by the regulated entity in order to be provided with the relevant information, the regulated entity shall notify the consumer at least 15 working days in advance of any withdrawal of access to those systems or to the information concerned. (2) In the circumstances referred to in paragraph (1), the regulated entity shall notify the consumer that the relevant information may be downloaded, printed, or otherwise retained prior to withdrawal of the means of access.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

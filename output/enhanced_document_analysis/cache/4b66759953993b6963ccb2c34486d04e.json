@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "This regulation does not apply to the document for several reasons: 1) The regulation specifically applies to 'digital platforms' where a regulated entity engages with consumers, but the document is a pension scheme rules document, not a digital platform. 2) The document outlines the rules for a company pension life cover scheme and does not discuss any digital platform through which services are provided. 3) The document is focused on defining the scheme structure, benefits, and trustee responsibilities rather than consumer engagement via digital means. 4) There is no indication in the document that it relates to or governs any digital platform interaction with consumers.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 41,
+  "regulation_title": "Information to be provided on available assistance when using digital platforms",
+  "regulation_text": "41. (1) Where a regulated entity is engaging with a consumer by means of a digital platform, for the purposes of providing the consumer with a financial service, the regulated entity shall give information to consumers, on the digital platform, on where and how as sistance may be obtained with the following: (a) a specific query with regard to use of the digital platform for the purposes of being provided with such financial services; (b) further information on the financial service provided. (2) The information referred to in paragraph (1) and any associated contact details shall be displayed prominently on the digital platform at all times.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

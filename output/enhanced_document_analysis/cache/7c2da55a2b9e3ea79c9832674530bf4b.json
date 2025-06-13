@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically addresses refunds due to consumers as a result of errors made by regulated entities. The document in question is a pension life cover scheme rules document that outlines the structure, operation and benefits of a company pension scheme. While AIB Life is mentioned as a regulated entity in the document, these scheme rules do not contain any provisions related to consumer refunds due to errors. The document instead focuses on defining the terms, benefits, and operational aspects of the pension scheme, including trustee duties and scheme wind-up procedures. The refund provisions mentioned in the document (section 2.4) relate specifically to excess proceeds from pension benefits exceeding Revenue Commissioner limits, which is different from refunds due to errors as covered by the regulation. Additionally, this is a business-to-business document establishing a trust arrangement rather than a consumer-facing product document.",
+  "confidence_score": "High",
+  "regulation_number": 98,
+  "regulation_title": "Refunds to be made",
+  "regulation_text": "98. (1) A regulated entity shall take all reasonable steps to make a prompt refund due to a consumer as a result of an error made by the regulated entity causing a consumer to make an overpayment or to suffer a financial loss, and shall keep a record of the steps that it has taken to make the refund concerned. (2) Where the regulated entity has taken all reasonable steps for the purposes of paragraph (1), but has been unable to make the refund, the regulated entity - (a) shall not benefit from the refund amount, and (b) shall make the refund with appropriate interest when claimed by a consumer to whom the refund is due. (3) Paragraphs (1) and (2) apply to regulated entities providing payment services without prejudice to the rights and obligations arising pursuant to Part 4 (Rights and Obligations in relation to the provision and use of payment services) of the European Union (Payment Services) Regulations 2018.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

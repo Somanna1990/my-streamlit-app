@@ -1,0 +1,17 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The document is a financial services document from a regulated entity (AIB life) that contains multiple initialisms and acronyms without providing explanations for all of them. While some acronyms are explained (like ARF - Approved Retirement Fund), others are not explained within the document excerpt provided. Regulation 88 requires that all initialisms and acronyms in advertisements must have their meanings stated. Since this document appears to be promotional/informational material for a pension product, it would likely be considered an advertisement under the regulation.",
+  "compliance_evidence": "Some acronyms are explained, such as: 'Approved Retirement Fund (ARF) Means a fund managed by a Qualifying Fund Manager and which complies with the conditions of Section 784B of the TCA for this type of fund.'",
+  "gap_description": "Several initialisms/acronyms appear without explanation, including: 'CPC' (in the document title), 'TCA' (used multiple times before being defined as 'Taxes Consolidation Act' later in the document), 'AIB' (in 'AIB life'). Additionally, while 'TCA' is eventually defined, it appears before its definition, which could cause confusion for consumers.",
+  "gap_recommendations": "1. Add explanations for all initialisms and acronyms at their first occurrence in the document, including 'AIB', 'CPC', and any others. 2. Ensure that acronyms are explained before or immediately when they are first used, not later in the document. 3. Consider adding a glossary section at the beginning of the document that explains all initialisms and acronyms used throughout. 4. Review the entire document (beyond this excerpt) to identify and explain any other initialisms or acronyms.",
+  "confidence_score": "High",
+  "regulation_number": 88,
+  "regulation_title": "Initialisms and acronyms to be explained",
+  "regulation_text": "88. A regulated entity shall ensure that where its advertisement contains any initialisms or acronyms, the advertisement also states the meaning of each letter in the initialism or acronym concerned.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1,
+  "compliance_evidence_with_page": "[Page 1] Some acronyms are explained, such as: 'Approved Retirement Fund (ARF) Means a fund managed by a Qualifying Fund Manager and which complies with the conditions of Section 784B of the TCA for this type of fund.'"
+}

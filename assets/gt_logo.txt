@@ -1,0 +1,3 @@
+This is a placeholder for the Grant Thornton logo.
+In a production environment, you would replace this with an actual image file (gt_logo.png or similar).
+For now, we'll use a text representation in the UI.

@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several reasons: 1) The document is a set of pension scheme rules that outline the structure, benefits, and administration of a pension life cover scheme - it is not itself a digital platform or interface. 2) While Section 6 mentions that customers can use the AIB Mobile Banking app to view documents and update details, these scheme rules are not providing guidance on how to use that digital platform - they are merely referencing its existence. 3) The actual guidance for using the digital platform would need to be provided within the AIB Mobile Banking app itself, not in these scheme rules documentation. 4) The document's primary purpose is to establish and govern a pension scheme, not to provide digital platform navigation instructions. The regulation in question specifically applies to guidance that must be provided within digital platforms themselves, not to scheme rules or policy documents that may be accessed through such platforms.",
+  "confidence_score": "High",
+  "regulation_number": 40,
+  "regulation_title": "Guidance to be provided on use and navigation of digital platform",
+  "regulation_text": "40. (1) Where a regulated entity is engaging with a consumer by means of a digital platform, for the purposes of providing the consumer with a financial service, the regulated entity shall give clear and effective step -by-step guidance to consumers on how to use and navigate the digital platform. (2) A regulated entity shall ensure that a means of accessing the guidance given on the digital platform referred to in paragraph (1) is displayed prominently on that digital platform at all times.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several key reasons: 1) The document is a pension life cover scheme rules document that specifically outlines death benefit provisions, not an investment product advertisement. 2) The scheme's primary purpose, as stated in Section 3.4, is 'to provide benefits for the member's dependants if the member dies before normal retirement age.' 3) The document is a legal/administrative document establishing scheme rules rather than any form of advertisement or marketing material. 4) The benefits described are insurance-based death benefits with defined payout criteria, not investment returns that could result in capital loss. 5) The document explicitly states that 'If the member reaches normal retirement age, the member will not be entitled to any benefits' - confirming this is purely a death benefit product, not an investment product. Therefore, Regulation 382's requirement for investment return warnings does not apply to this type of product documentation.",
+  "confidence_score": "High",
+  "regulation_number": 382,
+  "regulation_title": "Warning statement regarding return on investment",
+  "regulation_text": "382. A regulated entity shall ensure that an advertisement for an investment product where a consumer's return on their investment may not include the full amount of their capital invested contains the following warning statement: \"Warning: If you invest in this product, you may lose some, or all, of the money you invest.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

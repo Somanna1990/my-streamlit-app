@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically requires warning statements about past performance in advertisements. The provided document is a pension scheme rules document that outlines the operational rules, definitions, and procedures for a company pension life cover scheme. It is not an advertisement and contains no references to or claims about past performance. The document is purely procedural and administrative in nature, detailing how the scheme works, eligibility criteria, benefits, trustee duties, and other operational aspects. Therefore, Regulation 386 regarding past performance warning statements in advertisements does not apply to this type of document.",
+  "confidence_score": "High",
+  "regulation_number": 386,
+  "regulation_title": "Warning statement to be provided regarding past performance",
+  "regulation_text": "386. A regulated entity shall ensure that an advertisement which contains information on past performance contains the following warning statement: \"Warning: Past performance is not a reliable guide to future performance.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

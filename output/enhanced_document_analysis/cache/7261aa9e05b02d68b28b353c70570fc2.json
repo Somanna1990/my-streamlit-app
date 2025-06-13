@@ -1,0 +1,16 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The regulation requires insurance undertakings to 'endeavour to verify the validity of a claim received from a claimant prior to making a decision on its outcome.' While the document is for a life cover scheme that would involve claims processing upon death of a member, there is no explicit mention of a claims verification process. The document outlines the scheme rules, definitions, and general operation, but lacks specific information about how claims are verified before decisions are made.",
+  "compliance_evidence": "",
+  "gap_description": "The document does not contain any provisions or procedures for verifying the validity of claims before making decisions on their outcomes. Section 2.1(c) mentions 'provided the policy is in force at the time of death and a valid claim is made' but does not describe the verification process to determine validity. The document lacks details on what constitutes a valid claim and how the insurance undertaking verifies claims.",
+  "gap_recommendations": "The document should be updated to include a specific section on claims processing that details: (1) The verification procedures used to validate claims, (2) Documentation required from claimants, (3) Timeframes for verification, (4) How the validity of claims is assessed, and (5) The process for communicating with claimants during verification. This section should explicitly state that the insurance undertaking will endeavor to verify all claims before making decisions on outcomes.",
+  "confidence_score": "High",
+  "regulation_number": 354,
+  "regulation_title": "Verification of claims",
+  "regulation_text": "354. An insurance undertaking shall endeavour to verify the validity of a claim received from a claimant prior to making a decision on its outcome.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

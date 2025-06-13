@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension scheme rules document for several reasons: 1) The document is a set of scheme rules that governs how a pension life cover scheme operates, rather than a log or record-keeping system for errors. 2) While AIB Life is mentioned as a regulated entity, this specific document does not contain or relate to error logging procedures - it is purely focused on defining the terms, benefits, and administration of the pension scheme. 3) The document's purpose is to establish the legal framework and operational rules for a pension scheme, not to document operational errors or consumer impacts. 4) The content is entirely focused on scheme definitions, trustee duties, benefit calculations, and scheme administration - there are no provisions or sections related to error tracking or consumer remediation. 5) While AIB Life would need to maintain error logs as a regulated entity under this regulation, that requirement would be separate from these scheme rules.",
+  "confidence_score": "High",
+  "regulation_number": 99,
+  "regulation_title": "Log of errors to be maintained",
+  "regulation_text": "99. (1) A regulated entity shall maintain an up -to-date log of all errors identified which affect regulated activities provided to consumers. (2) The log referred to in paragraph (1) shall contain the following: (a) details of each error; (b) the date each error was discovered; (c) an explanation of how the error was discovered; (d) the period of time over which the error occurred; (e) the number of consumers affected; (f) the overall monetary amounts involved in the error; (g) the status of the error in terms of whether the error is fully resolved, partially resolved, or unresolved; (h) the date the error was fully resolved; (i) the number of consumers refunded in response to the error; (j) the total amount refunded in response to the error; (k) details of any charitable donations of the refund amount; (l) details of any other remediation steps taken.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

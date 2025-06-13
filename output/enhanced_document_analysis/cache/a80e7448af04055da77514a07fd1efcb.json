@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is from AIB life, which is explicitly stated to be 'regulated by the Central Bank of Ireland' (as noted in the footer). 2) The document includes a 'Contacting Us' section (Section 6) that provides contact methods for customers, indicating it's a consumer-facing document. 3) The document outlines multiple ways to contact AIB life including by post ('PO Box 8172, Blackrock, Co. Dublin, Ireland') and by electronic means (email: 'hello@help.aiblife.ie'), which directly aligns with the regulation's requirement to 'permit and facilitate submission of complaints in writing by post and by electronic means.' 4) As this is a pension scheme rules document, it falls under financial services that would be subject to consumer protection regulations. The document's inclusion of multiple contact methods demonstrates compliance with Regulation 103's requirements for complaint submission channels.",
+  "confidence_score": "High",
+  "regulation_number": 103,
+  "regulation_title": "Form of complaints that shall be facilitated",
+  "regulation_text": "103. A regulated entity shall permit and facilitate submission of complaints in writing by post and by electronic means.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

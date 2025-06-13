@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the structure and operation of a pension death benefit scheme, not an insurance intermediary pricing document. 2) While AIB Life is mentioned as the life office provider, the document focuses on trustee duties, scheme benefits, and administrative procedures rather than pricing or renewal pricing mechanisms. 3) The document makes no mention of insurance intermediary involvement in price setting or renewal pricing - it only discusses fixed premiums paid by employers (Section 2.3 states 'The premium is a fixed amount unless an indexation or annual increase option applies to the policy'). 4) The scheme described is a single-member occupational pension scheme providing death benefits, which is fundamentally different from the type of insurance policy renewals that Regulation 317 is designed to govern.",
+  "confidence_score": "High",
+  "regulation_number": 317,
+  "regulation_title": "Insurance intermediaries' involvement in setting price",
+  "regulation_text": "317. An insurance intermediary that is involved in the setting of any portion of the subsequent renewal price of an insurance policy shall ensure that the portion the insurance intermediary sets or its contribution to that portion is set at a level that is no h igher than it would be set for a first renewal.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

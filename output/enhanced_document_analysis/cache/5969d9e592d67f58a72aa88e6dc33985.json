@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document contains multiple references to systems, controls and procedures that align with the regulation's requirements, including: trustee duties and powers (Section 4), administrative procedures (Section 4.1), compliance with Revenue requirements (Section 2.4), and pension authority registration requirements (Section 2.4). 3) The document outlines specific processes for scheme administration, benefit payments, and compliance with various regulatory requirements, which directly relates to the regulation's requirement for 'systems and controls, processes, policies and procedures'. 4) The document shows evidence of outsourcing arrangements (e.g., AIB life being appointed as registered administrator in Section 4.1), which is specifically mentioned in the regulation. 5) The document demonstrates implementation of controls to ensure compliance with various regulatory requirements including the Pensions Act, TCA, and Revenue Commissioner requirements.",
+  "confidence_score": "High",
+  "regulation_number": 14,
+  "regulation_title": "Systems and controls",
+  "regulation_text": "14. A regulated entity shall establish and implement systems and controls, \nprocesses, policies and procedures for the purpose of ensuring that it, and any \nagent acting on its behalf on the basis of an outsourcing arrangement, complies \nwith these Regulations.",
+  "section_type": "17A",
+  "source_name": "CENTRAL BANK REFORM ACT 2010 (SECTION 17A) (STANDARDS FOR BUSINESS) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

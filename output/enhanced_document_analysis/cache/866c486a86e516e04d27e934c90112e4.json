@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several reasons: 1) The document is a pension life cover scheme rules document that outlines the core structure and operation of an occupational pension scheme - it is not describing the sale or offering of optional extras with a financial service. 2) The scheme described is a standalone product with defined benefits and features - there is no mention of optional extras or additional purchasable features that would trigger this regulation. 3) The document explicitly states that 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' This indicates it is a single, defined product rather than one with optional add-ons. 4) While premiums and benefits are discussed, they are core elements of the product rather than optional extras that would require separate disclosure and consent under Regulation 94. 5) The document focuses on trustee duties, scheme rules, and benefit calculations rather than point-of-sale disclosures about optional features.",
+  "confidence_score": "High",
+  "regulation_number": 94,
+  "regulation_title": "Steps where optional extras offered",
+  "regulation_text": "94. Where a regulated entity offers a financial service to a consumer with anything else that may be purchased at the option of the consumer (referred to in this Regulation as an \"optional extra\"), the regulated entity shall - (a) inform the consumer on paper or on another durable medium - (i) that the consumer does not have to purchase the optional extra in order to purchase the financial service, (ii) of the cost of the financial service excluding the cost of the optional extra, and (iii) of the cost of the optional extra, and (b) not charge the consumer a fee for any optional extra that the regulated entity offers with a financial service unless the consumer has provided consent to purchase the optional extra.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

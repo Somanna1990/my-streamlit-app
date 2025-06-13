@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the pension scheme document for several reasons: 1) The document describes a regulated financial product (pension life cover scheme) provided by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland. 2) The document contains multiple references to documentation conferring ownership rights, particularly in Section 4 regarding trustee duties and powers. 3) The document specifically addresses document safekeeping and administration requirements, with Section 4.1 detailing trustee responsibilities for holding scheme documentation and Section 4.5 covering arrangements for dealing with scheme documentation. 4) The scheme involves ownership rights through trust arrangements that must be documented and maintained. The regulation's requirement to either provide original documentation to consumers or hold documents for safekeeping directly aligns with the trustee obligations outlined in this pension scheme document.",
+  "confidence_score": "High",
+  "regulation_number": 123,
+  "regulation_title": "Original documentation conferring ownership rights to be given or held for safekeeping",
+  "regulation_text": "123. (1) A regulated entity shall give original documentation conferring ownership rights to a consumer in a timely manner or shall hold the documents for safekeeping under an agreement on paper or on another durable medium with the consumer, in accordance with the terms of the regulated entity's authorisation. (2) This Regulation is subject to Regulation 175.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the operation of a death benefit pension scheme, not an investment product. The document explicitly states 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' 2) The scheme described is a pure protection product (life insurance) rather than an investment product - there is no investment component or fund value being built up. 3) The regulation specifically pertains to investment products and the information that must be provided about them to intermediaries, while this document is about the rules governing a death benefit only pension scheme. 4) The document is meant for trustees and employers rather than being product information provided to intermediaries for sales purposes. Based on these factors, Regulation 403 regarding investment product information standards does not apply to this type of protection-only pension scheme documentation.",
+  "confidence_score": "High",
+  "regulation_number": 403,
+  "regulation_title": "Information on investment products to meet certain standards",
+  "regulation_text": "403. A product producer using an intermediary to sell its investment product to consumers shall provide information about the investment product to the intermediary that is clear, accurate, up to date, and not misleading, and includes the information referred t o in Regulations 371 and 402.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

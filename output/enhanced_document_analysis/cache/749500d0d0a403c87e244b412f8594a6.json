@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically addresses packaged retail and insurance-based investment products (PRIIPs) and their exemption from certain regulatory requirements. The document in question is a pension life cover scheme rules document that outlines the operation of a death benefit-only occupational pension scheme. The scheme's main and only purpose, as stated in multiple sections, is 'to provide benefits for the member's dependants if the member dies before normal retirement age.' This is a pure protection product without any investment component. It does not meet the definition of a PRIIP as it has no investment element or surrender value. The document describes a straightforward group life insurance arrangement structured through an occupational pension scheme, which falls outside the scope of PRIIPs regulation. Additionally, the document shows this is regulated under the Pensions Act and administered through AIB life as a pure protection product, not an investment-based insurance product.",
+  "confidence_score": "High",
+  "regulation_number": 12,
+  "regulation_title": "Restricted application to packaged retail and insurance -based investment products",
+  "regulation_text": "12. Regulations 59, 371, and 376, and Schedule 7 do not apply in relation to packaged retail and insurance -based investment products within the scope of the PRIIPs Regulation.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

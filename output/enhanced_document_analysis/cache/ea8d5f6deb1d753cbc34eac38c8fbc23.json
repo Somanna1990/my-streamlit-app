@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation in question (Regulation 42) specifically addresses notifications about withdrawal of access to systems where a regulated entity provides information to consumers through those systems. The document provided is a pension life cover scheme rules document that outlines the terms and conditions of a pension scheme. There is no indication in the document that information is provided to consumers through systems to which access might be withdrawn, nor does the document address notification procedures for such withdrawals. The document is focused on defining the scheme rules, benefits, and trustee duties rather than addressing digital access or electronic information delivery systems.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 42,
+  "regulation_title": "Notification to be provided of withdrawal of access to systems",
+  "regulation_text": "42. (1) Where a regulated entity provides information pursuant to a requirement of these Regulations, which is addressed to a consumer but provided only by means of systems to which the consumer must be given access by the regulated entity in order to be provided with the relevant information, the regulated entity shall notify the consumer at least 15 working days in advance of any withdrawal of access to those systems or to the information concerned. (2) In the circumstances referred to in paragraph (1), the regulated entity shall notify the consumer that the relevant information may be downloaded, printed, or otherwise retained prior to withdrawal of the means of access.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

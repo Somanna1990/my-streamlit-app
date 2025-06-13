@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several key reasons: 1) The document is a pension scheme rules document that outlines the structure, operation and benefits of an executive pension life cover scheme, rather than a document related to charges or fees. 2) While section 2.3 mentions premiums, these are explicitly stated to be paid by the employer, not the consumer/member. 3) The document is establishing the legal framework and rules of the pension scheme itself rather than providing a financial service that would require a breakdown of charges to a consumer. 4) The scheme member is not responsible for any charges - the document clearly states that 'The employer will pay all premiums under any policy effected under the rules.' Therefore, since there are no direct charges to the consumer/member that would require disclosure under Regulation 66, this regulation is not applicable to this document.",
+  "confidence_score": "High",
+  "regulation_number": 66,
+  "regulation_title": "Written breakdown of charges to be provided",
+  "regulation_text": "66. (1) Prior to providing a financial service to a consumer, a regulated entity shall provide the consumer with a written breakdown of all charges, including third party charges, which will be payable by the consumer in respect of the financial service concerned. (2) The breakdown of charges referred to in paragraph (1) shall be provided on paper or on another durable medium. (3) This Regulation does not apply to a regulated entity providing MiFID Article 3 services.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

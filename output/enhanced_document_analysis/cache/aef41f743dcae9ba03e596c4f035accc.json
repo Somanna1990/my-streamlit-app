@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation in question (Regulation 113) specifically governs personal visits and telephone communications initiated by regulated entities to consumers. It requires representatives to identify themselves, state their purpose, disclose if calls are recorded, reveal referral sources, and confirm if the consumer wishes to proceed. The document provided is a pension scheme rules document that outlines the terms, definitions, and operations of a pension life cover scheme. It does not contain any content related to personal visits or telephone communications protocols. This document is a product documentation rather than a communication protocol document.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 113,
+  "regulation_title": "Information to be provided / established",
+  "regulation_text": "113. When making a personal visit or initiating oral communication by means of telephone call, in accordance with these Regulations, a regulated entity shall ensure that its representative immediately upon initiating contact and in the following order - (a) provides the consumer with his or her name and the name of the regulated entity on whose behalf the consumer is being contacted and the legitimate purpose of the contact, (b) informs the consumer that the telephone contact is being recorded, if this is the case, (c) where relevant, discloses to the consumer, the source of the referral supporting the telephone contact, and (d) establishes if the consumer wishes the personal visit or telephone call to proceed and, if not, end the contact immediately.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

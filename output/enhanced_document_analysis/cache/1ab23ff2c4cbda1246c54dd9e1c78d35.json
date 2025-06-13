@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to this document for several reasons: 1) The document is a pension scheme rules document issued by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted in the footer). 2) The document contains complex financial and legal information that needs to be understood by consumers, including definitions, scheme benefits, and trustee duties. 3) The document appears to have been drafted with consideration for consumer understanding, as evidenced by: a) Clear section organization and table of contents, b) Plain language explanations of complex terms in the Definitions section, c) Use of bullet points and clear formatting to break down complex information, d) Inclusion of a dedicated 'Contacting Us' section with straightforward instructions. 4) The document is clearly intended for consumer use as it includes sections explaining how the scheme works and provides guidance on accessing information through consumer channels like the AIB Mobile Banking app. The regulation's requirement that information be 'drafted and presented in a way that an average consumer can understand' is directly relevant to this type of consumer-facing financial document.",
+  "confidence_score": "High",
+  "regulation_number": 64,
+  "regulation_title": "Information to be drafted and presented for understanding by an average consumer",
+  "regulation_text": "64. A regulated entity shall, at all times, ensure that all information it provides to consumers is drafted and presented in a way that an average consumer who considers the information can be expected to have a reasonable level of understanding to appreciate the decisions that they make and to which the information relates.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

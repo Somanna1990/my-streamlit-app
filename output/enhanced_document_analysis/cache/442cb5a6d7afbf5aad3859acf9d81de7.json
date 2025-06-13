@@ -1,0 +1,16 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The regulation applies because the document is about an insurance policy (Executive Pension Life Cover Scheme). Regulation 342 requires insurance undertakings to issue policies within 5 working days and provide immediate digital confirmation when policies are entered into through electronic means. The document does not contain any information about the timeframe for issuing the policy or providing digital confirmation to consumers.",
+  "compliance_evidence": "",
+  "gap_description": "The document does not specify any timeframe for issuing the insurance policy to consumers or intermediaries. It also lacks information about providing immediate digital confirmation when policies are entered into through electronic means. There is no mention of the 5-working-day requirement specified in Regulation 342.",
+  "gap_recommendations": "The document should be updated to include explicit statements about: 1) The insurance policy being issued within 5 working days of being entered into, 2) The process for providing immediate digital confirmation when policies are entered into through electronic means, 3) Confirmation that the full policy documents will be issued within 5 working days, and 4) A statement that these requirements also apply to policy renewals.",
+  "confidence_score": "High",
+  "regulation_number": 342,
+  "regulation_title": "Issuance of insurance policy",
+  "regulation_text": "342. (1) An insurance undertaking shall issue an insurance policy, within 5 working days of the insurance policy being entered into, to any consumer to whom it has sold its insurance policy directly or to any insurance intermediary that has sold its insurance polic y. (2) On receipt of the insurance policy issued in accordance with paragraph (1), an insurance intermediary shall provide the insurance policy to the consumer that purchased it within 5 working days. (3) When an insurance policy is entered into by a consumer by means of telephonic, video or other electronic communication, including through a digital platform, the insurance undertaking or, where the insurance policy was entered into by the consumer through an insurance intermediary, the insurance intermediary, shall provide the consumer with immediate digital confirmation that- (a) the insurance policy is in place, and (b) the insurance policy documents will be issued within 5 working days. (4) In the circumstances referred to in paragraph (3), an insurance undertaking or insurance intermediary may provide the consumer with the terms of business referred to in Regulation 51 at the same time as the insurance undertaking or insurance intermediary p rovides the consumer with the confirmation referred to in that paragraph. (5) This Regulation shall apply equally where a consumer renews an existing policy.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

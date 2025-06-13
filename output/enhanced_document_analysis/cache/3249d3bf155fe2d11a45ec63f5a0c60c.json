@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation applies to insurance policies where premiums may be subject to review during the term of the policy. The document is about a pension life cover scheme, which is a type of occupational pension scheme providing death benefits. While it mentions a 'policy' that will be taken out with a life office (AIB life), there is no indication in the document that the premium for this policy may be subject to review during its term. The document focuses on scheme rules, definitions, and how benefits are provided, but does not discuss premium reviews or increases. Additionally, the document states 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age,' which indicates this is a death benefit scheme rather than a standard insurance policy with reviewable premiums.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "Medium",
+  "regulation_number": 337,
+  "regulation_title": "Information to be provided where premium may be subject to review",
+  "regulation_text": "337. (1) Prior to offering, recommending, arranging or providing an insurance policy where the premium payable by the consumer may be subject to review by the insurance undertaking during the term of the policy, an insurance undertaking or insurance intermediary sh all - (a) explain clearly to the consumer the risk that the premium may increase, and (b) provide the consumer with details of the time period for which the initial premium is fixed. (2) An insurance undertaking shall include a warning statement in the following format on the application form for an insurance policy of the kind referred to in paragraph (1), inserting the appropriate information in place of the instruction in square bracket s for that purpose: \"Warning: The Premium [insert ‘may' or ‘will' as appropriate] increase after [insert period of time for which the premium is fixed].\" (3) This Regulation does not apply where the premium payable by a consumer may be subject to review as a result of an amendment to the policy requested by the consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

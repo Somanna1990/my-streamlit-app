@@ -1,0 +1,722 @@
+[
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Background",
+    "Regulation Sub Section Number": "1.1.1",
+    "Regulation Text": "Consumers in vulnerable circumstances are more likely to suffer financial detriment or harm. They may make poor financial decisions and it is important, therefore, that firms consider the needs of consumers in vulnerable circumstances and provide additional supports as appropriate. The definition of consumers in vulnerable circumstances is explored further in section 2.1 of this Guidance.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Background",
+    "Regulation Sub Section Number": "1.1.2",
+    "Regulation Text": "The purpose of this Guidance is to set out the background to the definition and approach to vulnerability under the Consumer Protection Code, and to describe the Central Bank’s expectations of firms in meeting their obligations under the Code.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Background",
+    "Regulation Sub Section Number": "1.1.3",
+    "Regulation Text": "This Guidance can support firms in adopting the right mind-set and culture to effectively support consumers in vulnerable circumstances. We are seeking to embed an understanding of vulnerability within the culture of a firm, and to ensure that the needs of consumers in vulnerable circumstances, and a commitment to addressing these needs, is an integral part of a firm’s customer focus. This will allow firms to be prepared and able to assist when they engage with consumers in vulnerable circumstances.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "G20/OECD High-Level Principles on Financial Consumer Protection",
+    "Regulation Sub Section Number": "1.2.1",
+    "Regulation Text": "The   G20/OECD High-Level Principles on Financial Consumer Protection 2  set out that firms have a responsibility to treat all financial customers ‘equitably, honestly and fairly at all stages of their relationship with financial services providers’, and to ensure that ‘special attention should be paid to the treatment of customers who may be experiencing vulnerability’. Under Principle 6, the OECD sets out that ‘approaches may take into account that consumer vulnerability can manifest differently in different circumstances and may be due to a combination of personal characteristics, economic situations and market conditions’.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "G20/OECD High-Level Principles on Financial Consumer Protection",
+    "Regulation Sub Section Number": "1.2.2",
+    "Regulation Text": "The definition of ‘consumers in vulnerable circumstances’ in the Code reflects the OECD’s approach to vulnerability under the High-Level Principles.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.3",
+    "Regulation Number Name": "Securing Customers' Interests",
+    "Regulation Sub Section Number": "1.3.1",
+    "Regulation Text": "The Code’s Standards for Business include a Standard that   requires firms to secure the interests of their customers. This Standard is elaborated by Supporting Standards for Business, and is further explained in Guidance on Securing Customers’ Interests, exploring what this means in practice.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.3",
+    "Regulation Number Name": "Securing Customers' Interests",
+    "Regulation Sub Section Number": "1.3.2",
+    "Regulation Text": "The overarching duty on firms to secure the interests of customers requires firms to secure the interests of all customers, 3  including consumers in vulnerable circumstances. Securing the interests of consumers in vulnerable circumstances requires firms to understand vulnerability, to anticipate that some consumers may be in vulnerable circumstances, and to ensure that the culture, strategy, business model, decision-making, systems, controls, policies, processes and procedures of firms take account of their reasonable needs.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.3",
+    "Regulation Number Name": "Securing Customers' Interests",
+    "Regulation Sub Section Number": "1.3.3",
+    "Regulation Text": "The specific Code requirements).",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "MiFID and Crowdfunding Services",
+    "Regulation Sub Section Number": "1.4.1",
+    "Regulation Text": "The Code does not directly apply to firms when providing MiFID services 6  or to crowdfunding services. 7  The Bank’s guidance on Securing Customers’ Interests, however, sets out that we expect firms providing MiFID services to consider and apply that guidance in the context of fulfilling their obligation to  “act honestly, fairly and professionally in accordance with the best interests of  [their]  clients ” in accordance with Regulation 31 of the MiFID Regulations. 8  For crowdfunding service providers, we also expect firms to consider and apply the Securing Customers’ Interests guidance in the context of fulfilling their obligations to “ act honestly, fairly and professionally in accordance with the best interests of  [their]  clients ” under Article 3 of the EU Crowdfunding Regulations. 9",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "MiFID and Crowdfunding Services",
+    "Regulation Sub Section Number": "1.4.2",
+    "Regulation Text": "Similarly, the guidance, direction and learning for firms set out in this Guidance on Protecting Consumers in Vulnerable Circumstances should also be considered by firms when providing MiFID services and crowdfunding services, where it explains how firms can act in the best interests of consumers in vulnerable circumstances. It should be noted, however, that the Central Bank does not expect crowdfunding service providers, or firms providing MiFID services to comply with Trusted Contact Persons requirements and training requirements.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Reasonableness, Proportionality and Appropriate Levels of Care",
+    "Regulation Sub Section Number": "1.5.1",
+    "Regulation Text": "The Code’s vulnerability requirements are grounded in proportionality, and an expectation that firms will take reasonable steps to provide consumers in vulnerable circumstances with appropriate levels of care. The requirements and guidance apply when firms are doing business with consumers who are natural persons.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Reasonableness, Proportionality and Appropriate Levels of Care",
+    "Regulation Sub Section Number": "1.5.2",
+    "Regulation Text": "As there are different degrees of vulnerability, the steps firms need to take in specific circumstances will take different forms. A firm’s approach to vulnerability also needs to reflect the nature and complexity of the products or services that are being offered to consumers.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Reasonableness, Proportionality and Appropriate Levels of Care",
+    "Regulation Sub Section Number": "1.5.3",
+    "Regulation Text": "Considering the broad understanding of what circumstances make consumers vulnerable, firms are not expected to be able to identify all consumers in vulnerable circumstances, nor to categorise or label consumers as such. What firms are expected to do is to understand and take account of the drivers of vulnerability that are relevant to the business of the firm, and to design their systems, processes and procedures so that consumers in vulnerable circumstances are reasonably protected Regulations 2017. 2020/1503 of the European Parliament and of the Council of 2017/1129 and Directive (EU) 2019/1937 . from poor outcomes when the firm is otherwise acting properly. These systems, processes and procedures should include the reasonably expected due diligence that firms would undertake when on-boarding any customer; and training staff to identify and understand those circumstances relevant to the business of the firm that may make customers vulnerable.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Reasonableness, Proportionality and Appropriate Levels of Care",
+    "Regulation Sub Section Number": "1.5.4",
+    "Regulation Text": "Our expectation is that firms will arrange their business and train their staff so that when consumers in vulnerable circumstances are identified, the firm is in a position to take reasonable steps to support those consumers.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Reasonableness, Proportionality and Appropriate Levels of Care",
+    "Regulation Sub Section Number": "1.5.5",
+    "Regulation Text": "By understanding vulnerability, meeting the requirements of the Code, and reflecting a customer-focus across its business, a firm will improve the outcomes for consumers in vulnerable circumstances overall, and thereby meet the standard required by the Code.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Structure of Guidance",
+    "Regulation Sub Section Number": "1.6.1",
+    "Regulation Text": "The Guidance set out in Section 2 outlines what the definition of consumers in vulnerable circumstances means, how firms should approach this definition, and how firms should implement specific Code requirements relating to consumers in vulnerable circumstances. These requirements include: o   Providing assistance in individual circumstances; o   Providing appropriate training to staff so that they can identify and respond to consumers in vulnerable circumstances; o   Reporting concerns on financial abuse; and o   Facilitating the nomination of a Trusted Contact Person.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Structure of Guidance",
+    "Regulation Sub Section Number": "1.6.2",
+    "Regulation Text": "Section 3 of the Guidance examines how the approach to consumers in vulnerable circumstances aligns with other relevant domestic and EU requirements.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Structure of Guidance",
+    "Regulation Sub Section Number": "1.6.3",
+    "Regulation Text": "Throughout this guidance document we use the terms ‘consumer’ as in ’consumer protection’, and ‘customer’ as in ‘securing customers’ interests’. These terms are used interchangeably, and the use of one or other of the terms reflects the relationship that a person, as a consumer, has with a financial services firm. ‘Consumer’ is narrower than ‘customer’ and is defined in the Code as those customers who are either a natural person; a group of natural persons; an incorporated body with a turnover of up to €5 million, or a group of incorporated entities with a combined turnover of up to €5 million. Section 2 - Guidance",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 5
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.1",
+    "Regulation Text": "What do we mean by consumers in vulnerable circumstances? When we consider our consumer protection objective, we have regard to the principle that consumers should take responsibility for their choices and decisions. However, we know that there are very real factors that might limit their ability to do so.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 6
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.2",
+    "Regulation Text": "Circumstances and characteristics of vulnerability may result in consumers having additional or different needs, and may limit their ability or willingness to make decisions and choices or to represent their own interests. These consumers may be at greater risk of financial harm, particularly if things go wrong or financial products are unsuitable. Such a scenario was highlighted in a High Court case relating to the provision of inappropriate investment advice to a client. The failure by the firm to get to know the client properly and the provision of inappropriate advice resulted in the client experiencing significant financial loss where their circumstances meant that they required a steady return over time. 10",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 6
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.3",
+    "Regulation Text": "Vulnerability is not always a static, innate or permanent characteristic of a person. It includes any condition, characteristic or circumstance that makes a person more likely to suffer poor outcomes, particularly if firms do not act with the appropriate degree of care. These conditions can arise because of health issues, life events or lack of capability. Any circumstance that makes a consumer more prone to experiencing worse outcomes makes that person vulnerable. Moreover, individuals can move in and out of vulnerable circumstances (e.g. because of a bereavement, a job loss or ill health).",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 6
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.4",
+    "Regulation Text": "As noted, firms are required to secure the interests of all customers. However, some customers will require additional support when engaging with financial services. These will include those experiencing long-term vulnerability resulting from an inherent characteristic or those experiencing temporary vulnerability resulting from a specific trigger, such as a bereavement.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 6
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.5",
+    "Regulation Text": "The approach to consumers in vulnerable circumstances should not be to label some customers as vulnerable, and therefore, by extension others as not vulnerable. While there are clearly persons who have innate and permanent qualities that will mean that they need additional assistance, only focusing on 10   James Haughey v J&E trading as Davy, Bank of Ireland Mortgage Bank and Bank of Ireland  [2014] IEHC 206. Available at https://www.courts.ie/acc/alfresco/cff883ea-d2dc-4708-9731-b08d5e0c4bf4/2014_IEHC_206_1.pdf/pdf#view=fitH . these customers does not take adequate account of all of those customers whose challenges across a broader risk spectrum need to be considered.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 6
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.6",
+    "Regulation Text": "The definition of consumer in vulnerable circumstances in the Code reflects this broader concept and approach to vulnerability: ‘consumer in vulnerable circumstances’ means a consumer that is a natural person and whose personal circumstances, whether permanent or temporary, make that consumer especially susceptible to harm, particularly where a regulated entity is not acting with the appropriate levels of care, and ‘vulnerable circumstances’ shall be construed accordingly.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 7
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.7",
+    "Regulation Text": "In this definition, the use of the word ‘harm’ should be understood in the context of the relationship between a firm and consumers. Financial services firms exist to provide services and products to their customers. So the question firms must ask themselves is what types of harm their customers may be vulnerable to, and how this might impact their customer experience and outcomes.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 7
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Defining Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.1.8",
+    "Regulation Text": "‘Harm’ can be understood to mean the less favourable outcomes that may arise where a firm fails to act with the appropriate levels of care towards consumers in vulnerable circumstances, e.g. in the design of their business, delivery of their products and services, and other interactions with the consumer. For example, a consumer may transact for products or services that are unsuitable for their needs as a result of poor product design, ineffective communication or the use of inappropriate delivery channels.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 7
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.1",
+    "Regulation Text": "The following sections outline what is reasonably expected of firms in order to properly secure the interests of consumers in vulnerable circumstances. Governance and Culture",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 7
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.2",
+    "Regulation Text": "A firm’s directors and senior management should ensure that securing the fair treatment of consumers in vulnerable circumstances is embedded as part of a consumer-focused culture throughout the firm’s operations and processes, not just in customer facing areas of the firm but also in areas such as product and service design.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 7
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.3",
+    "Regulation Text": "Staff, from senior management through to frontline and relevant back-office staff, can influence outcomes for consumers in vulnerable circumstances. Firms need to understand vulnerability, and the ways in which consumers in certain circumstances can be vulnerable.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.4",
+    "Regulation Text": "Staff should be enabled and encouraged to identify how they can reduce the potential for harm to consumers in vulnerable circumstances. This requires firms to ensure staff are sufficiently aware of the drivers of vulnerability. Firms should ensure that all relevant staff have the appropriate skills and capabilities, as well as support from appropriate systems and processes, to understand and take into account the needs of consumers in vulnerable circumstances in their work (see section on training below).",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.5",
+    "Regulation Text": "Overall, firms should understand the types and characteristics of vulnerability that may exist in their target market and customer base, and the impact of these vulnerabilities on the financial needs of their customers, by identifying the types of risk to which their customers may be vulnerable. If firms do not understand the characteristics of vulnerability within their target market and customer base, and so fail to ensure products and services take account of these needs, those customers are at increased risk of experiencing poor or inconsistent outcomes.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.6",
+    "Regulation Text": "Consideration of vulnerability should influence the design of a firm’s products, policies and processes and should be reflected in all aspects of the customer journey. Firms should anticipate that a proportion of consumers in their target market/customer base are likely to be vulnerable and to build this into product design, and into their policies and procedures for delivering financial services. Process and Product Design",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.7",
+    "Regulation Text": "Firms should seek to proactively address potential consumer vulnerability in their general process and product design. They need to design their products and processes so that specific predictable vulnerabilities do not adversely impact on some customers, resulting in less favourable outcomes.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.8",
+    "Regulation Text": "Distributing products via a digital platform requires consideration of the potential differences in consumers’ understanding and capability to use such digital platforms. This consideration will inform general product and process design choices, and the provision of supports for consumers, which can remove barriers to access. Product and process design can also seek to positively protect customers in vulnerable circumstances. Design features that have been developed to protect and support customers in vulnerable circumstances include: o Use of technology by firms to identify hesitation by customers, indicating uncertainty or lack of familiarity, and to automatically ask if they need assistance. o The introduction of a block or limitation on payments to new payees (as a brake on potential frauds), or the facility for customers themselves to opt-in for blocks on payments related to gambling. o Use of technology and design choices to identify and limit the operation of money mules. The design of processes for on-boarding of customers and surveillance of usage, can alert firms to those customers who may have been recruited, often unknowingly, to participate in illegal activities including money transfers.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.9",
+    "Regulation Text": "Proper product and process design should also involve testing and review, to ensure processes and products meet customer needs and that appropriate supports are in place. Complaints Handling",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.10",
+    "Regulation Text": "A specific part of the business where firms must pay special attention to the needs of some consumers in vulnerable circumstances is in the area of complaints handling. The G20/OECD High-Level Principles on Financial Consumer Protection specify that ‘the needs of consumers, including those experiencing vulnerability, should be considered when designing and publicising complaints handling and redress mechanisms.’ 11",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Implementing a Broader Concept of Consumers in Vulnerable Circumstances",
+    "Regulation Sub Section Number": "2.2.11",
+    "Regulation Text": "Firms should ensure that complaints mechanisms and procedures take account of the fact that consumers in vulnerable circumstances may be particularly deterred by complex or difficult processes or procedures for complaining to the firm. All customers may be susceptible to abandoning a complaint as a result of a process that is not well designed and that makes the pursuit of a complaint time- consuming, difficult or unduly complex. 11  Instruments, O.L., 2012. Recommendation of the Council on High-Level Principles on Financial Consumer Protection. Available at   https://legalinstruments.oecd.org /e n /in struments/OECD-LEGAL-0394.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.1",
+    "Regulation Text": "The requirements of the Code 12  oblige firms, where they identify that a customer is a consumer in vulnerable circumstances, to provide that customer with reasonable assistance in order to facilitate the customer in their dealings with the firm. Under the definition of ‘consumer in vulnerable circumstances’ in the Code, this extends beyond customers that are considered innately vulnerable, and captures circumstances of vulnerability across a broader spectrum of risk.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.2",
+    "Regulation Text": "Importantly, this approach does not require individual customers to be considered as ‘vulnerable’ for firms to provide support, in line with the broader requirements of the Code, including the requirement to secure customers’ interests. For example, if a customer states that they do not understand something, or they need assistance, then a firm should take appropriate steps to support that customer’s understanding, regardless of whether an assessment of that customer would reveal circumstances to suggest that they may be in vulnerable circumstances.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.3",
+    "Regulation Text": "We have seen examples where firms have provided assistance to customers to address vulnerabilities associated with specific situations. In some cases, this assistance has been provided by individual firms, and in other cases by firms working in conjunction with industry bodies and consumer representative bodies to ensure the appropriate supports are made available to consumers. •   For consumers dealing with financial hardship, the Banking and Payments Federation Ireland (BPFI) and Money Advice and Budgeting Service (MABS) protocol is an agreement between the BPFI and MABS which outlines how borrowers in financial hardship are to be treated, and provides a framework for BPFI members and MABS clients to communicate with each other about debts. •   The Irish Banking Culture Board has developed a Common Commitment of Care for Bereaved Customers,.  Common Commitment of Care for Bereaved Customers  [online] Available at: https://www.irishbankingcultureboard.ie/wp-content/uploads/2022/05/Common-Commitment-of-Care-tagged.pdf. assist bereaved consumers, recognising that managing financial affairs after a death may be challenging. •   For consumers who may have suffered financial loss and find themselves in financial hardship, some insurance companies will provide interim payments to the customer during the claims process. Training",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.4",
+    "Regulation Text": "Under the Code, 14  a firm must provide staff with appropriate training to allow them to recognise and support consumers in vulnerable circumstances. Staff, from senior management through to frontline and relevant back-office staff, can influence outcomes for consumers in vulnerable circumstances. Firms should ensure that all relevant staff have the appropriate skills and capabilities, supported by systems and processes, to understand and take into account the needs of consumers in vulnerable circumstances in their roles.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.5",
+    "Regulation Text": "Staff of firms need to be able to recognise and respond to vulnerability. They need to know when it is appropriate to seek additional support within the firm for customers, depending on their circumstances. They should be empowered to seek that support while respecting the privacy and autonomy of individuals, to ensure future engagement with the customer takes account of their particular circumstances.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.6",
+    "Regulation Text": "Training should apply to all relevant staff 15  and should not be limited to those involved in customer-facing roles. The requirement applies to staff employed in product development, product testing, marketing, advertising, and any other positions that influence the customer journey. Training should also extend to those responsible for supervising and managing staff in such roles.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.7",
+    "Regulation Text": "The training obligation is intended to apply proportionately. It is not intended that formal external training need be procured at a cost to the firm, although larger firms may opt for such solutions. Smaller firms may utilise materials available from organisations that represent various vulnerable sectors or that might be available from professional or representative bodies. It is for the firm itself to consumer-facing functions in respect of consumers that are natural persons; (b) functions concerned in the design and development of financial services for consumers that are natural persons; (c) functions concerned in the sale or marketing of financial services to consumers that are natural persons; (d) functions involving the oversight of and responsibility for the roles referred to in subparagraphs (a), (b) and (c); (e) any other function that may have cause to deal with consumers in vulnerable circumstances at any time. Consumer Protection Regulations, Regulation 35. identify what staff training solutions are appropriate considering its customer base, business model and the number and experience of its staff.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.8",
+    "Regulation Text": "The table below sets out what should be covered by staff training. Training on vulnerability need not be limited to the areas listed - certain sector specific areas may require more tailored and focused topics. However, any proposed training programme should include these key aspects at a minimum. Figure 1 - Training for staff on recognising and supporting customers in vulnerable circumstances – Source: Reporting of Concerns by Staff",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.9",
+    "Regulation Text": "Financial abuse, including frauds and scams, remains a perennial concern, in particular for consumers in vulnerable circumstances. Financial services firms cannot prevent all forms of frauds and scams and abuse from occurring. However, firms are often in the frontline of fraudulent or abusive transactions or addressing the consequences of the actions that customers are defrauded into taking. Training for Staff on Vulnerability • Types of vulnerabilities • Key signs and indicators of vulnerability • How to recognise a consumer in vulnerable circumstances • Understanding how vulnerabilities impact customer behaviour and outcomes and why flexible and adaptable systems matter • Enabling and empowering customers to disclose a need • Practical assistance and supports available for customers • Digital journeys - what alternative options are available and what supports can be provided for customers to utilise digital options? • Recognising and responding to exploitation and abuse and the procedure to be followed if there are concerns about a customer • The role of the Trusted Contact Person and the procedure to be followed to establish this arrangement • Compliance with obligations under the ADMA and GDPR • Adult safeguarding",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.10",
+    "Regulation Text": "The Code includes a requirement on firms to have clear procedures for their employees to report concerns that a customer, who is a personal consumer, is the victim, or is at risk of being the victim, of a fraud or scam or other financial abuse. 16",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.11",
+    "Regulation Text": "When there are issues of concern with customers, frontline staff should be able to bring their concerns to the attention of those within the firm who are sufficiently expert and senior, and authorised to take whatever actions can be taken by the firm to seek to limit or prevent detriment or harm to the customer.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.12",
+    "Regulation Text": "Firms should have a dedicated person(s) to whom concerns can be raised in a confidential manner and an appropriate policy and procedure setting out how staff can raise concerns. As noted above, firms should provide training to staff to help them identify and respond appropriately to such circumstances if they arise. Appropriate Treatment of Customers in Vulnerable Circumstances – Recording of Information",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.13",
+    "Regulation Text": "Consumers  in vulnerable circumstances will not always be willing or able, without discomfort or difficulty, to communicate those circumstances to a firm. It is important that they are assisted in doing so, and that they do not have to unnecessarily explain their circumstances on multiple occasions. Staff should record relevant information on vulnerability in an appropriate way that is accessible by other staff who may need it in the context of the ongoing customer relationship.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.14",
+    "Regulation Text": "In order to ensure that they support consumers in vulnerable circumstances, firms should have processes and systems in place to appropriately record relevant information. In determining whether recording of information is ‘appropriate’ firms must ensure that they are compliant with applicable data protection laws and ensure that information is up to date, not prejudicial and retained only for appropriate purposes and periods.(f), and Regulation.  Data Protection Legislation  [online] Available at   https://www.dataprotection.ie/en/who- we-are/data-protection-legislation .",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.15",
+    "Regulation Text": "Firms should consider how best to facilitate customers in easily updating their information - e.g. consider establishing a facility that allows customers to notify the firm of their circumstances, or a change in circumstances, confidentially. All customers could use this facility to inform firms of their circumstances as the customers see fit. Such a facility might help customers in vulnerable circumstances to avoid difficult conversations that might otherwise prevent them from communicating to the firm at all.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.16",
+    "Regulation Text": "There may also be circumstances where the customer is not willing or able to provide information about their circumstances and where it will not be possible or practicable to obtain consent to retain this information. In such scenarios, it may still be appropriate to record relevant information where it is clear that it will assist the firm in securing the customer’s interests. Trusted Contact Person",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.17",
+    "Regulation Text": "The revised Code includes a requirement 18  for firms to facilitate customers, who are personal consumers and who wish to do so, to provide the name and contact information of a trusted contact. Any person so nominated is someone with whom a firm may communicate where there may be difficulty in dealing with the customer, or where financial abuse, including fraud, is suspected. This requirement does not require that a customer be identified or categorised in advance by a firm as a consumer in vulnerable circumstances. Any customer who is a personal consumer may choose to nominate a Trusted Contact Person.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.18",
+    "Regulation Text": "Staff of a firm should be familiar with the opportunity for customers to nominate a Trusted Contact Person. When dealing with customers, staff can advise customers, where they believe that this is appropriate, that the customer can nominate a Trusted Contact Person.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.19",
+    "Regulation Text": "Prior to the arrangement being put in place, firms should explain clearly to customers and to the proposed ‘trusted contact’ what the role of a Trusted Contact Person is and the circumstances under which they may be contacted under the arrangement.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.20",
+    "Regulation Text": "A Trusted Contact Person is not a legal representative of the consumer. The appointment of a Trusted Contact Person allows a firm, at the firm’s discretion, to contact the Trusted Contact Person for the purposes of communicating with, or receiving information about, the consumer. 18  Consumer Protection Regulations, Regulation 36.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 14
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.21",
+    "Regulation Text": "The Firm is not compelled to provide information to the Trusted Contact Person, nor does the Trusted Contact Person have any rights to make decisions on behalf of the consumer. A firm should not unnecessarily communicate confidential information about the affairs of the consumer to the Trusted Contact Person.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.22",
+    "Regulation Text": "Under the Code, a firm may contact a Trusted Contact persons in circumstances where: (a) the firm has a concern about possible financial abuse of the customer, or (b) the firms needs to confirm the specifics of – (i) the customer’s current contact information, (ii) the customer’s health status, or (iii) the identity of any appointed legal guardian, executor or trustee of the customer, or (c) the firms experiences difficulties in communicating with the consumer.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.23",
+    "Regulation Text": "The Code does not impose any obligation on firms to contact a Trusted Contact Person. However, firms should consider that liaising with the Trusted Contact Person is a good way of firms supporting their customers.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.24",
+    "Regulation Text": "A customer of a firm may also have other arrangements in place to assist them in their dealings with financial services firms. For example, a customer may have in place a decision making assistance arrangement under the Assisted Decision- Making (Capacity) Act, 2015. Where such other statutory arrangements are in place, firms should defer to these arrangements instead of communicating with a Trusted Contact Person.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Implementing Specific Requirements",
+    "Regulation Sub Section Number": "2.3.25",
+    "Regulation Text": "The nomination of a Trusted Contact Person is a choice lying solely with the customer. Insofar as that choice is properly communicated to a firm, the firm is not under any obligation to second-guess or review the nomination. In circumstances where a firm is concerned that there is an abusive or coercive relationship between the customer and the nominated Trusted Contact Person, the firm should consider what steps they might be able to take to assist the customer. These considerations should be made regardless of the desire of the consumer to nominate a Trusted Contact Person. Section Act Right of Consumers to Make their Own Decisions",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 15
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.1",
+    "Regulation Number Name": "Assisted Decision-Making (Capacity) Act",
+    "Regulation Sub Section Number": "3.1.1",
+    "Regulation Text": "The Assisted Decision-Making (Capacity) Act came into effect on 26 April 2023. This legislation provides a framework to support decision-making to maximise a relevant person's capacity in order to help uphold their rights and safeguard their autonomy 19 . It introduced three types of support arrangements for people who currently, or may shortly, face challenges when making certain decisions. It also provides for people who wish to plan ahead for a time in the future when they might lose capacity, by way of an advance healthcare directive, or enduring power of attorney.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 16
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.1",
+    "Regulation Number Name": "Assisted Decision-Making (Capacity) Act",
+    "Regulation Sub Section Number": "3.1.2",
+    "Regulation Text": "It is important to distinguish between lack of capacity and situations where there may be no concerns about a customer’s decision-making capacity but whose circumstances may raise concerns about vulnerability.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 16
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.1",
+    "Regulation Number Name": "Assisted Decision-Making (Capacity) Act",
+    "Regulation Sub Section Number": "3.1.3",
+    "Regulation Text": "Where firms are concerned about the decision-making capacity of an individual, the provisions of the ADMA must be complied with. Firms must consider the supporting Codes of Practice issued by the Decision Support Service, 20  including the Code of Practice for Financial Service Providers. 21",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 16
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.1",
+    "Regulation Number Name": "Assisted Decision-Making (Capacity) Act",
+    "Regulation Sub Section Number": "3.1.4",
+    "Regulation Text": "The requirements and guidance under the Code relating to consumers in vulnerable circumstances are consistent with, and complement, the requirements under the ADMA. Under both the ADMA and the Code, staff of financial services firms must be able to assist consumers in vulnerable circumstances, with the ADMA focusing on vulnerability linked to decision-making capacity. The provisions of the Code respect an individual’s decision-making discretion and autonomy while seeking to ensure that consumers in vulnerable circumstances.  Code of Practice for Supporting Decision-Making and Assessing Capacity  [online] Available at https://decisionsupportservice.ie/sites/default/files/2023-03/1.%20COP_on_supporting_decision- making_and_assessing_capacity_0.pdf.  Code of Practice for Financial Service Providers  [online] Available at https://decisionsupportservice.ie/sites/default/files/2023-04/11.%20COP_for_financial_service_providers.pdf. are appropriately assisted and supported by firms. Where a customer may require assistance to make a decision, firms will need to comply with the provisions of the ADMA and the Code.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 16
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.1",
+    "Regulation Number Name": "Assisted Decision-Making (Capacity) Act",
+    "Regulation Sub Section Number": "3.1.5",
+    "Regulation Text": "The obligation under the Code to secure the interests of consumers in vulnerable circumstances requires firms to consider what reasonable steps might be taken to ensure that those customers receive a full and proper service from the firm. This includes customers who may be experiencing vulnerability due to diminished capacity and customers who are experiencing vulnerability for other reasons. For example, a customer who speaks another language and who does not have full command of English is not someone who lacks capacity. The customer is, however, vulnerable to making decisions that they do not understand or on which they might be insufficiently informed. Firms should take reasonable steps in these circumstances to assist such customers, recognising that customers in such circumstances must also take responsibility for their own actions and decisions.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 17
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.2",
+    "Regulation Number Name": "European Accessibility Act",
+    "Regulation Sub Section Number": "3.2.1",
+    "Regulation Text": "The European Accessibility Act, implemented in Ireland by the European Union (Accessibility Requirements of Products and Services) Regulations will come into effect in June 2025. This Act introduces new requirements around accessibility of products and services, including financial products and services, in the EU.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 17
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.2",
+    "Regulation Number Name": "European Accessibility Act",
+    "Regulation Sub Section Number": "3.2.2",
+    "Regulation Text": "The European Accessibility Act aims to improve standards across all sectors, aligning with the expectations of the Code for financial services firms. Persons with disabilities should not be regarded as inherently vulnerable. It is often the disabling barriers in society, rather than the individual’s impairment that create the vulnerability for that person. So, for example, the way in which information is provided can make persons with a disability who are otherwise wholly competent and capable of conducting their own affairs, vulnerable to not having, or being able to access, the full information needed to inform their choices; or the necessary technology to be able to conduct financial services might not be designed to take into account the needs of persons with disabilities.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 17
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.2",
+    "Regulation Number Name": "European Accessibility Act",
+    "Regulation Sub Section Number": "3.2.3",
+    "Regulation Text": "The requirement of the Code to secure customers’ interests requires financial services firms to take reasonable steps to ensure that their processes and services are appropriately designed so as not to disadvantage persons with a disability when interacting with the firm. 22",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 17
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.3",
+    "Regulation Number Name": "Data Protection",
+    "Regulation Sub Section Number": "3.3.1",
+    "Regulation Text": "When seeking to comply with their obligations in respect of consumers in vulnerable circumstances, firms should ensure that the processes and procedures that are adopted comply with data protections laws.",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 18
+  },
+  {
+    "Section Number": "3",
+    "Section Name": "Broader Domestic and EU frameworks",
+    "Regulation Number": "3.3",
+    "Regulation Number Name": "Data Protection",
+    "Regulation Sub Section Number": "3.3.2",
+    "Regulation Text": "The Guidance Note of the Data Protection Commissioner on the Legal Bases for Processing Personal Data..  Guidance Note: Legal Basis for Processions Personal Data  [online] Available at https://www.dataprotection.ie/sites/default/files/uploads/2020-04/Guidance%20on%20Legal%20Bases.pdf T : +353 (0)1 224 5800 E : publications@centralbank.ie www.centralbank.ie",
+    "Document Name": "Guidance on Protecting Consumers in Vulnerable Circumstances",
+    "Page": 18
+  }
+]

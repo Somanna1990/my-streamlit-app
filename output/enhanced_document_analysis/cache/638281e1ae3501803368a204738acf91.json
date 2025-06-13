@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "This regulation does not apply to the document because the document is a set of pension scheme rules that outline the structure, definitions, and operation of a pension life cover scheme. The regulation specifically addresses requirements for regulated entities when communicating with consumers using electronic media, ensuring security of information transmission. The document does not contain any provisions about electronic communications with consumers or information security measures. It is a foundational document that establishes the rules of the pension scheme rather than a document that addresses operational communication protocols.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 49,
+  "regulation_title": "Arrangements to be in place to ensure security of information when communicating by electronic media",
+  "regulation_text": "49. Where a regulated entity communicates with a consumer using electronic media, it shall ensure that it has in place appropriate arrangements to ensure the security of information received from the consumer and the secure transmission of information to the consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

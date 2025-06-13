@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document is a pension scheme rules document from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the bottom of the document). 2) The document contains complex financial and legal information that falls under the scope of Regulation 9's requirements for effective customer communication. 3) The document demonstrates attempts to comply with the regulation through its structure and content: it includes clear definitions, uses a logical organization with numbered sections, attempts to explain technical concepts, and includes a dedicated 'Contacting Us' section. However, there are areas where the document could better align with Regulation 9's requirements, particularly around avoiding technical terms and ensuring all information is presented in plain language. The document contains numerous technical pension and legal terms that, while defined, could be simplified for better customer understanding. The regulation's requirements for clear, accurate, and plain language communication are directly relevant to this type of financial services document that explains pension scheme rules to customers.",
+  "confidence_score": "High",
+  "regulation_number": 9,
+  "regulation_title": "Informing effectively",
+  "regulation_text": "9. Without prejudice to the generality of Regulation 4(1)(e), a regulated \nentity shall inform its customers effectively, including by:  \n(a) ensuring that information is provided to a customer in such a way \nthat the material features of the financial  service in question can \nreasonably be understood by the customer;  \n(b) ensuring that all information that it provides to a customer is clear, \naccurate, up to date, and written in plain language;  \n(c) avoiding the unnecessary use of technical terms;  \n(d) providing information to a customer on a timely basis;  \n(e) bringing key information to the attention of the customer.",
+  "section_type": "17A",
+  "source_name": "CENTRAL BANK REFORM ACT 2010 (SECTION 17A) (STANDARDS FOR BUSINESS) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

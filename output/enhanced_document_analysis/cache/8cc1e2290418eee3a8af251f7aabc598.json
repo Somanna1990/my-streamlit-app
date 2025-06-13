@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically governs the opening and operation of joint accounts between two or more consumers. The document in question is a Pension Life Cover Scheme Rules document that outlines the rules and operation of an executive pension life cover scheme. The scheme described is an individual occupational pension scheme that provides death benefits for a single member's dependants - it is explicitly stated in Section 2.2 that 'The scheme is established for that one person only and that one person will always be the only member.' There are no joint account features or operations described in this document. The document deals with trust-based pension arrangements between an employer, trustee, and single member, which is fundamentally different from the joint consumer accounts that Regulation 127 is designed to govern.",
+  "confidence_score": "High",
+  "regulation_number": 127,
+  "regulation_title": "Information to be provided and obtained prior to opening joint account for consumers 8 [81]",
+  "regulation_text": "127. Prior to opening a joint account for 2 or more consumers, a regulated entity shall - (a) warn each of the consumers as to the legal and practical implications for a party to a joint account in opening and operating such an account as compared with an account for a sole account holder , (b) inform each of the consumers of the particular operations of the account for which consent is and is not required from all account holders , (c) ascertain agreed instructions from the consumers as to whether they wish each of the joint account holders to be provided with statements, and (d) ascertain agreed instructions from the consumers as to whether they wish to impose any limitations on the operations of the account. 82 [81]",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

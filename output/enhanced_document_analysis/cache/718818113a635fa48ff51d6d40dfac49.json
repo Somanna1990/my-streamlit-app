@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for the following reasons: 1) The document is a pension life cover scheme rules document that outlines the operation of an occupational pension scheme providing death benefits. 2) The regulation specifically states in Section 15(b) that it does not apply to 'any service or activity set out in Schedule 1 of the MiFID Regulations 2017.' Occupational pension schemes are typically exempt from MiFID regulations as they are considered employee benefit arrangements rather than retail investment products. 3) The document describes an employer-sponsored scheme administered by trustees for the benefit of employees, which falls under pension legislation and trust law rather than consumer protection regulations. 4) The scheme is established as a retirement benefits scheme under Chapter 1 of Part 30 of the Taxes Consolidation Act and is regulated by the Pensions Authority, not primarily as a consumer financial product under Central Bank consumer protection regulations. 5) The relationship described in the document is between employer, trustee and member rather than a regulated entity and consumer relationship that these consumer protection regulations are designed to govern.",
+  "confidence_score": "High",
+  "regulation_number": 15,
+  "regulation_title": "Circumstances in which these Regulations do not apply",
+  "regulation_text": "15. These Regulations do not apply to the following: (a) services provided by regulated entities to persons outside the State; (b) any service or activity set out in Schedule 1 of the MiFID Regulations 2017, but not including any service or activity of a person to whom such Regulations do not apply by virtue of Regulation 4(3) of the MiFID Regulations 2017; (c) reinsurance business. Part 2 GENERAL CONSUMER PROTECTION REQUIREMENTS Chapter 1 Knowing the consumer and suitability",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

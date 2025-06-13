@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the operation of a death benefit-only pension scheme. It is not an advertisement for a financial service. 2) The scheme described is purely a death benefit scheme that pays out a defined lump sum and/or pension to dependants if the member dies before retirement age - there is no investment component that can fluctuate in value. As stated in Section 3.4, 'The main purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' The benefits are fixed amounts based on salary multiples and defined formulas, not investment values. 3) Since there is no investment component or fluctuating value element to this product, the warning requirement about investment values going up or down would not be relevant or applicable to this document.",
+  "confidence_score": "High",
+  "regulation_number": 392,
+  "regulation_title": "Warning on value of investment that can fluctuate",
+  "regulation_text": "392. A regulated entity shall ensure that if the value or price of the advertised financial service can fluctuate, an advertisement contains the following warning statement: \"Warning: The value of your investment may go down as well as up.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

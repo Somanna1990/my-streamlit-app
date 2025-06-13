@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several reasons: 1) The document is a pension life cover scheme rules document that outlines the operation of a standalone death benefit pension product - it is not a bundled product offering. 2) The document describes a single product (pension life cover) with a single purpose ('The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age'). 3) There is no mention of product bundling, multiple products being sold together, or options to switch between different products within a bundle. 4) The pricing structure described is for a single product with a fixed premium unless indexation applies. The regulation specifically addresses requirements for bundled products, including cost comparisons and switching options between bundled products, which are not relevant to this standalone pension product.",
+  "confidence_score": "High",
+  "regulation_number": 92,
+  "regulation_title": "Required information on bundled product",
+  "regulation_text": "92. A regulated entity shall provide a consumer with the following information on paper or on another durable medium prior to offering, recommending, arranging or providing a product by way of bundling to the consumer: (a) the overall cost to the consumer of the bundle; (b) the cost to the consumer of purchasing each product separately; (c) information on how the consumer may switch products within the bundle; (d) the cost to the consumer of switching products within the bundle; (e) information on how the consumer may terminate the provision of products to the consumer by way of the bundle; (f) the cost to the consumer of terminating the provision of products to the consumer by way of the bundle.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

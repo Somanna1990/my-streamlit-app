@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is for a pension life cover scheme administered by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document discusses premiums and charges in Section 2.3, stating 'The premium is a fixed amount unless an indexation or annual increase option applies to the policy, or if changes are made to the policy.' This indicates that charges can change over time. 3) The scheme involves ongoing financial charges to employers and has provisions for changes to these charges. 4) As a regulated entity providing financial services to consumers (employers and beneficiaries), AIB life would be required to comply with this regulation regarding notification of any changes to charges. The document would need to incorporate or align with these notification requirements for charge increases (30 days notice) and decreases (as soon as practicable). The regulation is directly relevant to the operational aspects of this pension scheme.",
+  "confidence_score": "High",
+  "regulation_number": 69,
+  "regulation_title": "Consumers to be notified regarding increases and decreases in charges",
+  "regulation_text": "69. (1) A regulated entity shall on paper or on another durable medium - (a) directly notify affected consumers of increases in charges, specifying the previous and increased charge, or the introduction of any additional charges, at least 30 calendar days prior to the increased or additional charges taking effect, and (b) where charges are accumulated and applied periodically to accounts, directly notify consumers at least 10 working days prior to the application of charges, providing each consumer with a breakdown of any such charges, except where these charges total an amount of €10 or less. (2) A regulated entity shall notify consumers of any decrease in charges as soon as practicable.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

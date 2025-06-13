@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to this document for several reasons: 1) The document is a terms and conditions document ('Pension Life Cover Scheme Rules') from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the bottom of the document). 2) The document represents the formal terms and conditions for a financial service (pension life cover scheme). 3) The document's format and comprehensive nature (including definitions, scheme operations, benefits, trustee duties, etc.) indicates it is meant to be provided to consumers before entering into the contract, which directly aligns with the regulation's requirement that terms and conditions must be provided before a consumer enters into a contract for a financial service. 4) The document is provided in a durable medium (PDF format) as required by section (2) of the regulation. 5) The document contains the full scope of terms and conditions that would be necessary for a consumer to understand their rights and obligations under the scheme, which fulfills the regulatory intent of ensuring consumers are fully informed before entering into financial service contracts.",
+  "confidence_score": "High",
+  "regulation_number": 60,
+  "regulation_title": "Terms and conditions to be provided",
+  "regulation_text": "60. (1) A regulated entity shall provide a consumer with the terms and conditions attaching to a financial service before the consumer enters into a contract for that financial service. (2) For the purposes of paragraph (1), the terms and conditions shall be provided on paper or on another durable medium. (3) Paragraphs (1) and (2) do not apply to the extent that the contract for the provision of the product is a distance contract for the supply of a financial service under the Distance Marketing Regulations.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

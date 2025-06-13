@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension life cover scheme rules document for several reasons: 1) The document is purely about death benefit coverage before retirement age - it explicitly states 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' 2) There is no investment component or income-generating aspect described in the document - it is a pure protection product that pays out a lump sum and/or pension to dependents only upon death. 3) The document does not contain any advertisements or marketing materials - it is a legal document outlining scheme rules. 4) The benefits described are fixed amounts based on salary multiples and service years rather than fluctuating investment returns. Since this regulation specifically applies to advertisements of investment products with fluctuating income, and this document describes neither investments nor advertisements, the regulation is clearly not applicable.",
+  "confidence_score": "High",
+  "regulation_number": 394,
+  "regulation_title": "Warning statement where income can fluctuate",
+  "regulation_text": "394. A regulated entity shall ensure that where an investment product is described in an advertisement as potentially yielding income or as suitable for a consumer seeking income, and the income arising with respect to that investment product may fluctuate, the advertisement contains the following warning statement: \"Warning: The income you earn from this investment may go down as well as up.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

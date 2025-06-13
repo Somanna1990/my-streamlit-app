@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the operation and governance of a pension death benefit scheme, not an insurance claims process. 2) While AIB Life is mentioned as the life office provider, this document specifically deals with the trust structure, benefits, and administration of the pension scheme rather than insurance claims handling or appeals. 3) The document's purpose is to establish scheme rules under pension and tax legislation (Pensions Act 1990 and TCA 1997) rather than define insurance claims procedures. 4) The only claims mentioned in the document are in reference to death benefit claims under the scheme rules, which are handled by the scheme trustees rather than as insurance claims by AIB Life directly. 5) The appeals mechanism requirement in Regulation 367 specifically applies to insurance undertakings' claims decisions, while this document governs a pension trust arrangement where benefits are paid at the trustee's discretion.",
+  "confidence_score": "High",
+  "regulation_number": 367,
+  "regulation_title": "Insurance undertaking to publish details of appeals mechanism",
+  "regulation_text": "367. (1) An insurance undertaking shall publish details of any appeals mechanism it provides in respect of decisions regarding claims on its website. (2) An insurance undertaking shall provide the details referred to in paragraph (1) to claimants on paper or on another durable medium on request. A request under this paragraph (2) shall be facilitated within 5 working days.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

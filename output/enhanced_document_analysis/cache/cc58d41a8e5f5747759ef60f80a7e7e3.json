@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension scheme rules document for several reasons: 1) The regulation specifically pertains to investment products and the requirement to update information provided to intermediaries. The document in question is a pension life cover scheme rules document that provides death benefits only - it is not an investment product. This is explicitly stated in the document: 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' 2) The document describes a direct relationship between AIB Life, the employer/trustee, and the member - there is no intermediary involvement mentioned that would trigger the regulation's requirements about updating intermediary information. 3) The scheme rules document is a governance document that outlines the operation and administration of a death benefit scheme, rather than an investment product information document that would fall under the scope of Regulation 405's intermediary update requirements.",
+  "confidence_score": "High",
+  "regulation_number": 405,
+  "regulation_title": "Information on new investment product to be updated and provided to intermediary",
+  "regulation_text": "405. (1) Subject to paragraph (2), within one year of providing the information referred to in Regulation 402 and within each year thereafter, or on a more frequent basis, a product producer shall update that information and shall provide the updated information to the intermediary. (2) A product producer shall update the intermediary with respect to any additional material information, which the product producer has implemented or of which the product producer is aware, in relation to the matters referred to in Regulation 402(a) to Regulation 402(d), within 10 working days of implementation or of becomin g aware . Chapter 6 MiFID Article 3 services",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

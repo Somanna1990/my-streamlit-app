@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document describes a pension life cover scheme provided by AIB life, which is an insurance undertaking regulated by the Central Bank of Ireland (as stated in the document footer). 2) The document specifically addresses claims processing in Section 3.1, stating 'If a member dies in service and a valid claim is made against the policy, the dependants will be required to provide any evidence and information the trustee may require.' This aligns directly with the regulation's requirement to verify claims before making decisions. 3) The document outlines specific verification requirements for claims, including the need for dependants to provide evidence and information, and establishes conditions for benefit payments in Sections 3.2 and 3.3. These provisions demonstrate that the scheme incorporates claim verification procedures as required by Regulation 354. 4) The document is explicitly subject to Irish financial regulations, as evidenced by multiple references to the Central Bank of Ireland, Revenue Commissioners, and Pensions Authority.",
+  "confidence_score": "High",
+  "regulation_number": 354,
+  "regulation_title": "Verification of claims",
+  "regulation_text": "354. An insurance undertaking shall endeavour to verify the validity of a claim received from a claimant prior to making a decision on its outcome.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

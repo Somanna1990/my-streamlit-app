@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is for a pension life cover scheme administered by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the bottom of the document). 2) Section 6 'CONTACTING US' provides contact information and specifically mentions contact hours ('Mon – Fri, 08:00 - 18:00'). Since this is a regulated financial product with consumer contact elements, the regulation regarding permitted contact times would apply to any outbound contact from AIB life to scheme members/consumers. 3) The document includes multiple references to consumer interactions, including phone contact details and the statement that calls will be recorded for customer service. As a regulated entity providing financial services to consumers, AIB life must comply with the contact time restrictions specified in Regulation 112.",
+  "confidence_score": "High",
+  "regulation_number": 112,
+  "regulation_title": "Permitted contact by telephone or visit to be made only during certain times",
+  "regulation_text": "112. Permitted contact with a consumer, by telephone or by visit, made in accordance with these Regulations, may be made only between 9.00 a.m. and 9.00 p.m. Monday to Saturday, excluding public holidays, unless otherwise agreed in writing with the consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

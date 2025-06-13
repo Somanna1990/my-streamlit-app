@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the structure, operation and benefits of an occupational pension scheme, not an immediate insurance policy sale document. 2) The document does not discuss or contain any statement of suitability requirements or processes. 3) The scheme described is specifically a trust-based occupational pension arrangement providing death-in-service benefits, not a direct consumer insurance product requiring immediate cover. 4) The document indicates this is an employer-sponsored scheme with trustees, not a direct consumer product. The regulation in question (340) specifically applies to insurance policies where immediate cover is required by a consumer and the associated statement of suitability requirements. Since this document outlines the rules of an established pension scheme rather than the sale of an immediate cover insurance policy to a consumer, regulation 340 is not applicable.",
+  "confidence_score": "High",
+  "regulation_number": 340,
+  "regulation_title": "Statement of suitability where immediate cover required",
+  "regulation_text": "340. In the case of an insurance policy where immediate cover is required by a consumer, the statement of suitability referred to in Regulation 18(1) may be issued to the consumer prior to, or within 5 working days of, the insurance policy being entered into.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

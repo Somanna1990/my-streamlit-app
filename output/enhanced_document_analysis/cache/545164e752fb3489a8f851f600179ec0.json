@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension life cover scheme rules document for several key reasons: 1) The document describes a pure protection product (death benefit) rather than an investment product - the scheme's sole purpose is to provide benefits to dependants if the member dies before retirement age, with no investment or capital return component. 2) There is no advertised return of capital mentioned anywhere in the document - the benefits are purely insurance-based lump sum and/or pension payments triggered by death. 3) The document is a scheme rules document rather than an advertisement, so advertising regulations would not apply. 4) The document explicitly states 'The main and only purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' This clearly indicates this is not an investment product with capital returns that would fall under this regulation.",
+  "confidence_score": "High",
+  "regulation_number": 383,
+  "regulation_title": "Warning statement where return on capital applicable on or from a specific date",
+  "regulation_text": "383. A regulated entity shall ensure that an advertisement for an investment product where the advertised return of capital applies on, or from, a specific date, contains the following warning statement, inserting the appropriate information in place of the ins truction in square brackets for that purpose: \"Warning: If you seek to realise your investment before [specify the particular date], you may lose some, or all, of the money you invest.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

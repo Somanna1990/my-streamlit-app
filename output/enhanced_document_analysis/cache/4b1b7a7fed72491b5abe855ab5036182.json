@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document is an insurance policy document (specifically a pension life cover scheme) issued to consumers in Ireland. 2) The document does state the registered legal name of the underwriter - 'Saol Assurance d.a.c., trading as AIB life' is clearly identified at the bottom of the document. 3) The document falls under Central Bank of Ireland regulation as evidenced by the statement that 'Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland.' 4) The document includes policy documentation that would be issued to consumers, including scheme rules and definitions. The regulation's requirement to state the underwriter's registered legal name on all policy documentation is met in this document, demonstrating compliance with regulation 331.",
+  "confidence_score": "High",
+  "regulation_number": 331,
+  "regulation_title": "Policy documentation to state name of underwriter",
+  "regulation_text": "331. An insurance undertaking or insurance intermediary shall state the registered legal name of the underwriter of the insurance policy on all policy documentation issued to a consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

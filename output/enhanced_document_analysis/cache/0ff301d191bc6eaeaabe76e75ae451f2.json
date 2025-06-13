@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided Pension Life Cover Scheme Rules document for several reasons: 1) The document is a set of scheme rules that governs how a pension life cover scheme operates - it does not deal with direct consumer payments or receipts. 2) The document indicates this is an employer-sponsored scheme where 'The employer will pay all premiums under any policy' (Section 2.3), not the consumer/member directly. 3) The scheme is structured as a trust arrangement with trustees managing the scheme, not as a direct consumer financial product requiring receipts. 4) The document focuses on defining benefits, trustee duties, and scheme operations rather than payment processing or consumer transactions. While AIB Life is mentioned as the life office provider, the regulation about providing receipts for direct consumer payments does not apply to this type of pension scheme structure where premiums are paid by employers.",
+  "confidence_score": "High",
+  "regulation_number": 122,
+  "regulation_title": "Receipt to be provided",
+  "regulation_text": "122. (1) Subject to paragraph (3), a regulated entity that is in receipt of a payment directly from a consumer, or directly from a person making a payment on behalf of a consumer, for a financial service, shall provide the consumer with a receipt, on paper or on an other durable medium. (2) The receipt referred to in paragraph (1) shall include the following information: (a) the name and address of the regulated entity; (b) the name of the consumer who provided the payment, or on whose behalf the payment is provided; (c) the value of the payment received and the date on which it was received; (d) the purpose of the payment. (3) A regulated entity is not required to provide a receipt for regular payments made by a consumer in compliance with an agreed payment schedule set out in its contract with the consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

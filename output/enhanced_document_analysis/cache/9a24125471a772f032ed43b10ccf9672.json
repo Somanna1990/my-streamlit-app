@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation in question (Regulation 69) specifically addresses the requirement for regulated entities to notify consumers about increases and decreases in charges. After reviewing the document 'Pension Life Cover Scheme Rules', I find that this document is a set of scheme rules for a company pension life cover product. It does not contain any provisions related to notifying consumers about changes in charges. The document appears to be a foundational document that establishes the rules of the scheme rather than a communication about charges or fee changes. The document defines terms, explains how the scheme works, outlines benefits, and describes trustee duties, but does not address the notification process for charge changes that would fall under Regulation 69.",
+  "compliance_evidence": "",
+  "gap_description": "",
+  "gap_recommendations": "",
+  "confidence_score": "High",
+  "regulation_number": 69,
+  "regulation_title": "Consumers to be notified regarding increases and decreases in charges",
+  "regulation_text": "69. (1) A regulated entity shall on paper or on another durable medium - (a) directly notify affected consumers of increases in charges, specifying the previous and increased charge, or the introduction of any additional charges, at least 30 calendar days prior to the increased or additional charges taking effect, and (b) where charges are accumulated and applied periodically to accounts, directly notify consumers at least 10 working days prior to the application of charges, providing each consumer with a breakdown of any such charges, except where these charges total an amount of €10 or less. (2) A regulated entity shall notify consumers of any decrease in charges as soon as practicable.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

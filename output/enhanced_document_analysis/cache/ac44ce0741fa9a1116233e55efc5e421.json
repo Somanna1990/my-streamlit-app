@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document describes a pension life cover scheme administered by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the bottom of the document). 2) Section 4.1 of the document discusses trustee duties and specifically addresses potential conflicts of interest in Section 4.5, stating 'No decision of the trustee will be invalidated by reason of the trustee having a direct or personal interest in the result of any such decision...provided that such trustee had disclosed any such interest.' 3) The scheme involves financial services provided to consumers through a regulated entity (AIB life) and includes trustee responsibilities that could create conflicts of interest, particularly when the employer acts as trustee. Given that AIB life is a regulated entity providing financial services under Central Bank supervision, they must comply with the conflicts of interest policy review requirements under Regulation 409.",
+  "confidence_score": "High",
+  "regulation_number": 409,
+  "regulation_title": "Conflicts of interest policy",
+  "regulation_text": "409. A regulated entity shall assess and periodically review, on at least an annual basis, its conflicts of interest policy and shall take all appropriate measures to address any deficiencies.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation in question (Regulation 97 on 'Errors to be resolved') applies to how regulated entities handle errors, including correcting system failures, implementing controls, refunding consumers, and notifying affected parties. The document provided is a pension life cover scheme rules document that outlines definitions, scheme operations, and benefits. It does not contain any content related to error resolution procedures. This document is a product rules document rather than an operational procedure document for handling errors. The regulation would apply to the financial institution's (AIB Life's) error handling procedures, not to the product rules document itself.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 97,
+  "regulation_title": "Errors to be resolved",
+  "regulation_text": "97. (1) A regulated entity shall resolve all errors speedily and no later than 6 months after the date the error was first discovered, including by way of the following: (a) correcting any internal systems failures including information technology systems failures; (b) ensuring effective controls are implemented to prevent any recurrence of the identified error; (c) effecting a refund with appropriate interest to all consumers who have been affected by the error, in accordance with Regulation 98, and taking any other appropriate remediation steps; (d) notifying all affected consumers, both current and former, in a timely manner, of any error that has impacted or may impact negatively on the cost of the service, or the value of the product provided, where possible. (2) Paragraph (1)(c) applies to regulated entities providing payment services without prejudice to the rights and obligations arising pursuant to Part 4 (Rights and obligations in relation to the provision and use of payment services) of the European Union (Payment Services) Regulations 2018.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

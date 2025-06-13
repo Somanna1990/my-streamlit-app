@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is for a pension life cover scheme administered by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document contains multiple sections dealing with fees, commissions, and trustee powers that could create conflicts of interest. Specifically, Section 4 on Trustee Duties and Powers gives trustees broad authority over financial decisions and administration, while acknowledging potential conflicts ('No decision of the trustee will be invalidated by reason of the trustee having a direct or personal interest'). 3) The scheme involves financial products and services where conflicts around fees and commissions could arise, particularly in sections 2.3 (Premiums) and 4.5 (Additional Trustee Powers) which deal with financial arrangements and payments. 4) The document explicitly states AIB life is a regulated entity, making consumer protection regulations directly applicable. The regulation's focus on avoiding conflicts of interest in fees, commission structures, and business arrangements is directly relevant to how this pension scheme must be administered and sold.",
+  "confidence_score": "High",
+  "regulation_number": 23,
+  "regulation_title": "Certain conflicts of interest that are to be avoided",
+  "regulation_text": "23. A regulated entity shall avoid conflicts of interest relating to the following: (a) fees, commission, other rewards or remuneration linked to the achievement of targets that do not consider a consumer 's best interests, including targets relating to volume (including override commission) and bonus payments linked to business retention; (b) agreements under which the regulated entity receives a fee, commission, other reward or remuneration in the form of goods or services, in return for which it agrees to direct business through or in the way of another person.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

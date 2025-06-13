@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided document for several reasons: 1) The document is a pension life cover scheme rules document that outlines the operation and governance of a death benefit pension scheme. It does not contain any illustrations of investment product performance or figures. 2) The scheme described is purely a death benefit scheme - as stated multiple times in the document, 'The main purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' There are no investment components or performance illustrations that would trigger the warning statement requirement under Regulation 372. 3) The document focuses on defining terms, explaining scheme operations, trustee duties, and benefit calculations based on fixed multiples of salary rather than investment performance. 4) While the document is from a regulated entity (AIB life), this specific document type and content does not fall within the scope of Regulation 372 which specifically targets investment product performance illustrations.",
+  "confidence_score": "High",
+  "regulation_number": 372,
+  "regulation_title": "Warning statement to be provided with illustrations of figures on performance of investment product",
+  "regulation_text": "372. (1) A regulated entity shall include the following warning statement with all illustrations of figures in relation to performance of an investment product, including graphs and other visual representations: \"Warning: These figures are estimates only. They are not a reliable guide to the future performance of your investment.\" (2) This Regulation does not apply to illustrations included in the key information document to be drawn up and provided to retail investors in accordance with the PRIIPs Regulation.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to this document for several reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland, making it a regulated entity subject to these regulations. 2) The document contains numerous technical terms and includes a dedicated 'Definitions' section (Section 1) that serves as a glossary explaining technical terms in plain language. This aligns directly with the regulation's requirement to explain technical terms. 3) The document demonstrates compliance by consistently defining technical terms when first used and providing a comprehensive glossary. For example, terms like 'Administrator', 'Dependant', 'Normal Retirement Age', and 'Retained Pension Benefits' are all clearly explained in plain language. 4) The document is clearly intended for consumers (pension scheme members and employers) and contains important financial information that needs to be clearly understood. The presence and format of the definitions section shows clear intent to comply with this specific regulation regarding the explanation of technical terms.",
+  "confidence_score": "High",
+  "regulation_number": 47,
+  "regulation_title": "Technical terms to be explained",
+  "regulation_text": "47. A regulated entity shall ensure that all information that it provides to a consumer explains any technical terms, the use of which cannot be avoided, in plain language, where first used or in a clearly referenced glossary.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

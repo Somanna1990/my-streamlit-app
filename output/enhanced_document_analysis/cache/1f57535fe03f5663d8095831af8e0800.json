@@ -1,0 +1,17 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The regulation prohibits regulated entities from excluding or restricting legal liabilities or duties of care to consumers in any communication or agreement. The document appears to be a pension life cover scheme rules document from AIB life, which is a regulated financial service. The document does not contain explicit language that preserves the entity's legal liabilities and duties of care as required by Regulation 128. Instead, it contains language that could be interpreted as attempting to limit liability without the necessary qualifications that such limitations cannot override statutory protections.",
+  "compliance_evidence": "The document does not contain explicit language preserving the entity's legal liabilities and duties of care as required by Regulation 128.",
+  "gap_description": "The document lacks explicit statements acknowledging that any terms in the rules cannot exclude or restrict legal liabilities or duties of care owed to consumers under financial services legislation. The document should include clear language stating that nothing in the rules limits or excludes any liability or duty that cannot be legally limited or excluded under consumer protection regulations.",
+  "gap_recommendations": "Add a specific clause to the document that explicitly states: 'Nothing in these rules excludes or restricts (a) any legal liability or duty of care to a consumer which AIB life has under the Consumer Protection Regulations or other financial services legislation, (b) any other duty to act with skill, care and diligence which is owed to a consumer in connection with the provision of financial services, or (c) any liability owed to a consumer for failure to exercise the degree of skill, care and diligence that may reasonably be expected in the provision of a financial service.' This clause should be prominently displayed in the document, possibly in Section 1 (Definitions) or as a separate section on consumer rights and protections.",
+  "confidence_score": "High",
+  "regulation_number": 128,
+  "regulation_title": "Exclusion and restriction of duties and liabilities to be avoided",
+  "regulation_text": "128. When providing regulated activities to a consumer, a regulated entity shall not, in any communication or agreement with a consumer, except where permitted by applicable law, exclude or restrict, or seek to exclude or restrict - (a) any legal liability or duty of care to a consumer which it has under these Regulations or other financial services legislation, (b) any other duty to act with skill, care and diligence which is owed to a consumer in connection with the provision to that consumer of financial services, or (c) any liability owed to a consumer for failure to exercise the degree of skill, care and diligence that may reasonably be expected of it in the provision of a financial service.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1,
+  "compliance_evidence_with_page": "[Page 1] The document does not contain explicit language preserving the entity's legal liabilities and duties of care as required by Regulation 128."
+}

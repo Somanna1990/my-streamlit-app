@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "This regulation does not apply to the document because the document is a set of pension scheme rules for a life cover policy, not a claims handling procedure document. Regulation 364 specifically addresses how insurance undertakings must handle claims decisions, including timeframes for informing claimants, content of communications, and record-keeping requirements. The document provided is a scheme rules document that outlines definitions, how the scheme works, scheme benefits, trustee duties, and winding up procedures for a pension life cover scheme. It does not contain any procedures or policies related to claims handling, decision-making on claims, or communication with claimants about claim outcomes.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 364,
+  "regulation_title": "Decision on a claim",
+  "regulation_text": "364. (1) Within 5 working days of making a decision in respect of a claim, an insurance undertaking shall inform the claimant of the following, on paper or on another durable medium: (a) the outcome of its investigation of the claim; (b) where applicable, the terms of any claim settlement offer; (c) where the insurance undertaking has decided to decline the claim, the reasons for this decision; (d) any appeals mechanism provided by the insurance undertaking in respect of the decision made. (2) When making a claim settlement offer, the insurance undertaking shall ensure that the following conditions have been satisfied: (a) the insured event has been proven, or accepted by the insurance undertaking; (b) all specified documentation has been received by the insurance undertaking from the claimant; (c) the entitlement of the claimant to receive payment under the policy has been established. (3) An insurance undertaking shall retain a record of the decision referred to in paragraph (1).",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page), making it a regulated entity subject to these regulations. 2) The document outlines a pension life cover scheme that involves financial services and products being provided to customers, which falls under the scope of regulated activities. 3) The document contains several provisions that directly relate to the regulation's requirements about acting with honesty and integrity, such as: trustee duties regarding conflicts of interest (Section 4), requirements for fair and just administration (Section 4.5), and provisions for protecting customer assets and information. 4) The document includes specific provisions about proper management of customer funds and benefits, which aligns with regulation 6(c) regarding proper use of assets. 5) The scheme rules contain multiple provisions designed to protect customer interests and prevent misuse of position or information, which directly corresponds to the regulation's requirements about acting with integrity.",
+  "confidence_score": "High",
+  "regulation_number": 6,
+  "regulation_title": "Acting with honesty and integrity",
+  "regulation_text": "6. Without prejudice to the generality of Regulation 4(1)(b), a regulated \nentity shall act honestly and with integrity, including by:  \n(a) operating without bias and preventing, or identifying and \nappropriately managing, conflicts of interest;  \n(b) not exerting pressure or influence on a customer so as to limit his \nor her ability to make an informed choice in relation to any \nfinancial service;  \n(c) not misusing or misappropriating any assets or information of the \nregulated entity  or its customers.",
+  "section_type": "17A",
+  "source_name": "CENTRAL BANK REFORM ACT 2010 (SECTION 17A) (STANDARDS FOR BUSINESS) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

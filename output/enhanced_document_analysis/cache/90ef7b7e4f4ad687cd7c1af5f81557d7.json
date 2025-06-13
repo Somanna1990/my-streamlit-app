@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several key reasons: 1) The regulation specifically concerns investment products and facilities for intermediaries to obtain information about those products. The document in question is a pension life cover scheme rules document that outlines death benefits - it is not an investment product. 2) The document describes a pure protection product (life cover) rather than an investment product, as evidenced by statements like 'The main purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age.' 3) While the document mentions trustees and employers, it does not discuss intermediary relationships or information facilities that would fall under Regulation 404. 4) The product described is a group life assurance scheme structured as an occupational pension scheme, which is fundamentally different from an investment product that would be subject to this regulation.",
+  "confidence_score": "High",
+  "regulation_number": 404,
+  "regulation_title": "Facility to be given to intermediaries when seeking information on investment product",
+  "regulation_text": "404. (1) A product producer shall provide an ongoing facility to an intermediary to raise questions and obtain information on an investment product that is the subject of Regulations 371 and 402. (2) A product producer shall notify the intermediary of the availability of the facility referred to in paragraph (1) and shall provide it to the intermediary for the duration of the period in which that investment product is offered for sale by the product pr oducer and sold to consumers through that intermediary.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

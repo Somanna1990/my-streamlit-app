@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is from AIB life, which is explicitly stated to be 'regulated by the Central Bank of Ireland' (as noted at the end of the document). 2) The document outlines a pension life cover scheme that constitutes a financial product offered to consumers. 3) Section 6 'CONTACTING US' provides contact methods for customers, which would necessarily include handling complaints, making the complaint resolution regulation directly relevant. 4) The document establishes a formal relationship between the regulated entity (AIB life) and consumers, creating obligations under consumer protection regulations. 5) As a regulated entity providing financial services to consumers, AIB life must comply with the Consumer Protection Regulations, including the requirement to take reasonable steps to resolve complaints. The document's formal nature and regulatory oversight make it clear that complaint handling procedures would be a necessary component of the service, even though not explicitly detailed in this scheme rules document.",
+  "confidence_score": "High",
+  "regulation_number": 101,
+  "regulation_title": "Reasonable steps to be taken to resolve complaints",
+  "regulation_text": "101. A regulated entity shall take all reasonable steps to resolve any complaint with the consumer making the complaint.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

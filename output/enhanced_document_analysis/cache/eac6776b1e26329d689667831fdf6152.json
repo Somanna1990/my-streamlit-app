@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically addresses requirements for regulated entities that are proposing to be transferees or merge with other regulated entities. The document in question is a pension life cover scheme rules document that outlines the operation of a company pension scheme. While the document does mention AIB life as the life office and registered administrator, it does not contain any content related to proposed transfers or mergers between regulated entities. The document focuses on defining scheme rules, benefits, trustee duties, and wind-up procedures for a specific pension product. There are no provisions or discussions about mergers, acquisitions, or transfers of regulated activities between entities that would trigger the requirements under Regulation 126 regarding due diligence and service continuity in merger/transfer scenarios.",
+  "confidence_score": "High",
+  "regulation_number": 126,
+  "regulation_title": "Proposed transferee or merging entity to conduct due diligence and verify continuity of service",
+  "regulation_text": "126. Where a regulated entity is the proposed transferee of regulated activities from another regulated entity, or proposes to merge with another regulated entity, it shall - (a) conduct due diligence to ensure that the interests of consumers, to which it will provide regulated activities in the event of completion of the transfer or merger, are protected in the event of the transfer or merger, and (b) satisfy itself that it is capable of providing continuity of service to those consumers to which it will provide regulated activities in the event of the transfer or merger, in accordance with those consumers' contracts with the regulated entity with w hich the merger or from which the transfer is taking place. Information to be provided and obtained prior to opening joint account for consumers",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document describes a pension life cover scheme that only provides death benefits before retirement age - it is not a life insurance policy with surrender value. This is explicitly stated in Section 3.4: 'The main purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age. If the member reaches normal retirement age, the member will not be entitled to any benefits.' 2) There is no surrender value or early termination value for the member since the policy only pays out on death before retirement age. 3) The document makes no mention of surrender values or policy sales because this type of pension death benefit scheme is not designed to have those features. The regulation specifically pertains to life insurance policies with surrender values and potential secondary market sales, which is fundamentally different from this type of pension death benefit scheme.",
+  "confidence_score": "High",
+  "regulation_number": 345,
+  "regulation_title": "Information concerning surrender value of a life insurance policy",
+  "regulation_text": "345. (1) Where a policyholder seeks information on the early surrender of a life insurance policy from the insurance undertaking or insurance intermediary that has provided that policy and the policyholder is a consumer, the insurance undertaking or insurance inter mediary shall provide the consumer with details of the surrender value of the policy. (2) If a secondary market exists for the sale of a policy of the kind referred to in paragraph (1) on which the policy may be sold, the insurance undertaking or insurance intermediary shall disclose this fact to the consumer at the same time as providing the d etails required in accordance with paragraph (1).",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation specifically governs advertisements that contain references to taxation impacts, while the provided document is a pension scheme rules document that outlines the operational framework, definitions, and governance of a pension life cover scheme. While the document does contain references to taxation (e.g., TCA, Revenue Commissioners, tax deductions), these are not advertising claims about tax benefits but rather technical/legal references to tax compliance requirements. The document is a legal/contractual document setting out scheme rules rather than an advertisement making claims about tax benefits. Section 391 of the regulations specifically targets how tax benefits must be presented in advertisements, which is not relevant to this type of formal scheme documentation.",
+  "confidence_score": "High",
+  "regulation_number": 391,
+  "regulation_title": "Reference to the impact of taxation",
+  "regulation_text": "391. A regulated entity shall ensure that where an advertisement contains a reference to the impact of taxation, it shall - (a) state the assumed rate of taxation, (b) where tax reliefs are applied, reference the reliefs that apply as of the date of publication of the advertisement, (c) specify the person to which the tax reliefs referred to in the advertisement are available, (d) state, where applicable, if the taxation impacts referenced are limited in their application to a particular class of consumer with particular tax liabilities, identifying the class of consumer and the type of liabilities concerned, (e) identify the party that is responsible for applying for the tax benefits advertised, (f) identify, where applicable, if income payable from an investment product is subject to income tax that is deducted at source, and (g) identify, where applicable, if the value of the advertised financial service is linked to a product which is liable to capital taxation.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

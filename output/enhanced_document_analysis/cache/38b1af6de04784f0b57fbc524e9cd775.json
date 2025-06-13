@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension scheme rules document for several reasons: 1) The document is focused entirely on domestic pension life cover scheme rules and does not mention any foreign currency denominated products or services. 2) All benefits and premiums described in the document appear to be denominated in euros (€) only, as evidenced by references to euro amounts like '€6,350' and '€330'. 3) There is no indication in the document that the pension benefits or premiums could be affected by currency exchange rates. 4) The scheme is specifically designed for Irish employers and employees, operating under Irish tax law (TCA) and pension regulations. The document shows no international or foreign currency elements that would trigger the currency exchange rate warning requirement under Regulation 396.",
+  "confidence_score": "High",
+  "regulation_number": 396,
+  "regulation_title": "Warning statement where financial service may be affected by change in currency exchange rates",
+  "regulation_text": "396. A regulated entity shall ensure that where an advertised financial service is denominated or priced in a currency other than euro, or where the value of an advertised financial service may be directly affected by changes in currency exchange rates, the adv ertisement contains the following warning statement, inserting the appropriate information in place of the instruction in square brackets for that purpose: \"Warning: This [insert \"product\" or \"service\" as appropriate] may be affected by changes in currency exchange rates.\"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

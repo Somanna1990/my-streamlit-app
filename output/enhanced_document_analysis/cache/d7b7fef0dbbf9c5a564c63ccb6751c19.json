@@ -1,0 +1,16 @@
+{
+  "applicability": "Applies",
+  "is_compliant": "No",
+  "compliance_reasoning": "The document is a pension life cover scheme rules document that falls under financial services regulated by the Central Bank of Ireland. Regulation 10 requires regulated entities to have systems and controls to counter risks of financial abuse to customers. The document does not contain any provisions addressing financial abuse risks, monitoring of financial abuse trends, escalation processes, notification of digital frauds, or communication of supports available to customers in case of financial abuse.",
+  "compliance_evidence": "",
+  "gap_description": "The document lacks any provisions related to: (1) systems and controls to mitigate financial abuse risks; (2) monitoring of financial abuse trends; (3) monitoring of vulnerabilities in services and distribution channels; (4) notification processes for digital frauds; and (5) communication of supports available to customers in case of financial abuse. These are all required under Regulation 10 of the CENTRAL BANK REFORM ACT 2010 (SECTION 17A) (STANDARDS FOR BUSINESS) REGULATIONS 2025.",
+  "gap_recommendations": "The document should be updated to include: (1) A section on financial abuse prevention measures and controls; (2) Procedures for monitoring financial abuse trends relevant to pension schemes; (3) Processes for identifying and escalating vulnerabilities in services; (4) A framework for notifying customers about digital frauds or deception; (5) Clear information about supports available to customers and actions they can take if they experience financial abuse related to their pension scheme.",
+  "confidence_score": "High",
+  "regulation_number": 10,
+  "regulation_title": "Financial abuse",
+  "regulation_text": "10. Without prejudice to the generality of Regulation 4(1)(f), a regulated \nentity shall control and manage it affairs and systems to counter the risks of \nfinancial abuse to customers to whom it is providing financial services within \nthe scope of its regulated activities, including by:  \n(a) putting reasonable systems and controls in place in the context of \nthe provision of its financial services, to mitigate the risk to its \ncustomers of financial abuse;  \n(b) appropriately monitoring financial abuse trends relevant to its \ncustomers or the sector more generally;  \n(c) carrying out ongoing monitoring in respect of potential \nvulnerabilities in the services and distribution channels, and \nensuring appropriate escalation processes where there is \nincreased risk to its customers of financial abuse;  \n(d) notifying its customers through clear and timely communication \nof any digital frauds or deception connected to its affairs, or \n8  [80] \nspecifically relevant to the sector in which the regulated entity is \noperating, and of which it is aware;  \n(e) communicating the supports available to its customers, and the \nactions that customers can take in the event of financial abuse, \ndirectly connected to the regulated entity’s affairs.",
+  "section_type": "17A",
+  "source_name": "CENTRAL BANK REFORM ACT 2010 (SECTION 17A) (STANDARDS FOR BUSINESS) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

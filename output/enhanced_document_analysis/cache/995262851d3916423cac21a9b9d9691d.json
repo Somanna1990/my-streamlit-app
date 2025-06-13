@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document is from AIB life, which is identified as a regulated entity ('Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland'). 2) The document is a pension scheme rules document that deals with customers who are consumers - specifically employees/members who are covered under the pension life cover scheme. 3) The document contains multiple sections that require identification and record-keeping of scheme members, including Section 2.2 on Eligibility which states 'An employee or director of the employer shall be eligible for inclusion in the scheme' and requires the member to 'provide any particulars that may be required by the trustee to administer the scheme.' 4) The document includes specific requirements for maintaining records of the member's identity, status, and beneficiaries throughout. Since this regulation requires regulated entities to identify consumers in their records, and this document establishes a framework for exactly that kind of identification and record-keeping, the regulation clearly applies.",
+  "confidence_score": "High",
+  "regulation_number": 116,
+  "regulation_title": "Customers who are consumers to be identified in records",
+  "regulation_text": "116. A regulated entity shall identify in its records those customers that are consumers . 78 [81]",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

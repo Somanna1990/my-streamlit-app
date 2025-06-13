@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is a Pension Life Cover Scheme Rules document issued by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the end of the document). 2) The document describes an insurance product that provides death benefits through a life assurance policy, making AIB life an insurance distributor under the regulation's scope. 3) The document contains provisions for consumer protection, policy terms, and benefit distributions that would fall under the consumer protection regulations. 4) The document specifically deals with insurance distribution through an employer-sponsored pension scheme, which is a type of financial product that would be subject to these regulations. The regulation specifically addresses how certain consumer protection rules apply (or don't apply) to insurance distributors, which is directly relevant to this pension life cover product. The fact that AIB life is named as the registered administrator and is regulated by the Central Bank of Ireland makes this regulation directly applicable to how this product must be distributed and managed.",
+  "confidence_score": "High",
+  "regulation_number": 11,
+  "regulation_title": "Restricted application to insurance distributors and insurance -based investment products",
+  "regulation_text": "11. (1) Regulation 27, Regulation 59, Regulation 61, Regulations 90 to 91, and Chapter 5 of Part 5 do not apply to insurance distributors. (2) Regulation 22, Regulation 24, Regulation 26, Regulations 28 to 29 and Regulation 66 do not apply to the distribution of insurance -based investment products. (3) Chapter 1 of Part 2 and Regulation 370 do not apply to the provision of advice on insurance -based investment products. (4) In this Regulation, \"insurance distributor\" has the meaning given to it by Regulation 2 of the Insurance Distribution Regulations.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

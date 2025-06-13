@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to the document for several reasons: 1) The document shows AIB Life outsourcing administrative duties to third parties - specifically Section 4.1 states 'The trustee hereby appoints AIB life as registered administrator for the purposes of the Pensions Act.' This is a clear example of outsourcing activity as defined in Regulation 119. 2) AIB Life is a regulated entity (the document states 'Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland'). 3) The document outlines a pension scheme where administrative and trustee functions are being delegated between multiple parties including employers, trustees, and AIB Life as administrator. The regulation specifically requires that any outsourced activity must comply with consumer protection regulations, which is relevant to how this pension scheme is administered and managed. The document includes specific provisions about how these outsourced relationships can be terminated (with 90 days notice) and the responsibilities of each party, showing awareness of regulatory requirements around outsourcing.",
+  "confidence_score": "High",
+  "regulation_number": 119,
+  "regulation_title": "Outsourcing activity",
+  "regulation_text": "119. (1) A regulated entity shall ensure that any outsourced activity complies with the requirements of these Regulations. (2) In this Regulation, \"outsourced activity\" is an activity where a regulated entity employs another person, other than a natural person who is an employee of the regulated entity under a contract of service, to carry out the activity on its behalf.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

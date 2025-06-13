@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the pension scheme rules document for several reasons: 1) The document is issued by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document contains multiple sections that deal with duties, liabilities and responsibilities of trustees and the life office in relation to consumers (pension scheme members). 3) Section 4 specifically outlines trustee duties and powers, which directly relates to the regulation's focus on duties of care and liability. 4) The document includes several provisions about the responsibilities and obligations of the regulated entity (AIB life) to consumers, which cannot be excluded or restricted as per Regulation 128. 5) The document's legal framework and consumer protection aspects align directly with the scope of the Consumer Protection Regulations. Notably, while the document does contain some limitations and conditions, it does not appear to improperly exclude core legal duties or liabilities, which is consistent with the requirements of Regulation 128.",
+  "confidence_score": "High",
+  "regulation_number": 128,
+  "regulation_title": "Exclusion and restriction of duties and liabilities to be avoided",
+  "regulation_text": "128. When providing regulated activities to a consumer, a regulated entity shall not, in any communication or agreement with a consumer, except where permitted by applicable law, exclude or restrict, or seek to exclude or restrict - (a) any legal liability or duty of care to a consumer which it has under these Regulations or other financial services legislation, (b) any other duty to act with skill, care and diligence which is owed to a consumer in connection with the provision to that consumer of financial services, or (c) any liability owed to a consumer for failure to exercise the degree of skill, care and diligence that may reasonably be expected of it in the provision of a financial service.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

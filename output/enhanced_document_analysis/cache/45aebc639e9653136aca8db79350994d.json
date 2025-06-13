@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the operation of an occupational pension scheme providing death benefits, not a standard insurance policy with automatic renewals. 2) While the document mentions 'renewal dates' in Section 1, these are simply anniversary dates of the policy start date for administrative purposes, not automatic policy renewals that require consumer action. 3) The scheme is established by an employer for the benefit of an employee's dependants and is governed by pension legislation (Pensions Act 1990) rather than standard insurance regulations. The document specifically states it is an 'occupational pension scheme' that must be approved by Revenue Commissioners and registered with the Pensions Authority. 4) The termination/cancellation of the scheme is governed by specific wind-up provisions in Section 5, which are related to employer/member decisions or specific events, not consumer cancellation rights for automatic renewals. Therefore, regulation 324 regarding consumer rights to cancel automatic insurance policy renewals is not applicable to this type of pension scheme document.",
+  "confidence_score": "High",
+  "regulation_number": 324,
+  "regulation_title": "Automatic renewals - cancellations",
+  "regulation_text": "324. An insurance undertaking or insurance intermediary shall allow a consumer to exercise the right to cancel the automatic renewal of an insurance policy - (a) at any time during the duration of the insurance policy, and (b) free of charge.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

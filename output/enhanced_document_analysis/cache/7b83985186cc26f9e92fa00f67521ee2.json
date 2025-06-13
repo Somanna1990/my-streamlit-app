@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation clearly applies to this document for several reasons: 1) The document is from AIB life, which is identified as a regulated entity ('Saol Assurance d.a.c., trading as AIB life, is regulated by the Central Bank of Ireland'). 2) The document contains multiple unexplained initialisms/acronyms such as 'TCA', 'ARF', and 'CPC' that are not fully explained on first use. While some acronyms like 'ARF' are eventually defined as 'Approved Retirement Fund', others remain undefined. Since this is a consumer-facing document (pension scheme rules) that will be provided to customers, it falls under consumer protection regulations and must comply with the requirement to explain all initialisms and acronyms. The current document appears to be non-compliant with this regulation in several instances where acronyms are used without explanation.",
+  "confidence_score": "High",
+  "regulation_number": 88,
+  "regulation_title": "Initialisms and acronyms to be explained",
+  "regulation_text": "88. A regulated entity shall ensure that where its advertisement contains any initialisms or acronyms, the advertisement also states the meaning of each letter in the initialism or acronym concerned.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

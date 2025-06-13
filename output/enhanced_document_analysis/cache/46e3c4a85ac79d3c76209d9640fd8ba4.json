@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document includes a specific section about contacting customers (Section 6 'CONTACTING US') which mentions telephone communications. 3) The document explicitly states 'In the interest of customer service we will record and monitor calls' which directly relates to regulation 113(b) about call recording disclosure. 4) The document provides contact details and methods for communication between the regulated entity (AIB life) and consumers. The regulation's requirements about identifying the regulated entity, purpose of contact, and call recording are relevant to how AIB life must conduct these communications. The document establishes the framework under which such communications would take place, making the regulation directly applicable to the operational context described in the document.",
+  "confidence_score": "High",
+  "regulation_number": 113,
+  "regulation_title": "Information to be provided / established",
+  "regulation_text": "113. When making a personal visit or initiating oral communication by means of telephone call, in accordance with these Regulations, a regulated entity shall ensure that its representative immediately upon initiating contact and in the following order - (a) provides the consumer with his or her name and the name of the regulated entity on whose behalf the consumer is being contacted and the legitimate purpose of the contact, (b) informs the consumer that the telephone contact is being recorded, if this is the case, (c) where relevant, discloses to the consumer, the source of the referral supporting the telephone contact, and (d) establishes if the consumer wishes the personal visit or telephone call to proceed and, if not, end the contact immediately.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

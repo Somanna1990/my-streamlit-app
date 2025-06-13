@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is a pension life cover scheme rules document from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted at the bottom of the document). 2) The document deals with claims processes, particularly death benefit claims, as outlined in Section 3 'Scheme Benefits'. 3) The document involves trustees who act on behalf of beneficiaries in claims situations, and Section 3.1 specifically mentions claim validation processes ('if a valid claim is made'). 4) The document outlines processes for beneficiaries and dependants to make claims and provide evidence, which would reasonably include situations where they might want to appoint third parties to act on their behalf. Since this is an insurance product regulated by the Central Bank of Ireland that involves claims processes, Regulation 359 regarding third-party engagement in claims would directly apply to how AIB life must handle claims under this scheme.",
+  "confidence_score": "High",
+  "regulation_number": 359,
+  "regulation_title": "Engagement with third party in relation to a claim",
+  "regulation_text": "359. Upon a claimant's written request, an insurance undertaking or insurance intermediary shall engage with a third party which a claimant has appointed to act on his or her behalf in relation to a claim.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

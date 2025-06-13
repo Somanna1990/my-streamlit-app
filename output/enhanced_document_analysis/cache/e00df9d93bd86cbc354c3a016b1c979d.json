@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension life cover scheme rules document for several reasons: 1) The document describes a death benefit-only pension scheme where the main and only purpose is to provide benefits for dependants if the member dies before retirement age - it is not an investment product where funds are locked away for a term. 2) The document explicitly states 'If the member reaches normal retirement age, the member will not be entitled to any benefits.' This means there are no invested funds to access/not access. 3) The scheme operates through life assurance policies that pay out only on death, rather than being an investment vehicle. 4) The regulation specifically pertains to advertisements for investment products, while this document is a comprehensive scheme rules document, not an advertisement. Therefore, since this is not an investment product with locked-in funds, but rather a pure protection product that only pays out on death, the warning statement requirement about fund access does not apply.",
+  "confidence_score": "High",
+  "regulation_number": 384,
+  "regulation_title": "Warning statement where no access to funds invested for product term",
+  "regulation_text": "384. A regulated entity shall ensure that an advertisement for an investment product where there is no access to the funds invested for the term of the investment product contains the following warning statement, inserting the appropriate information in place o f the instruction in square brackets for that purpose: \"Warning: If you invest in this product you will not have any access to your money for [insert time required before the product matures]. \"",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

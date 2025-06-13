@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to this document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the structure, operation and benefits of a pension scheme - it is not a complaints handling procedure or policy. 2) While AIB Life is mentioned as the provider and is regulated by the Central Bank of Ireland (as noted at the end of the document), this specific document's purpose is to define the rules and operation of the pension scheme rather than establish operational procedures for complaint handling. 3) The document makes no mention of complaint handling processes or procedures, which would be required if it was meant to comply with this specific regulation. 4) The regulation in question (106) specifically deals with maintaining logs of consumer complaints, which is an operational requirement rather than something that would be included in scheme rules documentation. The scheme rules document serves a different regulatory purpose related to pension scheme governance and structure.",
+  "confidence_score": "High",
+  "regulation_number": 106,
+  "regulation_title": "Log of complaints to be maintained",
+  "regulation_text": "106. (1) A regulated entity shall keep and maintain an up -to-date log of all complaints from consumers. (2) The log referred to in paragraph (1) shall contain the following: (a) details of each complaint, to include the core reason for the complaint in order to facilitate analysis of the complaint by category; (b) the date that each complaint was received; (c) a summary of the regulated entity's response including the date of such response to the consumer who made the complaint; (d) details of any other relevant correspondence or records; (e) the steps taken to resolve each complaint; (f) the date the complaint was fully resolved; (g) where relevant, the current status of a complaint which has been referred to the relevant ombudsman and the current status of an appeal of a decision from the relevant ombudsman.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

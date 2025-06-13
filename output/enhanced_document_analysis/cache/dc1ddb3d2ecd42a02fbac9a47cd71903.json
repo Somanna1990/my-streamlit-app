@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "The regulation clearly applies to this document based on the following evidence: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document includes a specific disclosure about call recording in Section 6 'CONTACTING US' which states 'In the interest of customer service we will record and monitor calls.' 3) Since AIB life is a regulated entity and explicitly mentions call recording in their customer documentation, they must comply with regulation 63 regarding informing consumers about call recording. The presence of this disclosure in their documentation suggests they are aware of and implementing this regulatory requirement.",
+  "confidence_score": "High",
+  "regulation_number": 63,
+  "regulation_title": "Recording telephone conversations",
+  "regulation_text": "63. A regulated entity shall ensure that, where it intends to keep a record of a telephone conversation with a consumer, the regulated entity informs the consumer, at the outset of the conversation, that the telephone conversation is being recorded.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

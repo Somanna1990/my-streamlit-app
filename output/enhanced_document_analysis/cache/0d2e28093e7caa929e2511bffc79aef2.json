@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several reasons: 1) The document is from AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (last page). 2) The document contains specific provisions for electronic communication with consumers, particularly in Section 6 which provides multiple electronic communication channels including email (hello@help.aiblife.ie), mobile banking app access, and electronic document viewing. 3) The document involves sensitive personal and financial information related to pension schemes and life cover, which requires secure handling. 4) The document provides instructions for consumers to access and update their information electronically through the AIB Mobile Banking app. Since this document establishes procedures for electronic communication with consumers and involves sensitive financial information, the regulated entity (AIB life) must comply with Regulation 49 regarding secure electronic communication arrangements.",
+  "confidence_score": "High",
+  "regulation_number": 49,
+  "regulation_title": "Arrangements to be in place to ensure security of information when communicating by electronic media",
+  "regulation_text": "49. Where a regulated entity communicates with a consumer using electronic media, it shall ensure that it has in place appropriate arrangements to ensure the security of information received from the consumer and the secure transmission of information to the consumer.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

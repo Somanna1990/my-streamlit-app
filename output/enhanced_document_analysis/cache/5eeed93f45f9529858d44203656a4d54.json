@@ -1,0 +1,16 @@
+{
+  "applicability": "Does Not Apply",
+  "is_compliant": "N/A",
+  "compliance_reasoning": "The regulation in question (Regulation 101) requires regulated entities to take reasonable steps to resolve complaints with consumers. The document provided is a pension life cover scheme rules document that outlines the definitions, operation, and benefits of a company pension scheme. It does not contain any information about complaint handling procedures or processes. The document appears to be purely informational about the scheme structure rather than addressing operational procedures like complaint resolution. There is no content in the document excerpt that relates to consumer complaints or their resolution.",
+  "compliance_evidence": "N/A",
+  "gap_description": "N/A",
+  "gap_recommendations": "N/A",
+  "confidence_score": "High",
+  "regulation_number": 101,
+  "regulation_title": "Reasonable steps to be taken to resolve complaints",
+  "regulation_text": "101. A regulated entity shall take all reasonable steps to resolve any complaint with the consumer making the complaint.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf",
+  "evidence_page": 1
+}

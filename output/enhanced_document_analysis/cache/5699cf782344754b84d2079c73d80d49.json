@@ -1,0 +1,11 @@
+{
+  "applicability": "Applies",
+  "applicability_reasoning": "This regulation applies to the document for several key reasons: 1) The document is a pension scheme rules document issued by AIB life, which is explicitly stated to be regulated by the Central Bank of Ireland (as noted in the footer). This makes it subject to Central Bank consumer protection regulations. 2) The document is clearly intended for consumers (scheme members, employers, and trustees) and contains important financial and legal information that needs to be clearly legible and understood. 3) The document appears to be a formal written communication that contains critical information about pension scheme rules, definitions, benefits, and obligations - exactly the type of document where font legibility is essential for consumer protection. 4) The document's structured format with sections, definitions, and detailed explanations suggests it is designed for careful reading and understanding by consumers, making font size and legibility requirements directly applicable. 5) The footer indicates this is an official document (version PPT01) from a regulated entity providing financial services to consumers, placing it squarely within the scope of these consumer protection regulations.",
+  "confidence_score": "High",
+  "regulation_number": 50,
+  "regulation_title": "Written information to have appropriate font size",
+  "regulation_text": "50. In all written information provided to consumers, a regulated entity shall use a font size that is clearly legible, and appropriate to the type of document and the information contained therein.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

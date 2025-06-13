@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension scheme rules document for several reasons: 1) The regulation specifically concerns advertisements that feature investment products with options to withdraw capital as income, while this document is a comprehensive scheme rules document, not an advertisement. 2) The document describes a pure death benefit scheme that only pays out if the member dies before retirement age - there are no investment or withdrawal options available to the member during their lifetime. As stated in Section 3.4: 'The main purpose of the scheme is to provide benefits for the member's dependants if the member dies before normal retirement age. If the member reaches normal retirement age, the member will not be entitled to any benefits.' 3) The scheme does not contain any provisions for capital withdrawals as income equivalents - it only provides lump sum death benefits and potential pension/ARF options for dependants after the member's death.",
+  "confidence_score": "High",
+  "regulation_number": 395,
+  "regulation_title": "Effect of withdrawal of amount from capital amount invested as income equivalent to be explained",
+  "regulation_text": "395. Where an investment product that is the subject of an advertisement includes an option to withdraw an amount from the capital amount invested in the product as an income equivalent, a regulated entity shall ensure that the effect of that withdrawal upon the investment product is explained in the advertisement .",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

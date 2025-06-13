@@ -1,0 +1,982 @@
+[
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.1",
+    "Regulation Text": "Financial products and services provide many benefits to consumers, both in terms of being critical to their day-to-day lives and in safeguarding their financial future.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.2",
+    "Regulation Text": "Our vision is for a well-functioning financial system where sustainably profitable, resilient, well-run firms incorporate consumer interests into their culture, strategy, business model, decision-making and operations, offer consumers availability and choice, and empower them to make effective decisions to meet their financial needs.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.3",
+    "Regulation Text": "We have seen examples in the past of the significant customer detriment that can result from a firm’s failure to focus on its customers’ best interests, including for example, the treatment of tracker mortgage customers and the approach to differential pricing in the insurance market. We have also seen examples where firms taking a system-wide perspective and a customer-focused approach as they pursue commercial imperatives, has supported positive outcomes for customers, including the successful large migration of current accounts from exiting banks to other providers. We want firms to build on the learnings from both poor and positive behaviours to meet their customers’ best interests obligation.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.4",
+    "Regulation Text": "Firms exist in the first instance to pursue their commercial objectives but the conduct and culture of financial services providers should reflect firms’ best interests obligation and support appropriate customer outcomes. Trust and confidence that firms will act in their customers’ interests is essential to the effective functioning of the financial system. It is vital that customers’ interests are secured at all stages of their relationship with their financial services provider. This means that as a firm pursues its commercial interests, it does so in a manner that is cognisant of the interests of its customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 2
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.5",
+    "Regulation Text": "The Consumer Protection Code reflects the fundamental obligation for firms to act in the best interests of their customers 2  and seeks to clarify  how firms should approach meeting this in practice, recognising the importance of proportionality and customer autonomy. This is reflected through  Securing Customers’ Interests  which is set out across a specific Securing Customers’ Interests Standard for Business, a range of Supporting Standards for Business and this guidance which is intended to assist  firms’ in understanding their obligations in meeting the ‘securing customers’ interests’ standard. Together these elements are designed to support firms in the effective implementation of all their consumer protection obligations.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.6",
+    "Regulation Text": "The Code’s Standards for Business set out standards relating to governance, resources and risk management, along with conduct standards, which build on and update the original General Principles of the Code. These conduct standards include a specific obligation on firms to secure their customers’ interests. They also set out Supporting Standards for Business which articulate some of the ways that a firm can secure customers’ interests, including by: (a) ensuring that its culture, strategy, business model, decision-making, systems, controls, policies, processes and procedures take into account its customers’ interests; (b) acting in accordance with the reasonable expectations of its customers; (c) taking into account the interests of its customers when designing products and services, and the methods of delivery; (d) ensuring that its products and services are not designed to unfairly exploit the behaviours, habits, preferences or biases of customers leading to customer detriment;(d) of the Standards for Business (e) resolving any complaints received from customers efficiently, fairly and in a timely manner; (f) resolving errors and mistakes affecting customers efficiently, fairly and in a timely manner, and disclosing errors or mistakes to customers affected in a timely manner; (g) ensuring errors and mistakes identified for one customer that may reasonably have affected other customers are resolved for all affected customers efficiently, fairly and in a timely manner; (h) clearly distinguishing for customers between the entity’s regulated activities and its unregulated activities including by taking all appropriate steps to mitigate the risk that a customer will understand an activity to be, or to carry the protections of, a regulated activity where this is not the case; and (i) delivering fair outcomes for customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 3
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.1",
+    "Regulation Number Name": "Introduction",
+    "Regulation Sub Section Number": "1.1.7",
+    "Regulation Text": "The Consumer Protection Regulations comprise cross-sectoral and sector- specific requirements, which include protections for customers relating to, for example: digitalisation, informing effectively, vulnerability, advertising and complaints resolution. Securing customers’ interests will support firms in the effective implementation of all of these consumer protection obligations.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "Purpose of Guidance",
+    "Regulation Sub Section Number": "1.2.1",
+    "Regulation Text": "This Guidance articulates the Central Bank of Ireland’s (the Central Bank) expectations of firms in meeting their obligations under the Standards for Business to secure customers’ interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "Purpose of Guidance",
+    "Regulation Sub Section Number": "1.2.2",
+    "Regulation Text": "This Guidance is designed to assist firms by setting out what firms need to consider, the actions they need to take and the mindset they should have, towards their customers to effectively comply with their obligation to secure the interests of their customers. This will support firms to effectively implement all their consumer protection obligations.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "Purpose of Guidance",
+    "Regulation Sub Section Number": "1.2.3",
+    "Regulation Text": "In order for firms to be able to secure customers’ interests, there must be a collective understanding of what securing customers’ interests means and the types of behaviour it requires, including how it should be incorporated into commercial objectives and be reflected across a firm’s culture, strategy, business model, decision-making and operations.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 4
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.2",
+    "Regulation Number Name": "Purpose of Guidance",
+    "Regulation Sub Section Number": "1.2.4",
+    "Regulation Text": "In this Guidance, we outline an approach that should be applied by firms dynamically to new and existing products, services and business models, as they continue to emerge and evolve in a changing and increasingly digital environment. We seek to explain the overarching Standard for Business and Supporting Standards for Business concerning securing customers’ interests, and describe actions and approaches to be taken by firms when meeting those Standards.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.3",
+    "Regulation Number Name": "Assessing Compliance",
+    "Regulation Sub Section Number": "1.3.1",
+    "Regulation Text": "This Guidance and the Central Bank’s  Guide to Consumer Protection Risk Assessment (CPRA Guidance) 3 , which sets out the Central Bank’s expectations of firms’ consumer risk management frameworks, are complementary documents, which should be read together. They have been developed to support firms in implementing their consumer protection obligations. The CPRA describes the Central Bank’s expectations of regulated financial services firms in implementing or enhancing their frameworks for managing risks to consumers, which should support firms in assessing the effectiveness of their frameworks. While, as noted in the CPRA Guidance, firm-specific CPRAs will form a key part of our supervisory framework for credit institutions, non-bank lenders, insurance undertakings, investment firms, large retail intermediaries, payment institutions and e-money institutions, it reflects questions that all firms can ask themselves when assessing whether they are securing the interests of consumers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.3",
+    "Regulation Number Name": "Assessing Compliance",
+    "Regulation Sub Section Number": "1.3.2",
+    "Regulation Text": "Guidance is also available on Protecting Consumers in Vulnerable Circumstances. This recognises that while firms must secure the interests of all their customers, that consumers in vulnerable circumstances may require additional protection and support when engaging with financial services.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "Scope",
+    "Regulation Sub Section Number": "1.4.1",
+    "Regulation Text": "The Standard for Business and Supporting Standards for Business addressing securing customers' interests apply to firms when doing business with 3 https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/170328-cpra-guide-28-march- 2017.pdf. individuals and small businesses, which reflects the heightened protection required for individuals and small businesses. In this Guidance, references to ‘customer’  in the context of ‘Securing Customer Interest’ means a person that is a natural person; groups of natural persons; an incorporated entity with a turnover of up to €5 million, or a group of incorporated entities with a combined turnover of up to  €5 million. 4",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 5
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "Scope",
+    "Regulation Sub Section Number": "1.4.2",
+    "Regulation Text": "When we refer to ‘customers’ in this guidance, this includes, where appropriate, potential customers. This is because the requirement to secure customers’ interests is an aspect of firms’ overall obligations towards consumers, which is a much wider group than the firms’ current cohort of customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 6
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "Scope",
+    "Regulation Sub Section Number": "1.4.3",
+    "Regulation Text": "The Standards for Business do not directly apply to firms when providing MiFID services 5  or to crowdfunding services. 6  However, we expect firms providing MiFID services to consider and apply this guidance in the context of fulfilling their obligation to “act honestly, fairly and professionally in accordance with the best interests of [their] clients” in accordance with Regulation 31 of the MiFID Regulations. 7  Similarly for crowdfunding service providers, we expect firms to consider and apply the Securing Customers’ Interests guidance in the context of fulfilling their obligations to “act honestly, fairly and professionally in accordance with the best interests of [their] clients” under Article 3 of the EU Crowdfunding Regulations. 8",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 6
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.4",
+    "Regulation Number Name": "Scope",
+    "Regulation Sub Section Number": "1.4.4",
+    "Regulation Text": "Similarly, firms providing MiFID services and crowdfunding services should also consider the guidance, direction and learning for firms set out in the Guidance on Protecting Consumers in Vulnerable Circumstances, where it explains how firms can act in the best interests of consumers in vulnerable circumstances. It should be noted, however, that the Central Bank does not expect crowdfunding service providers, or firms providing MiFID services to comply with the Trusted Contact Persons requirements and training requirements. (Standards for Business) Regulations Regulations 2017. 2020/1503 of the European Parliament and of the Council of 2017/1129 and Directive (EU) 2019/1937 . 1.5 Proportionality",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 6
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Proportionality",
+    "Regulation Sub Section Number": "1.5.1",
+    "Regulation Text": "Proportionality has been and continues to be at the heart of our regulatory approach. As is the case with financial regulation in general, consumer protection requirements should be proportionate in terms of achieving the outcome sought without being unduly burdensome or costly.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 7
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Proportionality",
+    "Regulation Sub Section Number": "1.5.2",
+    "Regulation Text": "All firms have the same responsibility to secure customers’ interests. A firm’s approach to adhering to their obligations should reflect the nature of its business and the products and services it provides, and the profile of its customer base.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 7
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Proportionality",
+    "Regulation Sub Section Number": "1.5.3",
+    "Regulation Text": "Firms should focus on the customer outcomes that may result from their actions, considering their ability to influence those outcomes. This will depend on what a firm can know, or can reasonably be expected to know, at a relevant time. This in turn will be driven by multiple factors including a firm’s role in the distribution chain, the nature of the product or service being offered and the profile of a firm’s customers. We explore delivering fair customer outcomes further in section 2.9 of this guidance.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 7
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.5",
+    "Regulation Number Name": "Proportionality",
+    "Regulation Sub Section Number": "1.5.4",
+    "Regulation Text": "Securing customers’ interests does not mean that individual customers will always achieve positive outcomes or will always be protected from poor outcomes. It does not impose an open-ended duty that goes beyond the scope of the firm’s role and its ability to determine or influence customer outcomes, or protect customers from all potential harms. For instance, firms are not expected to protect customers from risks inherent to a product, such as the counterparty risk associated with an investment product. As discussed below, firms must respect their customers’ autonomy. It is not the role of a firm to step in or override a customers’ decision, even where it believes this to be a bad decision. However, they should be satisfied they have complied with all their obligations, including relevant suitability requirements, and have confidence, to the extent they can taking account of the nature of the relationship (e.g. advisory vs execution only), that the customer understands and accepts the risks associated with their decision. 1.6 Customer Autonomy",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 7
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Customer Autonomy",
+    "Regulation Sub Section Number": "1.6.1",
+    "Regulation Text": "A well-functioning market system relies on decision-making by individuals as participants. Recognising this, subject to all of the obligations that are placed on financial firms to secure their customers’ interests, customers still have the right and responsibility to make their own decisions as to what products and services they wish to purchase and how they plan to secure their financial well-being.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 7
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Customer Autonomy",
+    "Regulation Sub Section Number": "1.6.2",
+    "Regulation Text": "Securing customers’ interests does not mean that a financial services firm is ‘acting on behalf of’ a customer, or in any way taking responsibility for making decisions that should be made by the customer themselves. It is important that firms give effect to a person’s will and preferences. This is reflected in the Assisted Decision-Making (Capacity) Act which provides a framework to support decision-making to maximise a relevant person's capacity in order to help uphold their rights and safeguard their autonomy. 9",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 8
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.6",
+    "Regulation Number Name": "Customer Autonomy",
+    "Regulation Sub Section Number": "1.6.3",
+    "Regulation Text": "In securing customers’ interests, firms have a role to play in empowering customers to make well-informed decisions and to take responsibility for their actions and decisions. Customers often need support to understand products and services, and they should have confidence that firms will act in a way that helps, rather than hinders, their ability to make decisions in line with their needs and financial objectives. Customers should also be able to trust that firms will not seek to unfairly exploit them through their behaviours, habits, preferences or biases, to benefit the firm in a way that causes customer detriment.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 8
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.7",
+    "Regulation Number Name": "Structure of Guidance",
+    "Regulation Sub Section Number": "1.7.1",
+    "Regulation Text": "The Guidance set out in  Section 2  outlines what meeting the Standards of securing customers’ interests means in practice. It sets out what firms need to consider, the actions they need to take and the mindset that they should adopt in relation to their dealings with customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 8
+  },
+  {
+    "Section Number": "1",
+    "Section Name": "Introduction",
+    "Regulation Number": "1.7",
+    "Regulation Number Name": "Structure of Guidance",
+    "Regulation Sub Section Number": "1.7.2",
+    "Regulation Text": "The Guidance includes a number of case studies and examples to illustrate what this means in practical terms. As a set of illustrative, non-exhaustive case studies and examples, they are not intended to cover every scenario or situation that may arise for a sector or firm. While the examples may refer to a specific sector or product, the principles and learnings highlighted in these examples are potentially relevant for all sectors and firms. We expect all firms to take the principles and learnings highlighted in each of the examples, and consider how they apply to the culture, strategy, business model, decision-making and systems, controls, policies, processes and procedures of the firm. 9 https://decisionsupportservice.ie/sites/default/files/2023-03/1.%20COP_on_supporting_decision- making_and_assessing_capacity_0.pdf Section 2 – Guidance 2.1 Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 8
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.1",
+    "Regulation Text": "Firms exist in the first instance to pursue their commercial objectives. However, while pursuing them, financial firms are required to do so in a manner that places their customers’ (and potential customers’) interests at the heart of their culture, strategy, business model, decision-making and operations. This reflects the nature of financial services activities as complex, important and dependent on high levels of trust and confidence. The Code overall is designed to provide the legal framework for delivering on this obligation.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.2",
+    "Regulation Text": "As articulated in our  CPRA Guidance , firms need to consider the risks that the firm’s external operating environment, strategy, business model, internal processes and procedures, pose to their customers. Systemic Perspective",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.3",
+    "Regulation Text": "As noted above, customers’ interests are best served through well-functioning financial services markets providing appropriate levels of availability and choice from sustainably profitable, resilient, well-run, customer focused firms who secure their customers’ interests. We recognise the important role we have in providing effective oversight to underpin the orderly and proper functioning of financial markets. Our regulatory approach seeks to support a resilient and trustworthy system that serves the interests and meets the needs of consumers and the economy. In meeting their obligations to their customers, firms need to take account of the overall market environment including the functioning of the system. Ownership",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.4",
+    "Regulation Text": "The Code does not prescribe what can or should be done by firms in every particular scenario or set of individual circumstances. It articulates what is required of firms generally so that firms can determine for themselves, supported by this Guidance, what actions they should be taking to secure customers’ interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.5",
+    "Regulation Text": "Complying with the obligation to secure customers’ interests requires firms to take ownership  of how they meet this obligation. Adhering to the obligation will never be achieved by tick-box compliance with rules. It requires an approach and mind-set which runs deeper and should operate at the centre of a firm’s culture, strategy, business model, decision-making and operations. Culture and Governance",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 9
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.6",
+    "Regulation Text": "Strong governance and an appropriate customer-focused culture are fundamental to firms securing their customers’ interests. Customer-focused attitudes and behaviours should be promoted from the top down, and be visible throughout the firm.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.7",
+    "Regulation Text": "Those in leadership roles should ensure that the right standards are set and reflected throughout the business including strategy setting, product, service and delivery channel development, risk management, people management and complaints handling.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.8",
+    "Regulation Text": "The business as a whole has responsibility for securing customers’ interests. This is not a compliance obligation owned by risk or compliance staff, but the whole organisation.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.9",
+    "Regulation Text": "The importance of governance and controls in the effective management of consumer protection risks is reflected in the  CPRA Guidance which articulates the Central Bank’s expectation that firms should ensure that: • Reporting lines and management responsibilities and accountabilities for consumer protection risk are clear and transparent; • There is evidence of a clear understanding at board, board committees and management committees of key consumer protection risks; • There is evidence of a clear understanding of individuals’ responsibilities and skillset required to oversee and challenge the management of these risks; • The board can demonstrate that it has or can address consumer protection risks that have been escalated to it; and • The board tracks and monitors consumer protection risks.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.10",
+    "Regulation Text": "The focus on the responsibility and accountability of role holders and in particular firms’ senior management under the Individual Accountability Framework (IAF) also aligns with the Code’s focus on securing customers’ interests. The Common Conduct Standards and Additional Conduct Standards. The application of individual conduct standards under the IAF aligns with the application of conduct-related Standards for Business in the Code, by ensuring that the behaviour and actions of the individuals working in firms contributes to firms’ adherence to their obligations under the Code. Strategy and Business Model",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 10
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.11",
+    "Regulation Text": "Sustainable, resilient business models are central to a well-functioning market which can deliver availability, choice and value-for-money to consumers. Firms, in the first instance, exist to pursue commercial goals, but they also need to ensure that a customer-focused approach is reflected in the firm’s strategy and business model.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.12",
+    "Regulation Text": "This obligation does not conflict with a firm’s ability to seek to deliver a reasonable return for their shareholders based on a sustainable, resilient business model. Indeed, firms targeting a sustainable, reasonable return on capital over an appropriate time horizon, who place their customers’ (and potential customers’) interests at the heart of their strategy, business model, and decision-making are providing themselves with a sound basis for securing customers’ interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.13",
+    "Regulation Text": "Strategy and securing customers’ interests should not be considered in isolation from each other. Firms should not consider customer interests after a strategy has been set. Consideration of the impacts on customers and customer outcomes, needs to be a key aspect of the strategy formation process itself.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.14",
+    "Regulation Text": "Diversity of business models is to be expected and is both desirable and important. There are many different ways in which firms can meet the needs of consumers. Different customers want different types of products and services. They have different means and different needs. These will be met by, amongst other things, different levels of standardisation and/or automation on the one hand, and levels of individualisation, complexity and in-person engagement on the other.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.15",
+    "Regulation Text": "Firms should be clear and transparent on their offerings to their customers, allowing them to make informed decisions on whether it meets their needs and means, and aligns with their expectations. Commercial Decision-Making",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 11
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.16",
+    "Regulation Text": "Firms’ decision-making should take into account their customers’ interests. Firms should consider their actions and decisions in the context of their obligation to secure customers’ interests. This will include careful consideration of impacts on, and outcomes for customers including those who may be in vulnerable circumstances.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.17",
+    "Regulation Text": "Securing customers’ interests does not mean that a firm cannot make commercial decisions in the interests of shareholders. Commercial decision- making reflects multiple factors including the need for firms to achieve reasonable, sustainable profitability and to build financial and operational resilience. While doing so, firms must also meet their obligation to secure their customers’ interests. Consideration of how this obligation can be met needs to be a factor in the commercial decision-making process.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.18",
+    "Regulation Text": "Firms that seek to unfairly exploit or take advantage of consumer behaviours, habits, preferences, or biases to benefit the firm in a way that causes customer detriment, represent a clear example of a failure to secure customers’ interests – in such circumstances we will intervene. Firms are not securing the interests of customers where a commercial decision is based on exploiting customer behaviours such as inertia, or unfairly exploiting or taking advantage of specific circumstances, such as a lack of available alternatives in the market, which results in customer detriment.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.19",
+    "Regulation Text": "As noted in the  CPRA Guidance,  we expect firms to ensure that: • All aspects of strategy formation and decision-making at board level demonstrate that the customer is central to the process and take full account of the implications of the firm’s strategy on consumer protection; and • Compliance and risk functions are involved by the firm and proactively consulted on consumer protection risks, with the ability to influence decisions. As a result, the firm should be able to provide examples of where compliance or risk functions have prevented the firm from taking action or substantially changed the action as a result of concerns about consumer impact. 11 11  As noted in the CPRA Guidance, firms should have risk management structures that are proportionate to the nature, scale and complexity of the firm. Systems, controls, policies, processes and procedures that take account of customers’ interests",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 12
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.20",
+    "Regulation Text": "The systems, controls, policies, processes and procedures put in place to execute and deliver a firm’s strategy and business models should be designed in a way that properly considers customers’ interests. Weak business processes can result in errors and/or customers failing to get an appropriate level of service. This includes when a customer has to wait too long for their query or complaint to be dealt with, or where the process they have to go through is unclear or unnecessarily difficult to navigate. Additionally, where firms do not have adequate processes and procedures to control and mitigate operational risks, this can have a severe impact on the quality and availability of the service provided to customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.1",
+    "Regulation Number Name": "Aligning Culture, Strategy, Business Model, Decision-Making and Systems, Controls, Policies, Processes and Procedures with Customers’ Interests",
+    "Regulation Sub Section Number": "2.1.21",
+    "Regulation Text": "Consideration needs to be given to how the design and implementation of systems, controls, policies, processes and procedures impacts on customer experience and outcomes. 2.2 Securing Customers’ Interests During Business Model Change and Innovation",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.1",
+    "Regulation Text": "Innovation provides opportunities for consumers through greater choice and ease of access to financial products and services. Through innovation, incumbents and new entrants develop new business models and business lines, new products and services, and new modes of delivery.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.2",
+    "Regulation Text": "However, innovation also brings potential challenges such as a lack of access to services for some consumers, the appropriate use of data including personal data, and the nature of the decision-making process for more financially significant and complex products. It is important that there is appropriate alignment between innovative developments and the interests of a firm’s customers, and these issues need to be properly considered and understood to ensure consumers are appropriately protected, while potential opportunities and benefits for consumers are maximised. 12",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.3",
+    "Regulation Text": "Firms should navigate innovation and change in a manner that incorporates securing customers’ interests into their commercial decision-making process and seeks to avoid creating risks to customers. The decision to materially change a firm’s product or service offering or their mode of delivery, should include a full consideration of the impact on and outcomes for customers. 12 Digital for Good: Ireland’s Digital Inclusion Roadmap explores some of these issues. Example 1: Securing Customers’ Interests in Digital Delivery Customers’ interests need to be considered and appropriately secured in the transition to digital delivery of products and services. There is a clear trend in financial services towards reduced physical presence and a reduction of in-person services with increasing delivery of products and services through digital channels. In moving to digital delivery, firms must secure their customers' interests. It is not sufficient to simply digitalise and rationalise activity in the absence of consideration of customer impacts. We expect firms’ digital platforms to be designed with their customers’ interests in mind. Firms are required to ensure that digital platforms are easy to navigate, to use and to understand, ensuring that consumers do not need specialist knowledge to access them. It is important in particular to ensure that certain cohorts of consumers, including those with poor digital literacy, do not become excluded through poor design. Firms should give consideration to the suitability of alternative modes of service provision for existing customers who may be excluded by digital delivery. This should include the development of solutions to ensure that customers, especially at-risk customers, can avail of services. A firm should only proceed with a decision to move to digital delivery, where it is satisfied that it has carefully considered customer impacts and identified appropriate mitigants to address identified issues for customers. This should include careful consideration of the impact on customers in vulnerable circumstances and what reasonable assistance might be provided to mitigate adverse impacts. Customers should also be provided with appropriate notice of changes to services, and impact assessments should be undertaken after transition to address any significant issues that may arise from a consumer perspective. This approach is reflected in requirements for retail banks relating to branch closure, or significant amendment of branch services, set out in the Banking, Credit and Arrears part of the Consumer Protection Regulations. Securing customers’ interests requires  all firms to consider customer impacts when taking decisions to move to digital delivery. Commercial decisions should not be considered in isolation from a consideration of the impacts of that decision on customers. The decision to change a product, service or delivery channel should only be taken following full consideration of the risks and customer impacts that the changes pose. Firms need to be able to demonstrate how they are securing customers’ interests in undertaking such significant business model changes. Example 1: Securing Customers’ Interests in the Transition to Digital Delivery -  Customers’ interests need to be considered and appropriately secured in the transition to digital delivery.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 13
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.4",
+    "Regulation Text": "It is important that firms are able to innovate and become more cost efficient and effective. This commercial dynamic is key to ongoing improvement in availability and choice for consumers. Securing customers’ interests requires that these outcomes be pursued with full consideration of the effects on customers, and how customers’ interests can be secured.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.5",
+    "Regulation Text": "Firms should proactively assess the risks and the impact that changes to or new product and service offerings pose to customers, and should take steps to mitigate identified risks. Firms should have the customer service capacity and structures in place to meet reasonable service levels that provide a timely and customer-focused service through all channels.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.2",
+    "Regulation Number Name": "Securing Customers’ Interests During Business Model Change and Innovation",
+    "Regulation Sub Section Number": "2.2.6",
+    "Regulation Text": "Customers should be adequately supported through changes. In particular, firms should consider the impact of their decisions on customers in vulnerable circumstances and provide necessary assistance. This should include specific and effective processes and communication to support such customers. 2.3 Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.1",
+    "Regulation Text": "The choices, actions and responses of a firm when designing and delivering its products and services are key to securing customers’ interests. Alignment of services and products with the needs, means and reasonable expectations of customers, is fundamental.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.2",
+    "Regulation Text": "When a firm is designing or reviewing a product, considering pricing or developing its communications and customer service approach, it should consider the needs of its customer base and target market. Firms should design and bring to market products with features that meet the needs of consumers identified for the product. Example 2: Securing Customers Interests’ under Digital Delivery Some firms only engage with their customers through digital channels. It is important that these firms give careful consideration to how they can secure their customers’ interests through this delivery channel. Carefully designed interfaces which are designed with the needs of the target market in mind are a key way that firms can secure their customers’ interests. Firms will often focus on ease of access, navigability and execution where they are seeking to encourage customers and potential customers to purchase their products and services.  It is clearly in the interests of firms to focus on good design where it supports growth of their customer base. Importantly, these principles should equally apply where firms are designing interfaces and systems to provide support for their customers. While customers may generally only need to engage with a firm through its standard digital interfaces to access services and execute transactions, there will be times where customers need access to additional support. For example if a system or interface is not working for a customer they will need to be able to engage with the firm to access support to resolve their issue. Similarly where a customer suspects that they have been the victim of fraud they will also need to be able to engage with the firm to access appropriate supports to deal with the situation. Supports and access channels should be designed in a way that seeks to effectively support the customer to get issues resolved quickly and to minimise negative impacts for customers. For example where a customer suspects that they have been the victim of fraud, having rapid access to appropriate supports can help customers to take steps to stop the harm and reduce negative impacts. Accessing and navigating supports should be simple and intuitive. Multiple types of supports can play a role, including providing access to standardised information, chatbots, helplines etc. The supports available should reflect the issue they are designed to address and the likely needs of customers impacted by that issue. Looking at the fraud example again, what does a customer who suspects they are the victim of fraud need? They need to be able to notify the firm quickly and have confidence that this will be acted on straightaway. This is vital to stopping harm and minimising impacts on the customer. Firms need to consider the circumstances of the customer and the impact this can have on the ability to navigate systems and processes. Reflecting this, systems to access supports need to be easy to find, access and use. Consideration should be given to whether in certain circumstances customers should have access to in-person support for significant issues. Supports for online or digital customers are an important aspect of meeting the obligation to secure customers’ interests. They should reflect the issue they are designed to address, and need to be easy to find, access and use. Example 2: Use of Incentives in Product Design Incentives should be designed in a way that delivers positive outcomes for customers. They should not impair a customer’s ability to act in their own interests and to make informed choices in line with their financial needs. Firms often include incentives in product offerings to create differentiation from competitors’ products and to make them more attractive for customers or potential customers based on customer preferences. While such features may represent legitimate commercial practices, the rationale for the inclusion of such features should be explored to determine if a firm is securing its customers’ interests. In assessing the appropriateness of including incentives in product design, firms need to ensure that the inclusion of incentives aligns with the interests of customers. Incentives should be designed in a way that supports customers to act in their own interests and make appropriately informed decisions in terms of product choices. Firms must not include features in products which unfairly exploit or take advantage of customer behaviours, habits, preferences or biases in order to benefit the firm in a way that will result in customer detriment. The obligation to not exploit customer behaviours, habits, preferences or biases is explored further in section 2.4 below. It is also important that customers understand the implications of choosing a product with an incentive instead of other alternatives available in the market that may potentially be more suitable for the customer over the long-term. Including features that increase the initial attractiveness of products, can interfere with price transparency and the ability of consumers to compare products effectively. Mortgage cashback provides one such example. Where it can be demonstrated that the cashback incentive can provide a positive outcome for the customer this may represent a legitimate commercial practice. However, if the provisions of such an incentive solely seeks to exploit customer inertia by incentivising a customer to choose a product which will be a more expensive product for them over the life of the product, this does not align with the obligation to secure customers’ interests. Firms should ensure that when offering incentives, they are designed in a way that seeks to deliver positive outcomes for customers by supporting customers to act in their own interests and to make informed choices in line with their financial needs. Overall, firms should be able to demonstrate how the features of a product, including incentives, align with the interests of customers. Example 3: Use of Incentives in Product Design Incentives should be designed in a way that delivers positive outcomes for customers. They should not impair a customer’s ability to act in their own interests and to make informed choices in line with their financial needs.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 15
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.3",
+    "Regulation Text": "Many firms are subject to product oversight requirements that require manufacturers and distributors of financial products to ensure proper design and oversight of those products and services. These provide a framework for robust and responsible product design and distribution. They generally require that when products are being designed and brought to the market, the interests, objectives and characteristics of the target market are taken into account to avoid potential customer detriment. 13",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 18
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.4",
+    "Regulation Text": "This can be achieved through careful consideration of target markets, product testing, product monitoring and selection of appropriate distribution channels. Proper adherence to these requirements will support firms’ focus on the customer and meeting the obligation to secure customers’ interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 18
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.5",
+    "Regulation Text": "The importance of practices within the Product Life Cycle to the management of consumer risks is highlighted in the  CPRA Guidance  which articulates our supervisory expectations in relation to product development, the sales/transaction process and post sales handling, covering: • Product development : o Product development committees/forums consist of an appropriate balance of members, e.g. marketing/sales, compliance, risk and consumer advocacy representation, at a senior level to consider the consumer impact; o Products are withdrawn or not launched where concerns from a consumer perspective exist; o Consumer research is undertaken that seeks to get a better understanding of the target market in order to establish consumers’ potential needs and understanding of the product; o Oversight and monitoring of complaints, consumer feedback and relevant distribution channels, to assess ongoing ability of product design to meet consumer needs; and o Consumer protection risk is tracked and monitored. • Sales/transaction process : o Consumer outcomes are recorded and tracked; o Sales aids, training and procedural documentation support appropriate sales, and are designed to ensure that sales staff clearly explain the key are subject to regular quality assurance monitoring by external functions, e.g. internal audit and compliance; o Confirmation sought from consumers in relation to understanding eligibility and other key product information; o Documented process to escalate consumer detriment; and o Consumer protection risk is tracked and monitored. • Post sales handling: o Clear policy and procedure in relation to post sales services and adequate training for staff providing such services, resulting in fair consumer outcomes; o Clear accountability for consumer outcomes with issues identified remediated; o Root cause analysis of complaints, appeals, issues or other matters escalated in relation to consumer protection risk and evidence that this analysis was used to mitigate future similar risks; and o Monitoring of post sales activities to identify any potential unsuitable or unfair consumer outcomes and potential consumer detriment that could occur if there are failings in the post sales process or the quality of service and/or advice, e.g. random sampling of call centre calls, ongoing reporting of key performance and key risk indicators.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 18
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.6",
+    "Regulation Text": "We expect firms to consider risks identified in relation to a product or service that is similar to other products the firm provides. Firms should use their understanding and experience of one product or service to secure the interests of customers accessing similar products or services.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 19
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.7",
+    "Regulation Text": "In 2019, the Central Bank put in place restrictions on the sale of contracts for difference to retail investors to address significant concerns about the risk to retail investors from these products. Where there are other products with similar relevant features or aspects, securing their customers’ interests requires firms to implement similar controls and restrictions in relation to those other products. Firms should never wait for the Central Bank to intervene before they take the necessary steps to effectively secure their own customers’ interests. 14 https://www.centralbank.ie - central-bank-cfd-intervention-measure.pdf . Asymmetries of resource, information and expertise",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 19
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.8",
+    "Regulation Text": "The asymmetry or imbalance in information, expertise and time between financial services firms and customers can increase the risk that customers may experience poor outcomes where firms are not securing their customers’ interests. In designing products, services and delivery channels, firms should not be seeking to take advantage of these asymmetries. Firms can only design and bring to market products with features, charges and risks that meet the needs of customers identified for the product, i.e. products must be suitable for the customers they are targeted at. Product complexity can impact the ability of customers to understand risks associated with products and to compare products effectively. Firms need to consider difficulties customers may have in understanding the features of products. Given this, for more complex products or services, firms should consider their potential target market in particular detail. They need to take account of any increased risk of consumer harm associated with customers accessing inappropriate products or services, due to a lack of customer understanding of the risks involved. For example, investment products with complicated features may make it difficult for retail investors to fully understand the potential risks associated with the product and the probability of those risks arising. Such products may only be appropriate for a narrower target market and a particular distribution strategy or channel. Some products may not be appropriate for execution only models and should only be sold with advice where it is possible for the firm to determine the suitability of the product for the customer and the level of customer understanding. Firms should carefully consider how specific products are targeted and whether they should only be or typically be sold with advice. In meeting their obligation to secure their customers’ interests, firms need to be able to demonstrate that they can effectively bridge the gap between the knowledge and expertise of their target market, and the complexity and sophistication of a product. Example 4: Appropriate Target Markets and Delivery Channels In designing and developing products, services and delivery channels, firms need to consider what the appropriate target market is.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 20
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.9",
+    "Regulation Text": "Firms need to consider the knowledge and expertise of their customers, the complexity and sophistication of the proposed product or service, and determine if and how they can effectively reduce the gap between the two through the design and delivery of products and services.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 21
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.10",
+    "Regulation Text": "Products should be designed with real customer needs in mind. They should be targeted only at customers with those needs, with risks properly explained. Alignment with customers’ needs and risk appetite is critical.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 21
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.11",
+    "Regulation Text": "To do this effectively, firms should identify their customer base for a particular product or service. They should consider the characteristics, risk profile, complexity and nature of the product or service, to determine if it meets the needs and risk appetite of the potential target market. Example 4: Marketing and Sale of ‘Green’/‘Sustainable’ Products Customers should have confidence that ‘green’ or ‘sustainable’ financial products are accurately and fairly represented. Firms need to engage with climate-related activities as responsible agents in the transition to a climate neutral economy. Consumers of financial services increasingly want access to ’green’ or ‘sustainable’ financial products to support climate transition. There has been a substantial increase in the development of financial products described as being ‘green’ or ‘sustainable’. It is important for industry to ensure that sustainable financial products are described in an accurate and transparent manner and that customers can trust the information they receive regarding the green credentials of firms and products. The provision of information on ‘sustainable’ or ‘green’ financial products must be rooted in both the obligation on firms to inform effectively and to secure customers’ interests. The provision of ‘sustainable’ or ‘green’ products should not be viewed as an opportunity to increase information asymmetries between firms and customers and leverage these asymmetries to mislead or misdirect customers. This extends to the provision of information on specific products and services and on a firm’s green credentials. The specific features and characteristics of ‘sustainable’ or ‘green’ products should be clearly explained in plain and simple terms that a customer can be expected to understand. Example 5: Marketing and Sale of ‘Green’/‘Sustainable’ Products Customers should have confidence that ‘green’ or ‘sustainable’ financial products are accurately and fairly represented. Firms need to engage with climate-related activities as responsible agents in the transition to a climate neutral economy.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 21
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.12",
+    "Regulation Text": "Mode of delivery and execution is also an important consideration. For some products, risks can arise from the speed and ease at which contracts can be completed through digital execution-only delivery channels. The absence of human interaction and/or advice to support customer decision-making may not be appropriate for certain products and services, and firms should give consideration to the appropriateness of delivery channels as part of the product design process.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 22
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.3",
+    "Regulation Number Name": "Securing Customers’ Interests Through Product, Service and Delivery Channel Design",
+    "Regulation Sub Section Number": "2.3.13",
+    "Regulation Text": "Additionally, while many customers may be generally happy to receive a financial service digitally they may still require an in-person engagement to deal with a specific problem, query or failure on the part of the financial service provider. 2.4 Customer Behaviours, Habits, Preferences and Biases",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 22
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.1",
+    "Regulation Text": "While consumer behaviour, habits and preferences can be integrated into a firm’s approach, this should only be done in a way that is designed to enhance customer outcomes and does not cause customer detriment. Firms should respond appropriately to customers’ patterns of behaviour.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 22
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.2",
+    "Regulation Text": "Firms can pursue commercial goals, but they cannot seek to generate inappropriate gains or advantages by leveraging consumer susceptibilities created through consumer behaviours and habits such as inertia or ‘stickiness’ which result in customer detriment. As we have seen with differential pricing, when developing their pricing policies and practices, firms should always challenge themselves to be sure that they are not, consciously or unconsciously, unfairly exploiting or taking advantage of customers’ inertia to their detriment.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 22
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.3",
+    "Regulation Text": "Digitalisation is expanding the availability of financial data facilitating customer profiling and increasing the risk that firms can seek to inappropriately exploit consumer behaviours, habits, preferences or biases. However, this can also occur under traditional business models as seen in the Irish home and motor insurance markets in the case of differential pricing (see Case Study 1). Case Study 1: Differential Pricing in Insurance Pricing practices should not result in unfair outcomes for customers. Firms cannot engage in unfair, hidden or discriminatory practices that seek to exploit customer behaviours, habits, preferences or biases and result in customer detriment. Data and Artificial Intelligence Act) (Insurance Requirements) Regulations. For example, while a difference between technical pricing and actual pricing increasing with length of tenures can be consistent with risk-related factors, firms should be sure that it does not reflect reliance on inertia or ‘loyalty’ of longer-standing customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 22
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.4",
+    "Regulation Text": "Firms have increasing access to detailed information about the lives and lifestyles of customers who, often unwittingly, provide information about themselves to internet service providers, which can be sold to other firms including financial services firms.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.5",
+    "Regulation Text": "The use of data and Artificial Intelligence (AI) presents risks to consumers in terms of information asymmetries. From a customer perspective, these asymmetries, facilitated by algorithmic profiling which is invisible to customers, have the potential to create an inequality where a firm has much greater knowledge about the customer, affecting how the firm markets products, prices products and ultimately sells products to customers. Used inappropriately, it can enable unfair profiling and facilitate the exploitation of customers, including those who are less familiar with technology.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.6",
+    "Regulation Text": "Firms should not use data and profiling to identify behaviours, habits, preferences or biases for the purposes of exploiting these to target customers with products with unfair features that are not suitable for customers and result in customer detriment. Dark Patterns",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.7",
+    "Regulation Text": "Dark patterns, found in online user interfaces, are design features that may steer, deceive, coerce or manipulate consumers into making choices that often are not in their best interests. 17",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.8",
+    "Regulation Text": "The European Union Digital Services Act 18  describes dark patterns on online platforms as practices that materially distort or impair, either on purpose or in effect, the ability of recipients of the service to make autonomous and informed choices or decisions. Such practices can be used to persuade the recipients of the service into undesired decisions, or to engage in unwanted behaviours, which have negative consequences for them. 19  This is not in line with the Code obligation to secure customers’ interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.9",
+    "Regulation Text": "The use of technology to deliver products and services to customers should serve their interests and not be viewed as an opportunity to exploit their behaviours, biases or vulnerabilities, or to increase asymmetries and imbalances between customers and firms. Choice Architecture; also “Dark Patterns, Enforcement, and the emerging Digital Design Acquis -- Manipulation beneath the Interface” by Leiser and Santos ( link ) . 18 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package . 19 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2065.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 24
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.10",
+    "Regulation Text": "A well-designed digital interface, focused on securing customers’ interests, can enhance the customer experience and customer outcomes.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.4",
+    "Regulation Number Name": "Customer Behaviours, Habits, Preferences and Biases",
+    "Regulation Sub Section Number": "2.4.11",
+    "Regulation Text": "However, choice architecture can influence the choices and decisions customers make. Digital interfaces should not be designed to distort or impair the decision- making process. It is not acceptable for firms to design their choice architecture to covertly manipulate or coerce customers into choices that benefit the firm but are not in customers’ interests, for example, by misdirecting a customer to a product or service that is more expensive than valid alternatives or that is ill- suited to the customers’ needs and/or risk appetite. 2.5 Dealing with Errors or Mistakes and Customer Complaints",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.1",
+    "Regulation Text": "Where individual customers have issues with financial products or services their first line of protection is the firm itself. Under the Code, firms are required to resolve errors and complaints efficiently and in a timely manner.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.2",
+    "Regulation Text": "Effective engagement with customers is key to resolving complaints and errors or mistakes. Firms should consider the most effective approach to complaints resolution taking account of the circumstances of the case. In many cases, mediation may be an effective tool to reach a mutually acceptable resolution of an issue.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.3",
+    "Regulation Text": "As articulated in the  CPRA Guidance  firms should ensure there is clear accountability for remediation of issues identified. There should be root cause analysis of complaints, appeals issues or other matters escalated in relation to consumer protection risks and evidence that this analysis was used to mitigate similar risks in the future. Firms should reflect on whether they have stopped the harm by taking ownership of the issue, fixing it, learning from it and ensuring it does not reoccur.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.4",
+    "Regulation Text": "The  CPRA Guidance also notes that there should be monitoring of post sales activities by firms to identify any potential unsuitable or unfair consumer outcomes and potential consumer detriment that could occur if there are failings in the post sales process, or in the quality of service and/or advice, e.g. random sampling of call centre calls and ongoing reporting of key performance and key risk indicators.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.5",
+    "Regulation Text": "Firms also have an obligation under the Code to ensure that errors or issues identified for one customer which may reasonably have affected other customers are resolved for all affected customers efficiently, fairly and in a timely manner.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 25
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.6",
+    "Regulation Text": "When firms identify individual customer issues, they should proactively seek to identify all affected customers by undertaking an impact assessment on a timely and comprehensive basis. They should then undertake follow-up actions to appropriately remediate the position for all affected customers, without having to wait for a complaint or other prompt from other impacted customers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.5",
+    "Regulation Number Name": "Dealing with Errors or Mistakes and Customer Complaints",
+    "Regulation Sub Section Number": "2.5.7",
+    "Regulation Text": "In cases where issues are to be resolved on the initiative of the firm, remediation should be accompanied by full disclosure to provide transparency and accountability on the remediation plan and process. 2.6 Securing the Interests of All Customers",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.6",
+    "Regulation Number Name": "Securing the Interests of All Customers",
+    "Regulation Sub Section Number": "2.6.1",
+    "Regulation Text": "Financial services firms’ business models often involve the legitimate segmentation of customers. However securing the interests of customers cannot justify the unfair exploitation of a cohort of customers given their individual characteristics, resulting in their detriment. The interests of all customers must be secured. Where firms unfairly exploit one cohort of customers, they cannot argue that securing the interests of another cohort of customers justifies their actions. 2.7 Unregulated Activities of Regulated Firms",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.7",
+    "Regulation Number Name": "Unregulated Activities of Regulated Firms",
+    "Regulation Sub Section Number": "2.7.1",
+    "Regulation Text": "It is a concern that consumers are not always aware when financial products or services, which are provided to them by regulated firms, are not regulated.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.7",
+    "Regulation Number Name": "Unregulated Activities of Regulated Firms",
+    "Regulation Sub Section Number": "2.7.2",
+    "Regulation Text": "If a customer transacts in unregulated products or services with an established regulated business, or an unregulated subsidiary or group entity of that regulated business, the reputation of the regulated firm can serve to provide potentially misguided reassurance to a customer in relation to unregulated activities.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.7",
+    "Regulation Number Name": "Unregulated Activities of Regulated Firms",
+    "Regulation Sub Section Number": "2.7.3",
+    "Regulation Text": "Where regulated firms undertake both regulated and unregulated activities, there is a heightened risk that consumers may misunderstand the protections they are afforded when accessing unregulated products and/or services by virtue of the regulated status of the firm. Regulated firms often use branding and other marketing tools to distinguish themselves from other firms operating in the market. A firm will utilise branding to identify its products and services as having come from that firm. Where a customer engages with a regulated firm to transact business activities that are not regulated, the firm’s reputation and its regulatory status (i.e. the ‘Halo Effect’), may serve to provide unjustified reassurance to customers. For example, this may lead customers to believe that the sale of the unregulated products or services are subject to the same binding regulatory requirements as apply to the sale of regulated products, when they are not. Moreover, customers may assume that they have access to protections such as deposit protection or investor compensation schemes, when they do not. This is an area with the potential risk for very significant detriment to consumers. Confusion can arise where regulated firms, or their unregulated subsidiaries, carry out unregulated activities while using identical or similar branding to the branding used for the regulated activities also provided by the regulated firm. Regulated firms have a positive obligation under the Code to take appropriate steps to mitigate the risk that a customer will understand an activity to be, or to carry the protections of, a regulated activity where this is not the case. This requires firms to ensure that the use of branding does not contribute to confusion or misunderstanding on the regulatory status of a product or service. The closer in nature an unregulated product or service is, or appears to be, to a regulated financial service or product, the greater the risk of such misunderstanding or misperception. Firms need to carefully consider the use of branding on their websites and apps where these channels are used to display information and or facilitate execution of transactions in products or services that are not regulated. 20  It should be clear to customers when they are moving outside the regulatory space. This can be supported through disclosures and warnings but firms also need to consider if the use of branding can contribute to confusion . 20 Regulation 72 of the Consumer Protection Regulations requires firms to provide information on its website in relation to regulated activities on a separate webpage from any webpage on its website providing information on unregulated activities. Example 6: Appropriate Use of Firm Branding In utilising branding, firms need to carefully consider the potential impacts and outcomes for customers. It is not appropriate for firms to use branding in a way that can confuse or mislead customers or potential customers on the regulatory status of products or services.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 26
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.7",
+    "Regulation Number Name": "Unregulated Activities of Regulated Firms",
+    "Regulation Sub Section Number": "2.7.4",
+    "Regulation Text": "It is therefore important for firms to ensure that customers understand the regulatory status of the products and services they are provided with. There should be no risk that a customer will have a sense that they are in ‘regulated territory’ when they purchase unregulated products or services from a regulated provider. Under the Code’s Standards for Business, firms are required to ensure that all information they provide to customers is presented in a way that seeks to effectively inform the customer. Under the Securing Customers’ Interests Supporting Standards for Business, firms are required to take appropriate steps to mitigate the risk that a customer will understand an activity to be, or to carry the protections of, a regulated activity where this is not the case. Firms’ use of branding should not contribute to confusion on the regulatory status of products and services. The creation by a financial services group of a separate subsidiary for the purpose of undertaking unregulated activities, using the same branding it uses for its regulated activities, where those unregulated activities have significant potential to cause confusion for consumers and carry high risk of potential harm would not reflect a culture or mind-set that seeks to secure the interests of those consumers.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 28
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.7",
+    "Regulation Number Name": "Unregulated Activities of Regulated Firms",
+    "Regulation Sub Section Number": "2.7.5",
+    "Regulation Text": "Acting to secure customers’ interests applies to a firm in the overall conduct of its affairs. Firms should view good culture and a commitment to securing customers’ interests as being central to its relationship with its customers, irrespective of the regulatory status of the product or service in question. Good culture and a commitment to securing customers’ interests does not turn on or off depending on the legal or regulatory status of the business that a regulated firm does. 2.8 Importance of Contractual Clarity",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 28
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.8",
+    "Regulation Number Name": "Importance of Contractual Clarity",
+    "Regulation Sub Section Number": "2.8.1",
+    "Regulation Text": "There should be high-quality communication and transparency in the terms on which firms do business. Ambiguities call into question whether firms are providing an appropriate level of transparency and are adhering to their obligation under the Standards for Business to inform customers effectively.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 28
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.8",
+    "Regulation Number Name": "Importance of Contractual Clarity",
+    "Regulation Sub Section Number": "2.8.2",
+    "Regulation Text": "A firm is required to ensure that all information it provides to customers is presented in a way that seeks to effectively inform the customer – this includes bringing key information to the customer’s attention, and ensuring that all information that it provides to a customer is clear, accurate, up to date and written in plain and accessible language. This obligation extends to all aspects of the relationship with the customer, including how the firm ensures that the customer is clear on the contracts that they may enter into with the firm. Case Study 2: Business Interruption Insurance The Central Bank expects firms to adopt a customer-first approach to the resolution of contractual ambiguities. Where ambiguities arise, the interpretation most favourable to the policyholder should prevail. At the outset of the Covid-19 pandemic the Central Bank immediately identified business interruption as a significant issue that would impact businesses across Ireland. The issue of whether or not Business Interruption (BI) insurance policies provided cover for the losses arising from the Government’s imposed closures became a central issue both in Ireland and internationally. We moved swiftly to identify potentially systemic issues of customer harm relating to BI insurance and prioritised this issue though a system-wide supervisory examination underpinned by the COVID-19 and Business Interruption Insurance Supervisory Framework (Supervisory Framework). 21 We were clear in our expectations and requirements of regulated firms, by requiring that all valid claims be paid promptly and where there was a doubt about the meaning of a term in a firm’s BI insurance policy wordings, the interpretation most favourable to the policyholder should prevail. The Central Bank’s system-wide examination was based on identifying all groups of impacted policies where, in our view, the relevant contractual provisions provided cover for COVID-19 related interruption and/or interference to businesses. The Central Bank was clear with all relevant firms about its expectations and its view in relation to ‘cover’ and ‘causation’ following our review of relevant policy wordings. Some firms accepted valid claims early in the process while other firms decided to seek legal confirmation and clarification, based on the outcome of relevant test cases, before making a final determination on ‘cover’ and ‘causation’. However, following the decision of the High Court in February 2021 22 , all relevant firms accepted that cover existed for similarly affected policies and those firms then contacted policyholders with valid claims in order to progress those claims. The Central Bank also reinforced its expectations to relevant firms in respect of policy wordings that were determined to be responsive to the outbreak of COVID-19 in Ireland. 21 https://www.centralbank.ie/docs/default-source/consumer-hub-library/covid-19/covid-19---business-interruption- insurance---supervisory-framework.pdf. 22 https://www.courts.ie/acc/alfresco/8bfaa5dd-3ea3-4580-979f-0dfb2d8243be/2021_IEHC_78.pdf/pdf#view=fitH. This included an expectation that firms identify and contact potentially affected policyholders, assist policyholders in making a claim, were operationally ready to deal with claims and had adequate governance and oversight of the process. All relevant firms made progress in line with the Central Bank’s expectations, with relevant policyholders notified and settlements progressed where all required information had been provided by the policyholders.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 28
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.8",
+    "Regulation Number Name": "Importance of Contractual Clarity",
+    "Regulation Sub Section Number": "2.8.3",
+    "Regulation Text": "If a firm complies with its obligation to be effective in its communications with its customers, this should significantly mitigate the risks arising from contractual ambiguity.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 30
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.8",
+    "Regulation Number Name": "Importance of Contractual Clarity",
+    "Regulation Sub Section Number": "2.8.4",
+    "Regulation Text": "Firms must also be cognisant of the requirements in respect of consumer contracts in the Consumer Rights Act 2022. 23",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 30
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.8",
+    "Regulation Number Name": "Importance of Contractual Clarity",
+    "Regulation Sub Section Number": "2.8.5",
+    "Regulation Text": "Where material ambiguity arises, the Central Bank expects firms to apply the understanding that most benefits the customer. Firms should seek to resolve any contractual interpretation issues as quickly as possible. Firms should consider all alternatives before engaging in litigation to resolve contractual ambiguity. 2.9 Delivering Fair Outcomes for Customers",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 30
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.9",
+    "Regulation Number Name": "Delivering Fair Outcomes for Customers",
+    "Regulation Sub Section Number": "2.9.1",
+    "Regulation Text": "The way in which a business measures its success should include consideration of outcomes for its customers. Securing customers’ interests requires a focus, not only on the actions taken at a point in time, but also more importantly on the ultimate outcome for the customer.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 30
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.9",
+    "Regulation Number Name": "Delivering Fair Outcomes for Customers",
+    "Regulation Sub Section Number": "2.9.2",
+    "Regulation Text": "While we acknowledge the role both firms and customers play in influencing outcomes, firms should strive for positive customer outcomes. This requires them to identify, as appropriate, the risks to customers that might prevent positive outcomes. Firms effectively securing customers’ interests will: • Develop products and services that are fit for purpose and meet the needs and expectations of customers; • Ensure delivery channels are effective for the products and services offered and the relevant customer base; • Provide consumers identified as in vulnerable circumstances with the support they need when engaging with financial services; and 23 https://www.irishstatutebook.ie/eli/2022/act/37/enacted/en/html. • Ensure their communication and engagement with customers empowers them to make decisions in their own interests.",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 30
+  },
+  {
+    "Section Number": "2",
+    "Section Name": "Guidance",
+    "Regulation Number": "2.9",
+    "Regulation Number Name": "Delivering Fair Outcomes for Customers",
+    "Regulation Sub Section Number": "2.9.3",
+    "Regulation Text": "Delivery of these important fundamentals, which are reflected in the broader requirements of the Code, will underpin positive customer outcomes, ensuring that firms secure customers’ interests. How information is presented impacts on the effectiveness of the communication for customers. Poor information presentation can impede consumers’ ability to assess the benefits and risks of a financial product. This is more likely when the product is complex or when there are many similar types of product on the market. This can result in consumers purchasing unsuitable products. Consumer behavioural research undertaken by the Central Bank1 224 5800 E : publications@centralbank.ie www.centralbank.ie",
+    "Document Name": "Guidance on Securing Customers' Interests",
+    "Page": 31
+  }
+]

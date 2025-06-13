@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided pension scheme rules document for several reasons: 1) The document is a set of rules governing an executive pension life cover scheme that provides death benefits only - it does not involve any penalty charges or surcharge interest that would trigger the notification requirements under Regulation 70. 2) The document outlines the structure, benefits, and administration of a pension scheme rather than dealing with consumer charges or penalties. 3) While AIB Life is mentioned as the life office and registered administrator, the document does not contain any provisions related to penalty charges or methods to mitigate them. The scheme rules are focused on defining benefits payable upon death before retirement age and the trustee's duties in administering these benefits. The regulation specifically addresses notification requirements around penalty charges, which is not relevant to the core purpose and operation of this pension scheme.",
+  "confidence_score": "High",
+  "regulation_number": 70,
+  "regulation_title": "Notification of methods to mitigate or avoid likelihood of penalty charges",
+  "regulation_text": "70. A regulated entity shall notify consumers that have been charged with penalty charges, including surcharge interest, on paper or on another durable medium, of the methods by which the likelihood of these penalties applying may be mitigated or avoided. Chapter 7",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}

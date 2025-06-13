@@ -1,0 +1,11 @@
+{
+  "applicability": "Does Not Apply",
+  "applicability_reasoning": "This regulation does not apply to the provided document for several key reasons: 1) The document is a pension life cover scheme rules document that outlines the operational framework, definitions, and governance of a pension scheme - it is not an insurance quotation document. 2) While the document mentions AIB Life as the life office providing assurance, this document's purpose is to establish the rules and structure of the pension scheme rather than provide quotations. 3) The document does not contain any of the specific quotation elements required by Regulation 328 (monetary amounts, validity periods, or underwriter details in the context of a quote). 4) This is a foundational governance document that establishes the scheme's rules, benefits, trustee duties, and winding up procedures - it serves a different regulatory and operational purpose than insurance quotations. The regulation in question specifically pertains to insurance quotations and renewal notifications, which is not the nature or purpose of this document.",
+  "confidence_score": "High",
+  "regulation_number": 328,
+  "regulation_title": "Information to be provided in insurance quotation - general",
+  "regulation_text": "328. (1) An insurance undertaking or insurance intermediary shall provide the following information in any insurance quotation: (a) the monetary amount of the quotation; (b) the period of time for which the quotation is valid; (c) the registered legal name of the proposed underwriter of the insurance policy. (2) In this Regulation and in Regulations 329 to 330, the term \"insurance quotation\" shall be understood to include a renewal notification containing an insurance quotation.",
+  "section_type": "48",
+  "source_name": "CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013 (SECTION 48) (CONSUMER PROTECTION) REGULATIONS 2025",
+  "document_name": "Pension Life Cover Scheme Rules_V001_202304.pdf"
+}
