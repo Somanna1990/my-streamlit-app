@@ -528,8 +528,12 @@ def main():
     log_expander = st.expander("View Activity Log")
     results_container = st.container()
     
-    # Refresh the status display
-    while True:
+    # Use session state to track if analysis is running
+    if 'analysis_started' not in st.session_state:
+        st.session_state.analysis_started = False
+    
+    # Update UI once initially, then use rerun for updates when process is running
+    def update_ui():
         # Update status and progress bar
         with status_placeholder.container():
             st.subheader("Current Activity")
@@ -539,7 +543,7 @@ def main():
             if process_progress == 100:
                 st.success("Analysis completed successfully!")
         
-        # Update completion metric (only once)
+        # Update completion metric
         with completion_metric.container():
             st.metric("Overall Completion", f"{process_progress}%")
             
@@ -614,13 +618,15 @@ def main():
                             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                             use_container_width=True
                         )
-        
-        # Sleep briefly to avoid consuming too many resources
-        time.sleep(0.1)
-        
-        # Break out of the loop if Streamlit is rerunning
-        if not process_running and process_progress == 0:
-            break
+    
+    # Initial UI update
+    update_ui()
+    
+    # If process is running, set up auto-refresh
+    if process_running:
+        st.session_state.analysis_started = True
+        time.sleep(0.2)  # Small delay to avoid excessive CPU usage
+        st.experimental_rerun()  # Rerun the app to refresh the UI
 
 if __name__ == "__main__":
     main()
